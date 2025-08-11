@@ -1,7 +1,7 @@
 Date: 2025-08-12
 Tags:  [[mind-iteration]]
 
-# Another How to Get Rich
+# Another How to Get Rich Video
 
 一个千万级 Youtuber 与创业者 Ali Abdaal 以自述形式回答如何致富
 
