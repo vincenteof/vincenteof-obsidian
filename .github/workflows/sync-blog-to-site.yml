@@ -1,0 +1,45 @@
+name: Sync Blogs to vincenteof.xyz (via PR)
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "800 - Blogs/**"   # 仅当博客内容变更时触发
+
+jobs:
+  sync-and-pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Obsidian Vault
+        uses: actions/checkout@v3
+
+      - name: Clone Blog Site Repo
+        uses: actions/checkout@v3
+        with:
+          repository: vincenteof/vincenteof.xyz
+          token: ${{ secrets.DEPLOY_TOKEN }}
+          path: site
+          fetch-depth: 0
+
+      - name: Sync blog content to site
+        run: |
+          rm -rf site/content/blog
+          mkdir -p site/content/blog
+          cp -r "800 - Blogs/"* site/content/blog/
+
+      - name: Create Pull Request to Blog Site
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.DEPLOY_TOKEN }}
+          path: site
+          commit-message: "sync: update blogs from Obsidian Vault"
+          branch: sync/obsidian-blog
+          title: "Sync: Update Blogs from Obsidian Vault"
+          body: |
+            This PR syncs the latest Markdown blog content from `vincenteof-obsidian/800 - Blogs/` to `vincenteof.xyz/content/blog/`.
+
+            ✅ Triggered by changes in: `800 - Blogs/`
+            📝 Please review and merge if content looks good.
+          base: main
