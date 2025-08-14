@@ -1,5 +1,5 @@
 Date: 2025-08-13
-Tags: [[distributed system]]
+Tags: [[distributed-system]]
 
 # What even is a distributed systems
 

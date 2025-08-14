@@ -1,5 +1,5 @@
 Date: 2025-08-13
-Tags: [[distributed system]]
+Tags: [[distributed-system]]
 
 # Time, Clocks, and the Ordering of Events in a Distributed System
 
