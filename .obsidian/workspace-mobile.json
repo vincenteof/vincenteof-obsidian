@@ -11,10 +11,14 @@
             "id": "294a5bb2a079a4d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "400 - Zettelkasten/2025-08-17 ETH 计划.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-08-17 ETH 计划"
             }
           }
         ]
@@ -160,7 +164,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9960e285e6c13976",
+  "active": "294a5bb2a079a4d8",
   "lastOpenFiles": [
     "/400 - Zettelkasten/注意力是一种货币.md",
     "400 - Zettelkasten/注意力是一种货币.md",
