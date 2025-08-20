@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 - Zettelkasten/2025-08-17 ETH 计划.md",
+                "file": "400 - Zettelkasten/注意力是一种货币.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-17 ETH 计划"
+              "title": "注意力是一种货币"
             }
           }
         ]
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,6 +167,7 @@
   },
   "active": "294a5bb2a079a4d8",
   "lastOpenFiles": [
+    "400 - Zettelkasten/2025-08-17 ETH 计划.md",
     "400 - Zettelkasten/Noir 与 Cairo.md",
     "/400 - Zettelkasten/注意力是一种货币.md",
     "/400 - Zettelkasten/Noir 与 Cairo.md",
@@ -195,7 +197,6 @@
     "/980 - Task Management/980.1 - Portfolio Site.md",
     "980 - Task Management/980.1 - Portfolio Site.md",
     "/980 - Task Management",
-    "400 - Zettelkasten/2025-08-17 ETH 计划.md",
     "/300 - Daily Notes/2025-08-17.md",
     "/300 - Daily Notes/2025-08-16.md",
     "/300 - Daily Notes/2025-08-08.md",
