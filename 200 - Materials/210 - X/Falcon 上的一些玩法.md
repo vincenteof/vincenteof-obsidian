@@ -7,3 +7,4 @@ Tags: [[farming]]
 # References
 https://x.com/Eason_2099/status/1957360859124281486
 https://x.com/quant_sheep/status/1956895797716619380
+https://x.com/Logic060/status/1956883692686860453
