@@ -1,7 +1,9 @@
 Date: 2025-08-22
-Tags: 
+Tags: [[trade]]
 
 # 关于 SBET 与 ETHA 的套利策略
+
+核心思路时基于每股含 ETH 数
 
 
 
