@@ -3,7 +3,7 @@ Tags: [[trade]]
 
 # 关于 SBET 与 ETHA 的套利策略
 
-核心思路时基于每股含 ETH 数
+核心思路时基于每股含 ETH 数，可以得出约 7SBET = 4ETHA
 
 
 
