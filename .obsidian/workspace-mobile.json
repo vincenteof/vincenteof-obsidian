@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 - Materials/210 - X/Falcon 上的一些玩法.md",
+                "file": "2025-08-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Falcon 上的一些玩法"
+              "title": "2025-08-23"
             }
           }
         ]
@@ -177,6 +177,12 @@
   },
   "active": "294a5bb2a079a4d8",
   "lastOpenFiles": [
+    "200 - Materials/210 - X/Falcon 上的一些玩法.md",
+    "2025-08-23.md",
+    "400 - Zettelkasten/特斯拉帮助 xAI 建设光伏电站.md",
+    "200 - Materials/210 - X/常用 UI 组件设计.md",
+    "200 - Materials/210 - X/How a ZKEVM works.md",
+    "200 - Materials/210 - X/RareSkills ZK Book.md",
     "/400 - Zettelkasten/特斯拉帮助 xAI 建设光伏电站.md",
     "/400 - Zettelkasten/关于 SBET 与 ETHA 的套利策略.md",
     "400 - Zettelkasten/关于 SBET 与 ETHA 的套利策略.md",
@@ -204,13 +210,7 @@
     "400 - Zettelkasten/注意力是一种货币.md",
     "000 - Indexes/mev.md",
     "200 - Materials/250 - Articles/Why LLMs Can't Really Build Software.md",
-    "200 - Materials/210 - X/最好的 MEV 入门文章.md",
-    "300 - Daily Notes/2025-08-20.md",
-    "/200 - Materials/250 - Articles/Why LLMs Can't Really Build Software.md",
-    "/200 - Materials/250 - Articles/How AI researchers accidentally discovered that everything they thought about learning was wrong.md",
-    "200 - Materials/250 - Articles/How AI researchers accidentally discovered that everything they thought about learning was wrong.md",
     "/200 - Materials/250 - Articles",
-    "/200 - Materials/210 - X/最好的 MEV 入门文章.md",
     "/980 - Task Management",
     "200 - Materials/250 - Articles"
   ]
