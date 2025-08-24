@@ -11,24 +11,10 @@
             "id": "294a5bb2a079a4d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-08-23.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-08-23"
+              "title": "New tab"
             }
           }
         ]
@@ -175,8 +161,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "294a5bb2a079a4d8",
+  "active": "9960e285e6c13976",
   "lastOpenFiles": [
+    "/400 - Zettelkasten/以太坊全球节点分布.md",
+    "/400 - Zettelkasten/Variational Airdrop.md",
+    "400 - Zettelkasten/Variational Airdrop.md",
+    "/400 - Zettelkasten",
+    "/300 - Daily Notes/2025-08-23.md",
+    "300 - Daily Notes/2025-08-23.md",
+    "/300 - Daily Notes",
+    "/200 - Materials/210 - X/How Ethereum Address Derivation Works.md",
+    "/200 - Materials/210 - X/Good resources on ZK.md",
+    "200 - Materials/210 - X/Good resources on ZK.md",
+    "/200 - Materials/210 - X",
+    "/200 - Materials",
+    "/400 - Zettelkasten/关于 SBET 与 ETHA 的套利策略.md",
+    "400 - Zettelkasten/以太坊全球节点分布.md",
+    "/000 - Indexes/ethereum.md",
+    "000 - Indexes/ethereum.md",
+    "/000 - Indexes",
     "200 - Materials/210 - X/Falcon 上的一些玩法.md",
     "2025-08-23.md",
     "400 - Zettelkasten/特斯拉帮助 xAI 建设光伏电站.md",
@@ -184,9 +187,7 @@
     "200 - Materials/210 - X/How a ZKEVM works.md",
     "200 - Materials/210 - X/RareSkills ZK Book.md",
     "/400 - Zettelkasten/特斯拉帮助 xAI 建设光伏电站.md",
-    "/400 - Zettelkasten/关于 SBET 与 ETHA 的套利策略.md",
     "400 - Zettelkasten/关于 SBET 与 ETHA 的套利策略.md",
-    "/400 - Zettelkasten",
     "/200 - Materials/220 - Youtube/No friends but the hash function.md",
     "200 - Materials/220 - Youtube/No friends but the hash function.md",
     "/200 - Materials/220 - Youtube",
@@ -194,22 +195,7 @@
     "/200 - Materials/210 - X/RareSkills ZK Book.md",
     "/200 - Materials/210 - X/How a ZKEVM works.md",
     "/200 - Materials/210 - X/Falcon 上的一些玩法.md",
-    "/200 - Materials/210 - X",
-    "/200 - Materials",
-    "/000 - Indexes/design.md",
-    "000 - Indexes/design.md",
-    "/000 - Indexes",
-    "000 - Indexes/farming.md",
-    "000 - Indexes/health.md",
-    "400 - Zettelkasten/2025-08-17 ETH 计划.md",
-    "/999 - Templates/Daily Note.md",
     "/999 - Templates",
-    "/300 - Daily Notes/2025-08-20.md",
-    "/300 - Daily Notes/2025-08-16.md",
-    "/300 - Daily Notes",
-    "400 - Zettelkasten/注意力是一种货币.md",
-    "000 - Indexes/mev.md",
-    "200 - Materials/250 - Articles/Why LLMs Can't Really Build Software.md",
     "/200 - Materials/250 - Articles",
     "/980 - Task Management",
     "200 - Materials/250 - Articles"
