@@ -3,7 +3,7 @@ Tags: [[security]]
 
 # Web3 security tutorial
 
-This yotuber is very friendly to beginers in web3 security.
+This yotuber is very friendly to beginners in web3 security.
 
 # References
 https://x.com/CMhOeNnExY/status/1959931708733591913
