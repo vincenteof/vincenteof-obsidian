@@ -1,5 +1,5 @@
 Date: 2025-08-22
-Tags: [[design]]
+Tags: [[Remote/000 - Indexes/design]]
 
 # 常用 UI 组件设计
 
