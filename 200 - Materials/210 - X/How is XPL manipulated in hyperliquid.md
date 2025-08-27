@@ -3,7 +3,7 @@ Tags: [[trade]]
 
 # How is XPL manipulated in hyperliquid
 
-XPL is lanuched in pre-market in hyperliquid, and some attacker manipulated the price and made a lot of profit. I think this could only be done in pre-market because there is no external pirce to look up, and once the attacker control the order, he can easily wipe up all his counterparty. In pre-market, basically long 
+XPL is lanuched in pre-market in hyperliquid, and some attacker manipulated the price and made a lot of profit. I think this could only be done in pre-market because there is no external pirce to look up, and once the attacker control the order, he can easily wipe up all his counterparty. In pre-market, basically long has advantage over short, so the shorter cannot put infinite money to it.
 
 # References
 https://x.com/aoke_quant/status/1960503917319741677
