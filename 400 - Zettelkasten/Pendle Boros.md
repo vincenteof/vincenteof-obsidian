@@ -1,7 +1,14 @@
 Date: 2025-08-29
-Tags: 
+Tags: [[defi]] [[trade]]
 
 # Pendle Boros
+
+If 
+YU is Boros is very like YT, If you long YU you are longing the funding rate, and vice versa.
+YU only has a maturity date, the price of YU will become zero at maturity date.
+
+
+
 
 # References
 https://x.com/ViNc2453/status/1953398036748812713
