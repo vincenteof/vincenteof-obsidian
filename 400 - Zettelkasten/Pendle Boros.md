@@ -11,6 +11,8 @@ What's different here is:
 2. when you short YU, you pay underlying but received fixed
 It means that whether we are longing or shorting, we all receive some interests and pay some interests.
 
+For someone running delta netural funding rate strategy, since the funding rate may not be stable, he could add an YU short postion to lock the expected funding rate.
+
 
 
 
