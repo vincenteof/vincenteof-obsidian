@@ -29,3 +29,5 @@ https://x.com/quant_sheep/status/1953667222779703622
 https://x.com/ViNc2453/status/1956984292086861988
 https://x.com/wili_eth/status/1955205439949599153
 https://x.com/0xanonnnn/status/1960724076630302893
+https://x.com/JiamigouCn/status/1959184062721229043
+https://x.com/ZLiao3/status/1954379992626086160
