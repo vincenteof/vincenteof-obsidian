@@ -6,12 +6,14 @@ Tags: [[crypto]] [[eip]]
 Basically EIP7702 upgrades your EOA account to contract account. The concrete operation is to make your address signed to an contract, and your address will have the functionality that contract owns. 
 The risk comes in 2 direction: 
 1. If your account is signed to a malicious contract, you are definitely fucked
-2. If your account is signed to a good contract, but someone 
+2. If your account is signed to a good contract, but someone malicious phishes using the contract, you are fucked too (like smart contract vulnerabilities)
+
+
 
 
 # References
 https://x.com/galenyuan/status/1926659099170648344
-https://eip7702.io/
+https://eips.ethereum.org/EIPS/eip-7702
 https://www.quicknode.com/guides/ethereum-development/smart-contracts/eip-7702-smart-accounts
 https://x.com/erc4337/status/1909244749183160394
 https://x.com/gakonst/status/1908905871528353949
