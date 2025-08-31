@@ -3,15 +3,13 @@ Tags: [[macro]] [[bitcoin]]
 
 # Long term risk for Bitcoin
 
-Long term risk for Bitcoin is:
-1. quantum computing
-2. security budget
+**Long-term risks for Bitcoin include:**
+1. **Quantum computing**
+2. **Security budget**
 
-Since minner can choose whether follow bitcoin protocol's upgrade, and accept upgrade for anti quantum computing will make machines they own become useless, it's difficult for Bitcoin to upgratde to anti quantum computing.
+Since miners can choose whether or not to follow Bitcoin protocol upgrades, adopting an anti-quantum upgrade would likely render their existing mining machines obsolete. That makes it difficult for Bitcoin to transition smoothly to quantum-resistant cryptography.
 
-Security budget problem means when halving continues in the following years, minner's will be difficult to get profit, they will choose to shut down at some moment, and the hashrate for the bitcoin network will decrease. And it becomes easier for the attacker to issue 51% attack.
-
-
+The **security budget problem** arises because Bitcoin’s block rewards keep halving over time. As rewards shrink, miners may find it unprofitable to continue operating and eventually shut down their machines. This would reduce the network’s hashrate, lowering security and making a 51% attack easier to execute.
 
 
 # References
