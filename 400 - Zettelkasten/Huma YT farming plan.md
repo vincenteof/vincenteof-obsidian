@@ -3,6 +3,8 @@ Tags: [[farming]]
 
 # Huma YT farming plan
 
+1000 PST -> 60472 YT
+
 
 
 # References
