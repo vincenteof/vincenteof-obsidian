@@ -8,8 +8,12 @@ Some calculation:
 Huma YT has 10% underlying apy
 Huma YT has 2X points
 
+
 1000 PST -> 60472 YT
 
+
+1499.4 U -> 1439 PST
+88.89 PST -> 5512.17 YT
 
 
 # References
