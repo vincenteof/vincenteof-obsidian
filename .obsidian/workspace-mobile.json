@@ -11,10 +11,24 @@
             "id": "294a5bb2a079a4d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "400 - Zettelkasten/Huma YT farming plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Huma YT farming plan"
             }
           }
         ]
@@ -161,8 +175,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9960e285e6c13976",
+  "active": "294a5bb2a079a4d8",
   "lastOpenFiles": [
+    "400 - Zettelkasten/Space Mining.md",
+    "400 - Zettelkasten/EIP7702 and its danger.md",
+    "400 - Zettelkasten/Huma YT farming plan.md",
+    "300 - Daily Notes/2025-09-01.md",
     "/400 - Zettelkasten/Huma YT farming plan.md",
     "/400 - Zettelkasten/EIP7702 and its danger.md",
     "/400 - Zettelkasten/Space Mining.md",
@@ -192,10 +210,6 @@
     "/200 - Materials/220 - Youtube/RareDay talks.md",
     "200 - Materials/220 - Youtube/RareDay talks.md",
     "/200 - Materials/220 - Youtube",
-    "/200 - Materials/210 - X/JoltBook.md",
-    "200 - Materials/210 - X/JoltBook.md",
-    "/000 - Indexes/bitcoin.md",
-    "000 - Indexes/bitcoin.md",
     "/999 - Templates",
     "/200 - Materials/250 - Articles",
     "/980 - Task Management"
