@@ -13,7 +13,7 @@ It matures at 10/29, 56 days reamaining
 At current 11% IY:
 100 PST -> 6200 YT
 base yield = 6200 * 10% / 365 * 56 = 95.12 PST
-features = 
+features = 6200 * 
 
 
 
