@@ -7,9 +7,14 @@ Some calculation:
 1 PST = 1.04 U
 Huma YT has 10% underlying apy
 Huma YT has 2X points
+It matures at 10/29, 56 days reamaining
 
 
-1000 PST -> 60472 YT
+At current 11% IY:
+100 PST -> 6200 YT
+base yield = 6200 * 10% / 365 * 56 = 95.12 PST
+features = 
+
 
 
 1499.4 U -> 1439 PST
