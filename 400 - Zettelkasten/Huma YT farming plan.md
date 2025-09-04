@@ -15,13 +15,12 @@ At current 11% IY:
 base yield = 6200 * 10% / 365 * 56 = 95.12 PST
 feather yield = 6200 * 0.0666 * 56 = 23123 feathers
 
-according to s1, 23.87 feathers converts to 1 huma,
-feature yield = 968.72 huma = 968.72 * 0.0243 = 23.54u
+According to S1, 23.87 feathers converts to 1 huma,
+feature yield = 23123 / 23.87 = 968.7 huma = 968.72 * 0.0243 = 23.54u
 
+So total yield =  122.46 U, yield rate = 18%
+And $HUMA is also at its local bottom, if the price raise, the yield raise sharply
 
-
-1499.4 U -> 1439 PST
-88.89 PST -> 5512.17 YT
 
 
 # References
