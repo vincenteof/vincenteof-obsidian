@@ -19,7 +19,7 @@ According to S1, 23.87 feathers converts to 1 huma,
 feature yield = 23123 / 23.87 = 968.7 huma = 968.72 * 0.0243 = 23.54u
 
 So total yield =  122.46 U, yield rate = 18%
-And $HUMA is also at its local bottom, if the price raise, the yield raise sharply
+And $HUMA is also at its local bottom, if the price raise, the yield raise sharpely.
 
 
 
