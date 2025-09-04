@@ -16,9 +16,13 @@ Tags: [[wishlist]]
 
 
 **Spiritual**:
-- Bytedance 
+- Bytedance canteen
+- First class flight
+- Switzerland view
+	- the border between Switzerland and France
 
 # References
 https://x.com/taresky/status/1892472763287208333
 https://x.com/CoooolXyh/status/1918564111165608105
 https://x.com/benfryc/status/1962903971862872357
+https://x.com/kittycatsocute4/status/1934527083390136825
