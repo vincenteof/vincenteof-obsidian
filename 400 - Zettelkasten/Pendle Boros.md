@@ -16,9 +16,9 @@ For someone running delta netural funding rate strategy, since the funding rate 
 
 some strategy:
 1. directly trading YU based on Implied APY
-2. long spot and short perp, short YU to lock funding rate (It's very like long spot and short future to eat basis)
-3. long perp and long YU to fix funding cost
-4. arbitrage
+2. long spot and short perp, short YU to fix funding rate receivement (It's very like long spot and short future to eat basis)
+3. long perp and long YU to hedge funding rate payment in very bullish market
+4. triangular funding arbitrage between different exchanges
 
 
 
