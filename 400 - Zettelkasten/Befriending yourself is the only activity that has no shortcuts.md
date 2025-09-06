@@ -3,7 +3,7 @@ Tags: [[mind-iteration]]
 
 # Befriending yourself is the only activity that has no shortcuts
 
-I think befriending yourself is another way to say self acceptance. Most people 
+I think befriending yourself is another way of expressing self acceptance. Most people doesn't know who he is, making decisions based on the personality the society give him, which is the root cause of most pain in life. It's like playing a card but you don't even know what's your card is or solving a math problem but you don't know your 
 
 
 
