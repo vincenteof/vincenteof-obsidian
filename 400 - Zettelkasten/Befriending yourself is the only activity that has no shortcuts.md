@@ -3,9 +3,9 @@ Tags: [[mind-iteration]]
 
 # Befriending yourself is the only activity that has no shortcuts
 
-I think befriending yourself is another way of expressing self acceptance. Most people doesn't know who he is, making decisions based on the personality the society give him, which is the root cause of most pain in life. It's like playing a card but you don't even know what's your card is or solving a math problem but you don't know your 
+I think befriending yourself is another way of describing self-acceptance. Most people don't really know who they are, they make decisions based on the identity that society assigns they, which I believe is the root cause of most pain in life. It's like trying to play a card game without knowing what cards you’re holding, or attempting to solve a math problem without first understanding the prerequisites.
 
-
+So don't play tricks. Be brave, be honst and face who you truly are. As Joyce said: “Think you’re escaping and run into yourself. Longest way round is the shortest way home.”
 
 
 # References
