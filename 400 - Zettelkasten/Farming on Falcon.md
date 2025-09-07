@@ -7,7 +7,7 @@ What is USDf and sUSDf
 
 USDf is an overcollateralized synthetic dollar minted by Falcon.
 sUSDf is  the yield-bearing version of USDf which is minted when USDf is deposited and staked into Falcon's ERC-4626 vault.
-Holding USD
+Holding USDf only get points while sUSDf has underlying yields.
 
 In exchange for boosted yield, Falcon allow users to restake their sUSDf for a fixed-term tenure. Falcon will mint an ERC-721 NFT token to users, representing their locked position.
 
@@ -18,6 +18,7 @@ Stragtegy used by sUSDf vault:
 4. Liquidity Pools
 
 
+Reward is distributed based your staked share of the whole staking pool.
 
 
 Point Valuation
