@@ -10,3 +10,4 @@ Tags: [[farming]] [[defi]]
 # References
 https://docs.ethena.fi/
 https://x.com/imqianyi88/status/1954079519968833829
+https://x.com/imqianyi88/status/1964162903717925205
