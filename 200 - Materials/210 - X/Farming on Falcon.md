@@ -3,7 +3,10 @@ Tags: [[farming]]
 
 # Farming on Falcon
 
-What is USDF and SUSDF
+What is USDf and sUSDf
+
+USDf is an overcollateralized synthetic dollar minted by Falcon.
+sUSDf is  the yield-bearing version of USDf which is minted when USDf is deposited and staked into Falcon's ERC-4626 
 
 Point Valuation
 
