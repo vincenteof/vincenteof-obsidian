@@ -17,9 +17,10 @@ Stragtegy used by sUSDf vault:
 3. Cross-exchange Price Arbitrage
 4. Liquidity Pools
 
-
 Reward is distributed based your staked share of the whole staking pool. Because the vault follows ERC-4626 standard, you could verify sUDSf-to-USDf rate on-chain.
 https://etherscan.io/address/0xc8CF6D7991f15525488b2A83Df53468D682Ba4B0#readProxyContract
+
+One risk I found is that its 
 
 
 Point Valuation
