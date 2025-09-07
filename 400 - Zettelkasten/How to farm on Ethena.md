@@ -1,9 +1,15 @@
 Date: 2025-09-07
 Tags: [[farming]] [[defi]]
 
-# How Ethena works
+# How to farm on Ethena
 
-- [ ] figure out how Ethena works #active
+- [ ] learn out how to farm on Ethena #active
+
+revolving loan using PT
+
+by
+
+stake ena to farm ecosystem points
 
 
 
