@@ -20,12 +20,9 @@ Stragtegy used by sUSDf vault:
 Reward is distributed based your staked share of the whole staking pool. Because the vault follows ERC-4626 standard, you could verify sUDSf-to-USDf rate on-chain.
 https://etherscan.io/address/0xc8CF6D7991f15525488b2A83Df53468D682Ba4B0#readProxyContract
 
-One risk I found is that its 
+One risk I found is that its asset backing ratio is 107.7% but about 18% of its reserves are alt coins.
 
-
-Point Valuation
-
-YT calculator tool
+Use YT calculator tool to pick which pool is most cost-effective.
 
 # References
 https://x.com/Eason_2099/status/1957360859124281486
@@ -35,3 +32,4 @@ https://x.com/coinfoin_/status/1959170558773678176
 https://x.com/0xKISS/status/1961967143089758704
 https://pendle-yield-calculator.vercel.app/
 https://x.com/the_smart_ape/status/1963151730037924156
+https://docs.falcon.finance/
