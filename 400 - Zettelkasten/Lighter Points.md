@@ -3,6 +3,14 @@ Tags: [[farming]]
 
 # Lighter Points
 
+- [ ] valuation for lighter point #active 
+
+Point value = FDV * Airdrop Percentage * / Total Points
+
+For Airdrop Percentage, its between  15% to 50%, 30% is fair.
+250000 points is distributed each week, so if TGE happens in Q4, total points is in 10M to 12.5M.
+So again the key factor is FDV. Hyperliquid is a good reference. Its FDV is about 47B. If its FDV is 2B, about 1/20 of hyperliquid, the point value becomes about 50
+
 
 
 # References
