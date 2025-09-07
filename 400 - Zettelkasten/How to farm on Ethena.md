@@ -7,7 +7,7 @@ Tags: [[farming]] [[defi]]
 
 revolving loan using PT
 
-by
+buy yt after precise calculation
 
 stake ena to farm ecosystem points
 
