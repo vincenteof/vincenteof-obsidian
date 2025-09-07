@@ -3,7 +3,7 @@ Tags: [[farming]] [[defi]]
 
 # How Ethena works
 
-- [ ] figure out how Ethena works
+- [ ] figure out how Ethena works #active
 
 
 

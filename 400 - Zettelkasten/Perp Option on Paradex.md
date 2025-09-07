@@ -3,7 +3,7 @@ Tags: [[trade]] [[farming]]
 
 # Perp Option on Paradex
 
-- [ ] learn about perp option on paradex
+- [ ] learn about perp option on paradex #active
 
 # References
 https://x.com/Boywus/status/1963884996156174678
