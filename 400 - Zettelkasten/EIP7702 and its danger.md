@@ -15,8 +15,9 @@ The risk comes in 2 direction:
 https://x.com/galenyuan/status/1926659099170648344
 https://eips.ethereum.org/EIPS/eip-7702
 https://www.quicknode.com/guides/ethereum-development/smart-contracts/eip-7702-smart-accounts
+https://www.youtube.com/watch?v=ZFN2bYt9gNE&list=WL&index=2
+https://youtu.be/zIlDMeatZ94
 https://x.com/erc4337/status/1909244749183160394
 https://x.com/gakonst/status/1908905871528353949
-https://youtu.be/zIlDMeatZ94
 https://goplussecurity.medium.com/understanding-eip-7702-phishing-attacks-a-comprehensive-guide-to-protection-strategies-for-wallets-8e8372e3d5ea
 https://slowmist.medium.com/in-depth-discussion-on-eip-7702-and-best-practices-968b6f57c0d5
