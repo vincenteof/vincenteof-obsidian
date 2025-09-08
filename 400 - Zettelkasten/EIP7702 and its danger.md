@@ -8,13 +8,14 @@ The risk comes in 2 direction:
 1. If your account is signed to a malicious contract, you are definitely fucked
 2. If your account is signed to a good contract, but someone malicious phishes using the contract, you are fucked too (like smart contract vulnerabilities)
 
-
+The key to EIP7702 is `setcode` tx. After that tx, your account's code points to ann
 
 
 # References
 https://x.com/galenyuan/status/1926659099170648344
 https://eips.ethereum.org/EIPS/eip-7702
 https://www.quicknode.com/guides/ethereum-development/smart-contracts/eip-7702-smart-accounts
+https://www.youtube.com/watch?v=_k5fKlKBWV4&pp=ygUHRUlQNzcwMg%3D%3D
 https://www.youtube.com/watch?v=ZFN2bYt9gNE&list=WL&index=2
 https://youtu.be/zIlDMeatZ94
 https://x.com/erc4337/status/1909244749183160394
