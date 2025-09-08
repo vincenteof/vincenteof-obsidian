@@ -8,7 +8,7 @@ The risk comes in 2 direction:
 1. If your account is signed to a malicious contract, you are definitely fucked
 2. If your account is signed to a good contract, but someone malicious phishes using the contract, you are fucked too (like smart contract vulnerabilities)
 
-The key to EIP7702 is `setcode` tx. After that tx, your account's code points to ann
+The key to EIP7702 is `setcode` tx. After that tx, your account's code points to another smart contract.
 
 
 # References
