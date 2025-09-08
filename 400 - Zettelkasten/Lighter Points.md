@@ -12,7 +12,7 @@ For Airdrop Percentage, its between  15% to 50%, 30% is fair.
 
 So again the key factor is FDV. Hyperliquid is a good reference. Its FDV is about 47B. If its FDV is 2B, about 1/20 of hyperliquid, the point value becomes about 50. But this seems the highest expectation of the community.
 
-Since Lighter doesn't have fee on retail, so OI and TVL may be better metric than trading valume.
+Since Lighter doesn't have fee on retail, so OI and TVL may be better metric than trading valume. For these metrics, Hyperliquid is about 14.5 times to Lighter.
 
 
 
