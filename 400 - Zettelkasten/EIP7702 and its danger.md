@@ -10,6 +10,8 @@ The risk comes in 2 direction:
 
 The key to EIP7702 is `setcode` tx. After that tx, your account's code points to another smart contract.
 
+After having EIP7702, a single click may lead to loss of all your tokens. So don't sign anything you don't understand.
+
 
 # References
 
