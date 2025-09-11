@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Daily Notes/2025-09-05.md",
+                "file": "400 - Zettelkasten/Huma YT farming plan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-05"
+              "title": "Huma YT farming plan"
             }
           }
         ]
@@ -175,8 +175,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9960e285e6c13976",
+  "active": "294a5bb2a079a4d8",
   "lastOpenFiles": [
+    "/400 - Zettelkasten/Lighter Points.md",
+    "/400 - Zettelkasten/EIP7702 and its danger.md",
+    "/400 - Zettelkasten/Using LLM Textbook.md",
+    "400 - Zettelkasten/Using LLM Textbook.md",
+    "/400 - Zettelkasten",
+    "300 - Daily Notes/2025-09-05.md",
+    "400 - Zettelkasten/Solidity Riddles Solutions.md",
+    "Untitled 1.base",
+    "000 - Indexes/lesson.md",
+    "400 - Zettelkasten/How to farm on Ethena.md",
+    "Untitled.base",
+    "Untitled 2.base",
+    "400 - Zettelkasten/Befriending yourself is the only activity that has no shortcuts.md",
+    "400 - Zettelkasten/Farming on Falcon.md",
+    "400 - Zettelkasten/Codex.md",
+    "400 - Zettelkasten/Perp Option on Paradex.md",
+    "400 - Zettelkasten/ERC-4626.md",
+    "400 - Zettelkasten/Lighter Points.md",
+    "400 - Zettelkasten/Web3 Influencer Playbook.md",
+    "200 - Materials/210 - X/You Don't Need Animations.md",
+    "200 - Materials/240 - Books/The Sovereign Individual.md",
     "/Untitled.base",
     "/Untitled 2.base",
     "/Untitled 1.base",
@@ -184,34 +205,13 @@
     "/400 - Zettelkasten/Solidity Riddles Solutions.md",
     "/400 - Zettelkasten/Perp Option on Paradex.md",
     "/400 - Zettelkasten/Pendle Boros.md",
-    "/400 - Zettelkasten/Lighter Points.md",
     "/400 - Zettelkasten/How to farm on Ethena.md",
     "/400 - Zettelkasten/Farming on Falcon.md",
     "/400 - Zettelkasten/ERC-4626.md",
     "/400 - Zettelkasten/Codex.md",
     "/400 - Zettelkasten/Befriending yourself is the only activity that has no shortcuts.md",
-    "/400 - Zettelkasten/2025-08-25 Bitter lessons recently.md",
-    "/400 - Zettelkasten",
-    "/300 - Daily Notes/2025-08-30.md",
-    "/300 - Daily Notes/2025-08-12.md",
     "/300 - Daily Notes",
-    "/200 - Materials/240 - Books/The Sovereign Individual.md",
-    "/200 - Materials/240 - Books/No More Mr Nice Guy.md",
-    "200 - Materials/240 - Books/No More Mr Nice Guy.md",
     "/200 - Materials/240 - Books",
-    "/200 - Materials/210 - X/You Don't Need Animations.md",
-    "/000 - Indexes/lesson.md",
-    "/200 - Materials/210 - X",
-    "/200 - Materials",
-    "/000 - Indexes",
-    "400 - Zettelkasten/Huma YT farming plan.md",
-    "300 - Daily Notes/2025-09-05.md",
-    "400 - Zettelkasten/My Wishlist.md",
-    "400 - Zettelkasten/Use AI to create design.md",
-    "400 - Zettelkasten/Visual story writing.md",
-    "000 - Indexes/wishlist.md",
-    "400 - Zettelkasten/Pessimists and Optimists.md",
-    "/200 - Materials/220 - Youtube",
-    "/999 - Templates"
+    "/200 - Materials/210 - X"
   ]
 }
