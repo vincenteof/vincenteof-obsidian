@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Huma YT farming plan"
             }
+          },
+          {
+            "id": "cd914a85153968d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400 - Zettelkasten/Cash Flow Operation Plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cash Flow Operation Plan"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,8 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "294a5bb2a079a4d8",
+  "active": "cd914a85153968d8",
   "lastOpenFiles": [
+    "400 - Zettelkasten/Huma YT farming plan.md",
+    "400 - Zettelkasten/Cash Flow Operation Plan.md",
     "/400 - Zettelkasten/Lighter Points.md",
     "/400 - Zettelkasten/EIP7702 and its danger.md",
     "/400 - Zettelkasten/Using LLM Textbook.md",
@@ -208,8 +235,6 @@
     "/400 - Zettelkasten/How to farm on Ethena.md",
     "/400 - Zettelkasten/Farming on Falcon.md",
     "/400 - Zettelkasten/ERC-4626.md",
-    "/400 - Zettelkasten/Codex.md",
-    "/400 - Zettelkasten/Befriending yourself is the only activity that has no shortcuts.md",
     "/300 - Daily Notes",
     "/200 - Materials/240 - Books",
     "/200 - Materials/210 - X"
