@@ -3,7 +3,7 @@ Tags: [[mind-iteration]]
 
 # DHH with Lex
 
-They are focusing on Ruby on Rails, Remote Job, Car Racing, AI, Vibe Coding, Marraige, Parenting, Flowm,
+They are focusing on Ruby on Rails, Remote Job, Car Racing, AI, Vibe Coding, Marraige, Parenting, Flow, Fortune and Luck.
 
 # References
 https://x.com/geekplux/status/1965946813858590826
