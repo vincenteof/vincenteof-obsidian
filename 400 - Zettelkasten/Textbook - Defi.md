@@ -5,7 +5,7 @@ Tags: [[crypto]]
 
 I generate a defi book using chatgpt, and I store it on notion. I will read it and do some labs on it.
 
-- [ ] finish the defi book and do the exercises #active 
+- [ ] finish the defi book chap 1 and 2 #active 
 
 
 # References

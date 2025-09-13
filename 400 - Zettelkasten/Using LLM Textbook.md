@@ -3,7 +3,7 @@ Tags: [[ai]]
 
 # Using LLM Textbook
 
-- [x] find the textbook prompt ✅ 2025-09-11
+- [x] find the textbook prompt
 
 The prompt should contain: textbook, curriculum, syllabus
 You can first let LLM generate prompt or syllabus, reviewing with it
