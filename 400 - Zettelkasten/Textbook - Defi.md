@@ -15,7 +15,12 @@ Exercises:
 7. Sketch the contents of a simple block
 8. The parent hash is the pointer for the chain. If someone alters a transaction in prev block, the block hash changes. And there will be mismatch for that block's hash and parent hash storing in the current block. 
 9. Alice must hold at less 12 tokens, and the order doesn't matter.
-10. 
+10. Maybe based on the oder?
+11. Minning puzzle is trying to find a nonce making the hash meet some requirements.
+12. Kind of lab.
+13. Kind of lab.
+14. Because the hash result is not predictable.
+15. 
 
 
 
