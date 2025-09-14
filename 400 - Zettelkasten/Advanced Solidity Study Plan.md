@@ -6,6 +6,7 @@ Tags: [[crypto]]
 I am trying to generate a textbook on Solidity, but the quality is not so good. 
 So I pivot to good material in the community.
 
+- [ ] play with the exercises #active 
 # References
 https://rareskills.io/learn-solidity
 https://github.com/RareSkills/Solidity-Exercises
