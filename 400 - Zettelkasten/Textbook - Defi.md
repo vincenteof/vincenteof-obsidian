@@ -20,7 +20,7 @@ Exercises:
 12. Kind of lab.
 13. Kind of lab.
 14. Because the hash result is not predictable.
-15. 
+15. Since directly altering the chain will be caught by the algorithm, the only way is to fork the chain at some point and make it the main. But finishing the minning puzzle is so difficult that you cannot save time, forking and becoming main is almost impossible. 
 
 
 
