@@ -6,11 +6,11 @@ Tags: [[crypto]]
 I am trying to generate a textbook on Solidity, but the quality is not so good. 
 So I pivot to good material in the community.
 
-- [ ] play with the first 5 exercises #active 
+- [x] play with the first 5 exercises #active ✅ 2025-09-16
+- [ ] play with CodeSize, CrossContract, Decoder, DeployContract exercises #active 
 
 Questions:
 1. How to prevent [Block Timestamp Manipulation](https://solidity-by-example.org/hacks/block-timestamp-manipulation/) using zk?
-2. 
 # References
 https://rareskills.io/learn-solidity
 https://github.com/RareSkills/Solidity-Exercises

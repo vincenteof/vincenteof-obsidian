@@ -5,7 +5,7 @@ Tags: [[crypto]]
 
 I generate a defi book using chatgpt, and I store it on notion. I will read it and do some labs on it.
 
-- [ ] Defi Book Chapter2  #active 
+- [x] Defi Book Chapter2 #active ✅ 2025-09-16
 Exercises:
 2. Since blockchain is a distributed network, nodes should agree on the network state. 
 3. In POW, a new node is created by minners, they compete with the minning puzzle to get the right to crate a new block. While in POS, the node creating the new block is random picked from stakers.
@@ -21,8 +21,12 @@ Exercises:
 13. Kind of lab.
 14. Because the hash result is not predictable.
 15. Since directly altering the chain will be caught by the algorithm, the only way is to fork the chain at some point and make it the main. But finishing the minning puzzle is so difficult that you cannot save time, forking and becoming main is almost impossible. 
-16. 
+16. For racing to do some task, since other RPC is not controllable and maybe down when transactions are crowded. Ethereum tps is about 20 currently.
+Labs:
+I used to implement some toy pow blockchain, these labs are very similar to it.
 
+
+- [ ] Defi Book Chapter3 #active 
 
 
 # References
