@@ -31,6 +31,11 @@ Ways to prevent Front-Running:
 1. use commit-reveal pattern if your contract involves actions could be exploited when seen
 2. send transactions to minners via private relays instead of mempool, e.g. Flashbots
 
+The will be gas auction when multiple bots compete to exploit something by spamming higher and higher gas prices. The whole class of things is called MEV.
+
+Exercises:
+1. 
+
 
 
 
