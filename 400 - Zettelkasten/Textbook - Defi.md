@@ -27,6 +27,11 @@ I used to implement some toy pow blockchain, these labs are very similar to it.
 
 
 - [ ] Defi Book Chapter3 #active 
+Ways to prevent Front-Running:
+1. use commit-reveal pattern if your contract involves actions could be exploited when seen
+2. send transactions to minners via private relays instead of mempool, e.g. Flashbots
+
+
 
 
 # References
