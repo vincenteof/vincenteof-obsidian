@@ -34,7 +34,8 @@ Ways to prevent Front-Running:
 The will be gas auction when multiple bots compete to exploit something by spamming higher and higher gas prices. The whole class of things is called MEV.
 
 Exercises:
-1. 
+1. The private key is used to generate and the public key is used to verify. When someone forge your digital signature without your private key, when being verified with the public, it will fail.
+2. Because it sends rewards before mutating the state, which introduces reentrancy attack. We can fix it using checks-effects-iteractions pattern.
 
 
 
