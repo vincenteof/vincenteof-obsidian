@@ -7,7 +7,8 @@ I am trying to generate a textbook on Solidity, but the quality is not so good.
 So I pivot to good material in the community.
 
 - [x] play with the first 5 exercises #active ✅ 2025-09-16
-- [ ] play with CodeSize, CrossContract, Decoder, DeployContract exercises #active 
+- [x] play with CodeSize, CrossContract, Decoder, DeployContract exercises #active ✅ 2025-09-18
+- [ ] play with Deployer, Distribute, DistributeV2, Divide, Donations
 
 Questions:
 1. How to prevent [Block Timestamp Manipulation](https://solidity-by-example.org/hacks/block-timestamp-manipulation/) using zk?
