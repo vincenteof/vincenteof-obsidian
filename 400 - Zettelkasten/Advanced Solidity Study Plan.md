@@ -8,7 +8,8 @@ So I pivot to good material in the community.
 
 - [x] play with the first 5 exercises #active ✅ 2025-09-16
 - [x] play with CodeSize, CrossContract, Decoder, DeployContract exercises #active ✅ 2025-09-18
-- [ ] play with Deployer, Distribute, DistributeV2, Divide, Donations #active 
+- [x] play with Deployer, Distribute, DistributeV2, Divide, Donations #active ✅ 2025-09-19
+- [ ] play with Emitter, Encoder, Enum, EverythingWorks, Exponent #active 
 
 Questions:
 1. How to prevent [Block Timestamp Manipulation](https://solidity-by-example.org/hacks/block-timestamp-manipulation/) using zk?
