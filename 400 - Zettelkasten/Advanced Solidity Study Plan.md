@@ -13,6 +13,7 @@ So I pivot to good material in the community.
 
 Questions:
 1. How to prevent [Block Timestamp Manipulation](https://solidity-by-example.org/hacks/block-timestamp-manipulation/) using zk?
+2. Implement an ERC20 token supports  `permit` operation
 # References
 https://rareskills.io/learn-solidity
 https://github.com/RareSkills/Solidity-Exercises
