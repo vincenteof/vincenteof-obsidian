@@ -22,6 +22,7 @@ Lighter also has some common infra for ZK, it maybe be more competitive when Eth
 https://x.com/c_dylanber/status/1957269172515385809
 https://x.com/c_dylanber/status/1939572932696780916
 http://x.com/Axel_bitblaze69/status/1964004399698636823
+https://x.com/0xTria/status/1968274799115083970
 #### zk
 http://x.com/c_dylanber/status/1963044895532449971
 https://x.com/hansolar21/status/1961387368218595470

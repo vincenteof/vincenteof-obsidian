@@ -26,7 +26,7 @@ Labs:
 I used to implement some toy pow blockchain, these labs are very similar to it.
 
 
-- [ ] Defi Book Chapter3 #active 
+- [x] Defi Book Chapter3 #active ✅ 2025-09-21
 Ways to prevent Front-Running:
 1. use commit-reveal pattern if your contract involves actions could be exploited when seen
 2. send transactions to minners via private relays instead of mempool, e.g. Flashbots
@@ -36,6 +36,8 @@ The will be gas auction when multiple bots compete to exploit something by spamm
 Exercises:
 1. The private key is used to generate and the public key is used to verify. When someone forge your digital signature without your private key, when being verified with the public, it will fail.
 2. Because it sends rewards before mutating the state, which introduces reentrancy attack. We can fix it using checks-effects-iteractions pattern.
+
+- [ ] Defi Book Chapter4 #active 
 
 
 

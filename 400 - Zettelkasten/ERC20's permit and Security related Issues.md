@@ -3,12 +3,14 @@ Tags: [[crypto]] [[security]]
 
 # ERC20's permit and Security related Issues
 
-- [ ] learn how ERC20 permit works #active 
+- [x] learn how ERC20 permit works #active ✅ 2025-09-21
 
 `permit` is an off-chain version of `approve`. You can generate a structual signature (EIP-712) off-chain which doesn't need gas and send it other service. That service will call the token's (EIP-2612) `permit` function and pay the gas. And your allowance for someone will be updated.
 
 EIP-712 aims to make the signed message  could be displayed in a readable way instead of raw hex string.
 EIP-2612 is an extension to ERC20 which adds the `permit` function. It accepts your signature and update your allowance.
+
+This feature is often used by attacker to phish users. Be careful with you sign message even it doesn't need gas.
 
 # References
 https://x.com/evilcos/status/1968631984739029206
