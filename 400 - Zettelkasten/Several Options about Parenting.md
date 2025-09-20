@@ -4,7 +4,9 @@ Tags: [[parenting]] [[mind-iteration]]
 # Several Options about Parenting
 
 1. Attention is rare resource, never give your kid infinite meaningless tasks. This is also true for adults.
-2. 
+2. Be the only one instead of being the better one.
+3. Ha
 
 # References
 https://x.com/ReynoldDai/status/1969312385799213354
+https://x.com/ReynoldDai/status/1968640902001275056
