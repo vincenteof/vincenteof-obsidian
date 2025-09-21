@@ -14,12 +14,12 @@ ENA has three components user can farm:
 
 USDe is the stable coin, which will give points if you hold it.
 sUSDe is the staked version of USDe, which has yield, but give you less points.
-sENA is the staked version of ENA, which also earn yields. And Ethena network memebers will also give rewards to sENA holder. We are mostly focusing on Terminal, Strata and Ethereak
+sENA is the staked version of ENA, which also earn yields. And Ethena network memebers will also give rewards to sENA holder. We are mostly focusing on Terminal, Strata and Ethereal. It also give you the boost for non-ENA position.
 
 
 
-4. revolving loan using PT
-5. 
+revolving loan using PT
+
 buy yt after precise calculation
 
 stake ena to farm ecosystem points
