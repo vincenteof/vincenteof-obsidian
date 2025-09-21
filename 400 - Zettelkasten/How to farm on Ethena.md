@@ -5,8 +5,9 @@ Tags: [[farming]] [[defi]]
 
 - [ ] learn out how to farm on Ethena #active
 
-revolving loan using PT
-
+## directly on ENA
+1. revolving loan using PT
+2. 
 buy yt after precise calculation
 
 stake ena to farm ecosystem points
