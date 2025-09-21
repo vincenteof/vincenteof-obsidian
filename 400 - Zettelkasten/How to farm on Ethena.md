@@ -6,8 +6,20 @@ Tags: [[farming]] [[defi]]
 - [ ] learn out how to farm on Ethena #active
 
 ## directly on ENA
-1. revolving loan using PT
-2. 
+
+ENA has three components user can farm:
+1. USDe
+2. sUSDe
+3. sENA
+
+USDe is the stable coin, which will give points if you hold it.
+sUSDe is the staked version of USDe, which has yield, but give you less points.
+sENA is the staked version of ENA, which also earn yields. And Ethena network memebers will also give rewards to sENA holder. We are mostly focusing on Terminal, Strata and Ethereak
+
+
+
+4. revolving loan using PT
+5. 
 buy yt after precise calculation
 
 stake ena to farm ecosystem points
