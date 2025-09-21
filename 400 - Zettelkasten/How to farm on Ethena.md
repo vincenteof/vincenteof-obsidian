@@ -15,14 +15,13 @@ ENA has three components user can farm:
 USDe is the stable coin, which will give points if you hold it.
 sUSDe is the staked version of USDe, which has yield, but give you less points.
 sENA is the staked version of ENA, which also earn yields. And Ethena network memebers will also give rewards to sENA holder. We are mostly focusing on Terminal, Strata and Ethereal. It also give you the boost for non-ENA position.
+Current Season 4 ends on 09/22.
 
-
-
-revolving loan using PT
-
-buy yt after precise calculation
-
-stake ena to farm ecosystem points
+If you want low risk yield, you can be LP on pendle. Most of the your position will be SY, and there will be also pendle reward. The total yield is about 10%.
+You can also buy PT when the fix yield is high, but this always happens when the pool is nearly mature. 
+You can add some leverage if you want to boost your PT yield using revolving loan. Be careful about the borrowing apy.
+If you have some insight of the iy and uy, you can buy yt, be sure to do some precise calculation. 
+You can also buy some
 
 
 
