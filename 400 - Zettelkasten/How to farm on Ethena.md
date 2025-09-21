@@ -32,5 +32,6 @@ Since Season 4 ends on 09/22, you could consider more on Teriminal, Strata and E
 # References
 https://docs.ethena.fi/
 https://deposit.strata.money/#/predeposit
+https://terminal.fi/roots
 https://x.com/imqianyi88/status/1954079519968833829
 https://x.com/imqianyi88/status/1964162903717925205
