@@ -9,11 +9,13 @@ So I pivot to good material in the community.
 - [x] play with the first 5 exercises #active ✅ 2025-09-16
 - [x] play with CodeSize, CrossContract, Decoder, DeployContract exercises #active ✅ 2025-09-18
 - [x] play with Deployer, Distribute, DistributeV2, Divide, Donations #active ✅ 2025-09-19
-- [ ] play with Emitter, Encoder, Enum, EverythingWorks, Exponent #active 
+- [x] play with Emitter, Encoder, Enum, EverythingWorks, Exponent #active ✅ 2025-09-22
+- [ ] play with Fibonacci, FilterOddNumbers, FizzBuzz, IdiotBetting, IfStatement #active 
 
 Questions:
 1. How to prevent [Block Timestamp Manipulation](https://solidity-by-example.org/hacks/block-timestamp-manipulation/) using zk?
 2. Implement an ERC20 token supports  `permit` operation
+3. precision related issues like fractional representation and calculation, and its related security topic
 # References
 https://rareskills.io/learn-solidity
 https://github.com/RareSkills/Solidity-Exercises
