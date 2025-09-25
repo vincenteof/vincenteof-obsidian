@@ -16,6 +16,9 @@ Questions:
 1. How to prevent [Block Timestamp Manipulation](https://solidity-by-example.org/hacks/block-timestamp-manipulation/) using zk?
 2. Implement an ERC20 token supports  `permit` operation
 3. precision related issues like fractional representation and calculation, and its related security topic
+
+Differences:
+1. memory array can only be fixed, storage array can be dynamic
 # References
 https://rareskills.io/learn-solidity
 https://github.com/RareSkills/Solidity-Exercises
