@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "2025-09-23"
             }
+          },
+          {
+            "id": "49edd0349a359cc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400 - Zettelkasten/Buy the dip of Shanghai property.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Buy the dip of Shanghai property"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,13 +226,14 @@
   },
   "active": "9960e285e6c13976",
   "lastOpenFiles": [
+    "300 - Daily Notes/2025-09-23.md",
+    "400 - Zettelkasten/Buy the dip of Shanghai property.md",
     "400 - Zettelkasten/Aster S2 Farming.md",
     "/400 - Zettelkasten/BP S3.md",
     "/400 - Zettelkasten/Aster S2 Farming.md",
     "/400 - Zettelkasten/Advanced Solidity Study Plan.md",
     "/400 - Zettelkasten",
     "300 - Daily Notes/2025-09-15.md",
-    "300 - Daily Notes/2025-09-23.md",
     "400 - Zettelkasten/Follow The Uncertain Path.md",
     "400 - Zettelkasten/Untitled.md",
     "400 - Zettelkasten/ERC20's permit and Security related Issues.md",
@@ -229,7 +254,6 @@
     "/400 - Zettelkasten/How to farm on Ethena.md",
     "/400 - Zettelkasten/Follow The Uncertain Path.md",
     "/400 - Zettelkasten/ERC20's permit and Security related Issues.md",
-    "/400 - Zettelkasten/Defi Cash Flow Strategy.md",
     "/200 - Materials/240 - Books",
     "/200 - Materials/210 - X",
     "/200 - Materials",
