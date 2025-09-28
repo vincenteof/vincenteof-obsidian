@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 - Zettelkasten/Buy the dip of Shanghai property.md",
+                "file": "300 - Daily Notes/2025-09-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Buy the dip of Shanghai property"
+              "title": "2025-09-28"
             }
           }
         ],
@@ -224,10 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9960e285e6c13976",
+  "active": "49edd0349a359cc6",
   "lastOpenFiles": [
-    "300 - Daily Notes/2025-09-23.md",
     "400 - Zettelkasten/Buy the dip of Shanghai property.md",
+    "300 - Daily Notes/2025-09-28.md",
+    "300 - Daily Notes/2025-09-23.md",
     "400 - Zettelkasten/Aster S2 Farming.md",
     "/400 - Zettelkasten/BP S3.md",
     "/400 - Zettelkasten/Aster S2 Farming.md",
@@ -253,7 +254,6 @@
     "/400 - Zettelkasten/Lighter Points.md",
     "/400 - Zettelkasten/How to farm on Ethena.md",
     "/400 - Zettelkasten/Follow The Uncertain Path.md",
-    "/400 - Zettelkasten/ERC20's permit and Security related Issues.md",
     "/200 - Materials/240 - Books",
     "/200 - Materials/210 - X",
     "/200 - Materials",
