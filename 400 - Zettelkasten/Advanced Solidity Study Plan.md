@@ -10,7 +10,8 @@ So I pivot to good material in the community.
 - [x] play with CodeSize, CrossContract, Decoder, DeployContract exercises #active ✅ 2025-09-18
 - [x] play with Deployer, Distribute, DistributeV2, Divide, Donations #active ✅ 2025-09-19
 - [x] play with Emitter, Encoder, Enum, EverythingWorks, Exponent #active ✅ 2025-09-22
-- [ ] play with Fibonacci, FilterOddNumbers, FizzBuzz, IdiotBetting, IfStatement #active 
+- [x] play with Fibonacci, FilterOddNumbers, FizzBuzz, IdiotBetting, IfStatement #active ✅ 2025-09-29
+- [ ] play with Immutable, InheritanceOverride, InsertInArray, IsPrime, IsSorted
 
 Questions:
 1. How to prevent [Block Timestamp Manipulation](https://solidity-by-example.org/hacks/block-timestamp-manipulation/) using zk?
