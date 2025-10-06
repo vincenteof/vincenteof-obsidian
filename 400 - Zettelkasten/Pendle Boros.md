@@ -13,13 +13,14 @@ It means that whether we are longing or shorting, we all receive some interests 
 
 For someone running delta netural funding rate strategy, since the funding rate may not be stable, he could add an YU short postion to lock the expected funding rate.
 
-some strategy:
+Some strategy:
 1. directly trading YU based on Implied APY
 2. long spot and short perp, short YU to fix funding rate receivement (It's very like long spot and short future to eat basis)
 3. long perp and long YU to hedge funding rate payment in very bullish market
 4. triangular funding arbitrage between different exchanges
 
-
+Now pendle boros has hyperliquid market which is usd based.
+- [ ] trade the funding rate on hyperliquid
 
 # References
 https://x.com/ViNc2453/status/1953398036748812713
@@ -32,3 +33,4 @@ https://pendle.gitbook.io/boros/boros-docs
 https://pendle.gitbook.io/boros
 https://youtu.be/7qCLL1oMyCo
 https://www.youtube.com/watch?v=Min3DxVpjzQ
+https://x.com/pendle_grandma/status/1971194267751084221
