@@ -14,7 +14,6 @@ So again the key factor is FDV. Hyperliquid is a good reference. Its FDV is abou
 
 Since Lighter doesn't have fee on retail, so OI and TVL may be better metric than trading valume. For these metrics, Hyperliquid is about 14.5 times to Lighter.
 
-
 Lighter also has some common infra for ZK, it maybe be more competitive when Ethereum comes to ZK era. The bridgeless architecture is lightweighted and maybe bettern than hyperliquid.
 
 # References
