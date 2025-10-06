@@ -13,7 +13,6 @@ It means that whether we are longing or shorting, we all receive some interests 
 
 For someone running delta netural funding rate strategy, since the funding rate may not be stable, he could add an YU short postion to lock the expected funding rate.
 
-
 some strategy:
 1. directly trading YU based on Implied APY
 2. long spot and short perp, short YU to fix funding rate receivement (It's very like long spot and short future to eat basis)
