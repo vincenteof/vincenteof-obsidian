@@ -3,8 +3,9 @@ Tags: [[macro]]
 
 # The Paradigm Shift SORA2 May Bring
 
-The scarity of a well-made vlog is disappearing because of SORA2. All industries related to vision and media will face a hard time since there will be infinite supply of this kind of resources.
-In the past, I will give a like to a boilerplate vlog as long as it's well made and the person is charming. The fortune these kols capture will flow to other people or comp
+The scarcity of well-made vlogs is vanishing because of SORA 2. All industries related to visual content and media will face a tough time, as there will soon be an infinite supply of such material.
+In the past, I would “like” a boilerplate vlog as long as it was well-produced and the creator appeared charming. But the fortune once captured by these KOLs will soon flow to others or to companies themselves. Since AI still struggles with long-form storytelling, professional actors are relatively safe for now. However, most influencers on YouTube, TikTok, and even OnlyFans may disappear within a few years. The value they once captured will shift toward companies like OpenAI and NVIDIA.
+SORA 2 itself is also highly addictive. It satisfies people’s desire to dream. I believe it’s an early glimpse of how _world models_ will begin to shape human life.
 
 
 # References
