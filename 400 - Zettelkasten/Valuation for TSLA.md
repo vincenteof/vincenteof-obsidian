@@ -6,3 +6,5 @@ Tags: [[macro]]
 - [ ] read the roadmap
 
 # References
+https://x.com/Tesla/status/1962591324022153607
+https://rabbit-hole.notion.site/2650616711418094bb74e38b58052acf
