@@ -1,7 +1,7 @@
 Date: 2025-08-13
 Tags: [[trade]] [[arbitrage]]
 
-# Armani提出的BP上的一种套利策略
+# An Arbitrage Strategy on BP by Armani
 
 假设你有 1 个 SOL 的现货，你可以自动借出他。然后用它再作为保证金进行 BTC 的分率套利，3到4倍杠杆都是比较安全的。这样，你可以吃到 5% 的 SOL利率及 10% 的 BTC 费率。采用一定杠杆可以得到余约 40% 的 APY。
 
