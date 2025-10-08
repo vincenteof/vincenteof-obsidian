@@ -3,7 +3,8 @@ Tags: [[macro]]
 
 # The Paradigm Shift SORA2 May Bring
 
-The scarity of a well-made vlog is disappearing because of SORA2.  
+The scarity of a well-made vlog is disappearing because of SORA2. All industries related to vision and media will face a hard time since there will be infinite supply of this kind of resources.
+In the past, I will give a like to a boilerplate vlog as long as it's well made and the person is charming. The fortune these kols capture will flow to other people or comp
 
 
 # References
