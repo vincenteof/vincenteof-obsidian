@@ -7,8 +7,6 @@ The scarcity of well-made vlogs is vanishing because of SORA 2. All industries r
 In the past, I would “like” a boilerplate vlog as long as it was well-produced and the creator appeared charming. But the fortune once captured by these KOLs will soon flow to others or to companies themselves. Since AI still struggles with long-form storytelling, professional actors are relatively safe for now. However, most influencers on YouTube, TikTok, and even OnlyFans may disappear within a few years. The value they once captured will shift toward companies like OpenAI and NVIDIA.
 SORA 2 itself is also highly addictive. It satisfies people’s desire to dream. I believe it’s an early glimpse of how _world models_ will begin to shape human life.
 
-- [ ] the evaluation for the fair buying price of nvda
-
 # References
 ### use cases for video
 https://x.com/levelsio/status/1975569685031891384
