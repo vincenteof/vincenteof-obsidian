@@ -4,9 +4,13 @@ Tags: [[macro]]
 # The Paradigm Shift SORA2 May Bring
 
 # References
-### use cases
+
+
+### use cases for video
 https://x.com/levelsio/status/1975569685031891384
 https://x.com/levelsio/status/1975505972765323447
 https://x.com/ewind_dev/status/1975699105038147911
+### use cases for pic
+https://x.com/cellinlab/status/1975117378100101410
 ### views
 https://x.com/iamai_eth/status/1975778759795220545
