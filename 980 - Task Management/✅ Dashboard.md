@@ -10,6 +10,10 @@ not done
 no tags
 ```
 
+
+### NotInterested
+
+
 ### Completed
 ```tasks
 done
