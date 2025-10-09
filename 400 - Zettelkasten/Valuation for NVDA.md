@@ -3,7 +3,7 @@ Tags: [[macro]]
 
 # Valuation for NVDA
 
-- [ ] read the report by AI to get a rough idea
+- [ ] read the report by AI to get a rough idea #active
 - [ ] read the opinion of influencers on X
 - [ ] do the valuation for the fair buying price of nvda
 

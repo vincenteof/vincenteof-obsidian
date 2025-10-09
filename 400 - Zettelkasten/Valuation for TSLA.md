@@ -3,7 +3,7 @@ Tags: [[macro]]
 
 # Valuation for TSLA
 
-- [ ] read the roadmap
+- [ ] read the roadmap #active
 
 # References
 https://x.com/Tesla/status/1962591324022153607
