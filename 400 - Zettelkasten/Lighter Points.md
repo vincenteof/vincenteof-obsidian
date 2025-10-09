@@ -16,12 +16,15 @@ Since Lighter doesn't have fee on retail, so OI and TVL may be better metric tha
 
 Lighter also has some common infra for ZK, it maybe be more competitive when Ethereum comes to ZK era. The bridgeless architecture is lightweighted and maybe bettern than hyperliquid.
 
+Another valuation is based on assumption that all the fees flow into llp and 70% of the llp return comes from fee. If Lighter remains same Fees/FDV ratios as HL, that implies FDV = $5.69B or $142 per lighter 
+
 # References
 #### valuation
 https://x.com/c_dylanber/status/1957269172515385809
 https://x.com/c_dylanber/status/1939572932696780916
 http://x.com/Axel_bitblaze69/status/1964004399698636823
 https://x.com/0xTria/status/1968274799115083970
+https://x.com/samyamtrading/status/1976241096691941456
 #### zk
 http://x.com/c_dylanber/status/1963044895532449971
 https://x.com/hansolar21/status/1961387368218595470

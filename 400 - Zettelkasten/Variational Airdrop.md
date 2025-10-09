@@ -9,3 +9,5 @@ Var's point compaign is very like BP. The more you trade, the lower spread and m
 
 # References
 https://x.com/lerolwen/status/1958798742393631191
+### ref code
+https://x.com/Metabape/status/1976300069533122784
