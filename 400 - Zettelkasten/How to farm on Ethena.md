@@ -27,6 +27,12 @@ You can also buy some ENA and hedge it to boost your yield when the funding rate
 
 Since Season 4 ends on 09/22, you could consider more on Teriminal, Strata and Ethereal. For Terminal and Strata, you can be LP on pendle using tUSDE and pUSDe. The yield is about 7% with extra yield.
 
+### Terminal 
+
+Since tUSDE captaures all the yields from sUSDe, the YT seems more valuable. IY under 12% is acceptable for me.
+
+- [ ] terminal points valuation
+
 
 
 # References
