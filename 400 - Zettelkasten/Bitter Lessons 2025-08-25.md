@@ -1,7 +1,7 @@
 Date: 2025-08-25
 Tags: [[lesson]]
 
-# Bitter lessons recently
+# Bitter Lessons 2025-08-25
 
 I hedged on SPK perp before I got the airdrop and I didn't notice the high negative funding rate (approximately 200%). Even if the price keep unchanged I am still losing money. Even worse, a short squeeze occurred afterwards. In the end I was forced to surrender because I have no more margin and I lost 3000 USD. The lessons are:
 1. Pick projects which seems reliable. In that case we don't need to hedge because the token can be viewd as call option even its price go down after airdrop. All tough issues like when to hedge, how much to hedge, at which prices to SL, don't even exist.
