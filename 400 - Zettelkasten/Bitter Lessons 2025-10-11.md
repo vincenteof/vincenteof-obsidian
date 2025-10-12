@@ -10,6 +10,11 @@ I think I was over opimistic because of my PNL is good recent times and being bl
 The total loss is about 7000 USD and I was able to reduce it. I told myself never use non USD collateral with over-night position but I didn't obey the rule.
 The market is non-predictable and you should always assume that your position will dump over 20% over night.
 And I should rethink about my ratio of investment between stock and cryptocurrency. Crypto market seems fragile and maybe the best strategy is only stacking BTC and ETH.
+The lessons are:
+1. When farming on perp, never use non USD collateral with over-neight position
+2. Always assuming the market will dump 20% over night and do the right risk controll
+3. Marigin is fragile especially when participating in crypto farming, the profit is limited and the risk is unlimmited
+
 
 
 # References
