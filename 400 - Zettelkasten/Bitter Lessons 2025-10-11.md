@@ -5,4 +5,6 @@ Tags: [[lesson]]
 
 - [ ] bitter lessons from big liquidation caused by trump
 
+
+
 # References
