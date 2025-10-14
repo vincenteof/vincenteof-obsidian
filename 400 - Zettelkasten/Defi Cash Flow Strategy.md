@@ -3,7 +3,7 @@ Tags: [[farming]] [[invest]]
 
 # Defi Cash Flow Strategy
 
-- [ ] conclude defi cash flow strategy
+- [ ] conclude defi cash flow strategy #not_interested
 
 pendle lp, pt
 ethena ecosystem
