@@ -31,7 +31,7 @@ Since Season 4 ends on 09/22, you could consider more on Teriminal, Strata and E
 
 Since tUSDE captaures all the yields from sUSDe, the YT seems more valuable. IY under 12% is acceptable for me.
 
-- [ ] terminal points valuation
+- [ ] terminal points valuation #not_interested
 
 
 

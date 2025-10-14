@@ -19,7 +19,7 @@ You can optimize it on 3 dimensions
 2. for more yield -> short high funding rate pairs
 3. for more airdrops -> choose the highest APY coins
 
-- [ ] learn hyper evm projects #active
+- [-] learn hyper evm projects #active ❌ 2025-10-14
 
 
 # References
