@@ -4,10 +4,11 @@ Tags: [[lesson]]
 # Why Some People Succeeded On 10-11 Crash
 
 - [ ] read the review #active 
-
+### You should have the monitor
+You should set the monitor for extreme price. Not only on one
 you have free money
 you have monitor (on different platforms)
-you have the insight that it's just the mess instead of real bad things happen (if you don't, choose binance related )
+you have the insight that it's just the mess instead of real bad things happen (if you don't, choose binance related)
 
 
 
