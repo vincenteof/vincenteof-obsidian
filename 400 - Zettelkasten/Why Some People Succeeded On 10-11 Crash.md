@@ -3,7 +3,7 @@ Tags: [[lesson]]
 
 # Why Some People Succeeded On 10-11 Crash
 
-- [ ] read the review #active 
+- [x] read the review #active ✅ 2025-10-14
 ### You should have the monitor
 You should set the monitor for extreme price, and one device is not enough. Serveral devices alarming at same time will wake you up.
 ### You should find the path
@@ -16,8 +16,12 @@ There are several concrete ideas:
 Place free money on different places, like Binance and warm wallet. When the mess happens, most used chains are very busy, you should find unpopular ones like sending USDT to Binance through Plasma. You should also be familiar with bridges, since most of your funds will not be on these chains.
 ### Other Insights
 During big liquidation, vault like hlp always make big profit. To maximize the yield, you can something like YT-hwHLP on pendle.
+When you find big depeg, you should have your idea of whether it's just mess or real bad things happens. If you don't, only buy assets related to binance.
 
-
+- [ ] set the monitor on three devices
+- [ ] write the program to find arbitrage path
+- [ ] store most assets on binance and warm wallet
+- [ ] familiar with serveral bridges
 
 # References
 https://x.com/taresky/status/1977938228381704601
