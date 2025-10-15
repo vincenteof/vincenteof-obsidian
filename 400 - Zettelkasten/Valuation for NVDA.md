@@ -12,6 +12,8 @@ possible risk:
 2. If no one make real profit from AI, then demand for computing power descreases.
 3. Paradigm shift on computing power, like quantum computer or other ASIC rather than common GPU.
 
+For 1, I don't see the trend that demand for GPU decreases, all the giant companies are developing new models with 多模态。
+
 
 - [ ] read the opinion of influencers on X
 
