@@ -5,7 +5,10 @@ Tags: [[macro]]
 
 - [ ] read the report by AI to get a rough idea #active
 
-Since all the 
+Since all the LLM company hasn't make profit, NVDA is the one captured most value in this AI cycle. It almost monopolizes the market of AI training on cloud.
+
+issue:
+1. big company are pursuing more 
 
 
 - [ ] read the opinion of influencers on X
