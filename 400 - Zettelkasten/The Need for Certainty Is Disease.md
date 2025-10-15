@@ -1,9 +1,9 @@
 Date: 2025-10-16
 Tags: [[mind-iteration]]
 
-# The Need for Certainty Is Disease
+# The Need For Certainty Is Disease
 
-The need for certainty is the greatest disease the mind faces. It's 
+The need for certainty is the greatest disease the mind faces. It's an illusion that king provides to people. The more you dare for it, the less you will have.
 
 # References
 https://x.com/ReynoldDai/status/1978383234510520810
