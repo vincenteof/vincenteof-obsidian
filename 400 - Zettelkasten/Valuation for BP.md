@@ -1,5 +1,5 @@
 Date: 2025-10-10
-Tags: [[macro]]
+Tags: [[macro]] [[valuation]]
 
 # Valuation for BP
 

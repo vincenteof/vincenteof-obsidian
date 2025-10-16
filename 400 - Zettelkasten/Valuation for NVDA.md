@@ -1,9 +1,9 @@
 Date: 2025-10-08
-Tags: [[macro]]
+Tags: [[macro]] [[valuation]]
 
 # Valuation for NVDA
 
-- [ ] read the report by AI to get a rough idea #active
+- [x] read the report by AI to get a rough idea #active ✅ 2025-10-16
 
 Since all the LLM company hasn't make profit, NVDA is the one captured most value in this AI cycle. It almost monopolizes the market of AI training on cloud. In short, it's the company selling the computing power. It's a platform for general-purpose parallel computing. The product it sells are
 1. GPU
@@ -23,9 +23,7 @@ potential risk:
 
 For 1, I don't see the trend that demand for GPU decreases, all the giant companies are developing new multimodal models. Once model is trainned, the demand for training still exist, since there will be finetuning for specific domain. Once the model war is finished, there will only be one or two winner, at that the deman for training will decrease.
 For 2, AI do have taken some jobs and seems promising, and whether it can really change the world will be seen in next 1 or 2 years.
-For 3, there are some trend like quantum computing
-
-
+For 3, there are some trend like quantum computing or photonic computing, but they are all at a very experimental stage. And they don't have ecosystem which means it will take very long time eat the shares. Another risk maybe ASIC and it's more practical.
 
 - [ ] read the opinion of influencers on X
 

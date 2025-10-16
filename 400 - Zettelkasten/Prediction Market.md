@@ -20,6 +20,7 @@ https://x.com/Baheet_/status/1966068533592207630
 https://x.com/PixOnChain/status/1959283346418127117
 https://x.com/PixOnChain/status/1914377412126638095
 https://x.com/_drNeyo/status/1967587486567194745
+https://x.com/0x_KevinZ/status/1978752013853725136
 ### insight
 https://x.com/hoidya_/status/1977749569615302891
 https://x.com/0xKaKa03/status/1977794661675909151
