@@ -20,7 +20,7 @@ Another valuation is based on assumption that all the fees flow into llp and 70%
 
 Lighter also airdrops memecoins. We can assume the total points are 10M, and the total supply for the meme coin is 1B, and half of it airdrops to points, so each point get 0.5B / 10M = 50 tokens. 
 
-
+We confirm that the first round of airdrop will be 25% ~ 30%.
 # References
 #### valuation
 https://x.com/c_dylanber/status/1957269172515385809
@@ -28,11 +28,12 @@ https://x.com/c_dylanber/status/1939572932696780916
 http://x.com/Axel_bitblaze69/status/1964004399698636823
 https://x.com/0xTria/status/1968274799115083970
 https://x.com/samyamtrading/status/1976241096691941456
-https://x.com/Tesla/status/1977443755256111109
-
+https://x.com/habitbreakerw/status/1978652591317004657
 #### zk
 http://x.com/c_dylanber/status/1963044895532449971
 https://x.com/hansolar21/status/1961387368218595470
 #### other perp dex
 https://x.com/c_dylanber/status/1962318388287688906
 https://x.com/c_dylanber/status/1961247538348204069
+### group
+https://x.com/satoshiheist/status/1978520918889574440

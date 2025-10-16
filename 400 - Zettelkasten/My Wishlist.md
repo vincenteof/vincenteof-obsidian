@@ -13,6 +13,7 @@ Tags: [[wishlist]]
 - Keyboard
 	- NuPhy
 	- Knob
+- Oppo Pad4 Pro
 
 
 **Spiritual**:
@@ -26,3 +27,4 @@ https://x.com/taresky/status/1892472763287208333
 https://x.com/CoooolXyh/status/1918564111165608105
 https://x.com/benfryc/status/1962903971862872357
 https://x.com/kittycatsocute4/status/1934527083390136825
+https://x.com/manateelazycat/status/1970497527205241269
