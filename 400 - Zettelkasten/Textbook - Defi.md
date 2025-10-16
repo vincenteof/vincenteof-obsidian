@@ -38,6 +38,8 @@ Exercises:
 2. Because it sends rewards before mutating the state, which introduces reentrancy attack. We can fix it using checks-effects-iteractions pattern.
 
 - [ ] Defi Book Chapter4 #active 
+Exercises:
+1. **collateral risk** DAI is over-collateralization, so there is a buffer for collateral value crashes. But if the vault becomes undercollateralized, liquidations happen. For usde, since it's fully hedged, it won't be affected too much. **peg mechanism risk** 
 
 
 
