@@ -9,3 +9,4 @@ Tags: [[distributed-system]]
 
 # References
 https://x.com/jerkeyray/status/1978542424638243118
+https://x.com/eatonphil/status/1977704772594463096
