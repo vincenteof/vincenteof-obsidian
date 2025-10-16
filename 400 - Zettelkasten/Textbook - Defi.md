@@ -39,7 +39,7 @@ Exercises:
 
 - [ ] Defi Book Chapter4 #active 
 Exercises:
-1. **collateral risk** DAI is over-collateralization, so there is a buffer for collateral value crashes. But if the vault becomes undercollateralized, liquidations happen. For usde, since it's fully hedged, it won't be affected too much. **peg mechanism risk** 
+1. **collateral risk** DAI is over-collateralization, so there is a buffer for collateral value crashes. But if the vault becomes undercollateralized, liquidations happen. For usde, since it's fully hedged, it won't be affected too much. **peg mechanism risk** for DAI, if its value is under 1, PSM will start and  arbitrageur will buy it to swap to USDC. For USDE, people can redeem USDE to get the value backed by it. **operational risk** Fo
 
 
 
