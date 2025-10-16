@@ -1,8 +1,9 @@
 ---
 title: Building a Modern Portfolio with Next.js
-date: '2025-07-30'
+date: 2025-07-30
 description: A deep dive into creating a performant and beautiful portfolio website using Next.js 13, React and Tailwind CSS.
-tags: ['Next.js', 'React', 'Tailwind CSS']
+tags:
+  - React
 readingTime: 5 min read
 ---
 
