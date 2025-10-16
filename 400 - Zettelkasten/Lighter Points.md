@@ -18,7 +18,8 @@ Lighter also has some common infra for ZK, it maybe be more competitive when Eth
 
 Another valuation is based on assumption that all the fees flow into llp and 70% of the llp return comes from fee. If Lighter remains same Fees/FDV ratios as HL, that implies FDV = $5.69B or $142 per lighter point.
 
-Lighter also airdrops memecoins. We can assume the total points are 10M, and the total supply for the meme coin is 1B, and half of it airdrops to points, so each point get 0.5B / 10M = 50 tokens. HL's meme coins market cap is 115M now, so 
+Lighter also airdrops memecoins. We can assume the total points are 10M, and the total supply for the meme coin is 1B, and half of it airdrops to points, so each point get 0.5B / 10M = 50 tokens. 
+
 
 # References
 #### valuation
@@ -28,6 +29,7 @@ http://x.com/Axel_bitblaze69/status/1964004399698636823
 https://x.com/0xTria/status/1968274799115083970
 https://x.com/samyamtrading/status/1976241096691941456
 https://x.com/Tesla/status/1977443755256111109
+
 #### zk
 http://x.com/c_dylanber/status/1963044895532449971
 https://x.com/hansolar21/status/1961387368218595470
