@@ -35,7 +35,7 @@ https://x.com/hansolar21/status/1961387368218595470
 #### other perp dex
 https://x.com/c_dylanber/status/1962318388287688906
 https://x.com/c_dylanber/status/1961247538348204069
-### group
+### growth
 https://x.com/satoshiheist/status/1978520918889574440
 ### tool
 https://x.com/c_dylanber/status/1979002654291562599
