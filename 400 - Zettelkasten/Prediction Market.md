@@ -33,6 +33,7 @@ https://x.com/cryptoxiaoxiang/status/1979076265207591076
 https://x.com/hoidya_/status/1977749569615302891
 https://x.com/0xKaKa03/status/1977794661675909151
 https://x.com/Nicki57457/status/1977579529704226930
+https://x.com/0x7a68/status/1979861520491356328
 ### projects
 https://x.com/blockphd7/status/1978077274311217204
 https://x.com/Alvin0617/status/1977789972934774917
