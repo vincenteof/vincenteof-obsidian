@@ -1,5 +1,5 @@
 Date: 2025-09-13
-Tags: [[crypto]]
+Tags: [[crypto]] [[solidity]]
 
 # Advanced Solidity Study Plan
 
