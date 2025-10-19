@@ -22,9 +22,14 @@ Questions:
 Differences:
 1. memory array can only be fixed, storage array can be dynamic
 # References
+### exercise
 https://rareskills.io/learn-solidity
 https://github.com/RareSkills/Solidity-Exercises
 https://github.com/RareSkills/solidity-riddles
 https://github.com/SunWeb3Sec/DeFiHackLabs
 https://github.com/OpenZeppelin/openzeppelin-contracts
+https://ethernaut.openzeppelin.com/
+### exmaple
 https://x.com/shafu0x/status/1977952413962170872
+### security
+https://x.com/S7iter_/status/1926582352483909741
