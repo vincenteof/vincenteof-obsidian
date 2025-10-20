@@ -29,11 +29,13 @@ https://x.com/beefnoode/status/1979524630793834918
 https://x.com/info_insightful/status/1979329834028511457
 https://x.com/Normanrockon/status/1979140341572997519
 https://x.com/cryptoxiaoxiang/status/1979076265207591076
+https://x.com/Kaseyibcc/status/1979877542778843339
 ### insight
 https://x.com/hoidya_/status/1977749569615302891
 https://x.com/0xKaKa03/status/1977794661675909151
 https://x.com/Nicki57457/status/1977579529704226930
 https://x.com/0x7a68/status/1979861520491356328
+https://x.com/Neon2089/status/1979998685217137054
 ### projects
 https://x.com/blockphd7/status/1978077274311217204
 https://x.com/Alvin0617/status/1977789972934774917
