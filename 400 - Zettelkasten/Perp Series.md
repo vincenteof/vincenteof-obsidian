@@ -20,7 +20,10 @@ I think the only ways works is to use hybrid oracle design, combining multiple p
 - CEX prices (with volume weighting across venues)
 - DEX prices (from high-liquidity pool only)
 - On-chain proof of reserves
-- Cross-exchange
+- Cross-exchange deiviation limits
+And every source should be independent. If manipulating one source affects another, you don't have redundancy.
+There are some other improvements we can do, read the "The Path Forward".
+https://x.com/yq_acc/status/1977433963728867630
 
 # References
 https://x.com/yq_acc/status/1978800996689293674
