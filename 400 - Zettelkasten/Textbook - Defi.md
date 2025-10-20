@@ -43,7 +43,8 @@ Exercises:
    https://chatgpt.com/share/68f17f2b-1fd4-8008-8bf9-c32d54d20457
 2. a. 150% b. 120% c. 12500 (according to 125% liquidation ratio) 
 3. Since heged, total value doesn't change
-4. If the stable coin has 
+4. If the stable coin has the real assets backed and has redeem, we can always arbitrage from depeg.
+
 
 
 
