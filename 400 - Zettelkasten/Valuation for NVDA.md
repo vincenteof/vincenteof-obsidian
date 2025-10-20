@@ -25,7 +25,7 @@ For 1, I don't see the trend that demand for GPU decreases, all the giant compan
 For 2, AI do have taken some jobs and seems promising, and whether it can really change the world will be seen in next 1 or 2 years.
 For 3, there are some trend like quantum computing or photonic computing, but they are all at a very experimental stage. And they don't have ecosystem which means it will take very long time eat the shares. Another risk maybe ASIC and it's more practical.
 
-- [ ] read the opinion of influencers on X
+- [ ] read the opinion of influencers on X #active 
 
 
 - [ ] do the valuation for the fair buying price of nvda
