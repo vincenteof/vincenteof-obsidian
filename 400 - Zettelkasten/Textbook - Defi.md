@@ -41,7 +41,9 @@ Exercises:
 Exercises:
 1. **collateral risk** DAI is over-collateralization, so there is a buffer for collateral value crashes. But if the vault becomes undercollateralized, liquidations happen. For usde, since it's fully hedged, it won't be affected too much. **peg mechanism risk** for DAI, if its value is under 1, PSM will start and  arbitrageur will buy it to swap to USDC. For USDE, people can redeem USDE to get the value backed by it. **operational risk** They both has the risk of being hacked. And USDE has extra risk since it relies on centeralized exhcange or custodian. Both for DAI and USDE, this kind of risk is fatal. Someone has to undertake the loss. **regulatory risk** DAI relies on USDC, so if USC blacklists its address, it will have trouble. USDE has KYC gating. And it yield-bearing version could be considered a security.
    https://chatgpt.com/share/68f17f2b-1fd4-8008-8bf9-c32d54d20457
-2. a. 150% b. 120% c. 12500 (according to 125% liquidation ratio) d. for 130%
+2. a. 150% b. 120% c. 12500 (according to 125% liquidation ratio) 
+3. Since heged, total value doesn't change
+4. If the stable coin has 
 
 
 
