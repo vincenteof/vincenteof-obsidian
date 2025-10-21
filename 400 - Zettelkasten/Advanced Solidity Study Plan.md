@@ -18,6 +18,7 @@ Questions:
 2. Implement an ERC20 token supports  `permit` operation
 3. precision related issues like fractional representation and calculation, and its related security topic
 4. How ERC20 staking works
+5. How stable coin works
 
 Differences:
 1. memory array can only be fixed, storage array can be dynamic
