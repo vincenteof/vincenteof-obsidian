@@ -19,7 +19,6 @@ Another way of evaluation is comparing lighter to robinhood, since they are all 
 
 Lighter also airdrops memecoins. We can assume the total points are 10M, and the total supply for the meme coin is 1B, and half of it airdrops to points, so each point get 0.5B / 10M = 50 tokens. 
 
-
 The long term story is that, ethereum is the chain has the best liquidity. As an L2, lighter is able to take defi primitive (like LP token) as collateral to open position with the lp token still earning fees.
 # References
 #### valuation
@@ -36,8 +35,9 @@ https://x.com/hansolar21/status/1961387368218595470
 #### other perp dex
 https://x.com/c_dylanber/status/1962318388287688906
 https://x.com/c_dylanber/status/1961247538348204069
-### growth
+### growth & insight
 https://x.com/satoshiheist/status/1978520918889574440
 https://x.com/Eugene_Bulltime/status/1980263699039334735
+https://x.com/Web3Feng/status/1980548912093274196
 ### tool
 https://x.com/c_dylanber/status/1979002654291562599

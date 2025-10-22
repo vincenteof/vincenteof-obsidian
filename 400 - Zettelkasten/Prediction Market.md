@@ -3,12 +3,10 @@ Tags:  [[crypto]] [[trade]]
 
 # Prediction Market
 ## How it works
-- [ ] figure out how it works #active
+- [ ] figure out how it works #active 
 
 ## How to make profit
 - [ ] learn how to make profit
-
-
 
 # References
 ## introdcution
@@ -19,6 +17,7 @@ https://x.com/Baheet_/status/1966068533592207630
 https://x.com/gusik4ever/status/1979577605431980114
 https://x.com/beefnoode/status/1979168076785684946
 https://x.com/Vey200209/status/1979375674176737673
+https://x.com/0xBitalk/status/1980545372213899381
 ## profit
 https://x.com/PixOnChain/status/1959283346418127117
 https://x.com/PixOnChain/status/1914377412126638095
