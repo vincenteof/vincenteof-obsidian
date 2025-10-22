@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Daily Notes/2025-10-21.md",
+                "file": "400 - Zettelkasten/My Trading System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-21"
+              "title": "My Trading System"
             }
           }
         ],
@@ -250,10 +250,11 @@
   },
   "active": "852771ced96e72cc",
   "lastOpenFiles": [
+    "300 - Daily Notes/2025-10-21.md",
+    "400 - Zettelkasten/My Trading System.md",
     "/400 - Zettelkasten/Advanced Solidity Study Plan.md",
     "/400 - Zettelkasten",
     "Untitled.md",
-    "300 - Daily Notes/2025-10-21.md",
     "300 - Daily Notes/2025-09-28.md",
     "400 - Zettelkasten/The Financial Trick OpenAI Plays.md",
     "400 - Zettelkasten/The only proof of skill is what you put in public.md",
@@ -276,7 +277,6 @@
     "400 - Zettelkasten/How I Almost Get Hacked By A Job Interview.md",
     "400 - Zettelkasten/Avoid Widom-Maker Strategy.md",
     "400 - Zettelkasten/Are you really prepared to become rich.md",
-    "200 - Materials/210 - X/Solidity Lib.md",
     "/980 - Task Management",
     "/800 - Blogs",
     "/300 - Daily Notes",
