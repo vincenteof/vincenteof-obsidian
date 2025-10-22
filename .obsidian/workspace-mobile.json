@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "2025-09-28"
             }
+          },
+          {
+            "id": "852771ced96e72cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 - Daily Notes/2025-10-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-21"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,8 +248,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9960e285e6c13976",
+  "active": "852771ced96e72cc",
   "lastOpenFiles": [
+    "/400 - Zettelkasten/Advanced Solidity Study Plan.md",
+    "/400 - Zettelkasten",
+    "Untitled.md",
+    "300 - Daily Notes/2025-10-21.md",
+    "300 - Daily Notes/2025-09-28.md",
     "400 - Zettelkasten/The Financial Trick OpenAI Plays.md",
     "400 - Zettelkasten/The only proof of skill is what you put in public.md",
     "400 - Zettelkasten/HLP Trading Strategy on Pendle.md",
@@ -248,10 +277,6 @@
     "400 - Zettelkasten/Avoid Widom-Maker Strategy.md",
     "400 - Zettelkasten/Are you really prepared to become rich.md",
     "200 - Materials/210 - X/Solidity Lib.md",
-    "400 - Zettelkasten/Arbitrage Strategy on BP by Armani.md",
-    "200 - Materials/210 - X/Airdrop Projects Around 2025-10-10.md",
-    "400 - Zettelkasten/A Cash Flow Strategy on $HYPE.md",
-    "000 - Indexes/solidity.md",
     "/980 - Task Management",
     "/800 - Blogs",
     "/300 - Daily Notes",
@@ -260,7 +285,6 @@
     "/200 - Materials/210 - X",
     "/200 - Materials",
     "/000 - Indexes",
-    "/400 - Zettelkasten",
     "/200 - Materials/230 - Podcasts"
   ]
 }
