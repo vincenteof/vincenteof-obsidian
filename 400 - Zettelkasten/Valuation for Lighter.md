@@ -15,10 +15,9 @@ Since Lighter doesn't have fee on retail, so OI and TVL may be better metric tha
 Lighter also has some common infra for ZK, it maybe be more competitive when Ethereum comes to ZK era. The bridgeless architecture is lightweighted and maybe bettern than hyperliquid.
 Another valuation is based on assumption that all the fees flow into llp and 70% of the llp return comes from fee. If Lighter remains same Fees/FDV ratios as HL, that implies FDV = $5.69B or $142 per lighter point.
 We confirm that the first round of airdrop will be 25% ~ 30%.
-Another way of evaluation is comparing lighter to robinhood, since they are all zero fee to retail. We know that crypto trading is 30% o
+Another way of evaluation is comparing lighter to robinhood, since they are all zero fee to retail. At the end of Q2, Robinhood's valuation was $83 billion, and crypto trading is 30% of robinhood's revenue (about $160 million for Q2, about 640 million an annualized basis). So we can estimate the added value the crypto market provides to Robinhood, is $24.6 billion by the end of Q2 2025. Lighter's annual revenue is currently $274 million, so it's valuation could be 42% * $24.6B = 10.5B. The price of 1 Point would be $264.
 
 Lighter also airdrops memecoins. We can assume the total points are 10M, and the total supply for the meme coin is 1B, and half of it airdrops to points, so each point get 0.5B / 10M = 50 tokens. 
-
 
 
 The long term story is that, ethereum is the chain has the best liquidity. As an L2, lighter is able to take defi primitive (like LP token) as collateral to open position with the lp token still earning fees.
