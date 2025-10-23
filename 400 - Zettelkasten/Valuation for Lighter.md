@@ -29,6 +29,7 @@ https://x.com/0xTria/status/1968274799115083970
 https://x.com/samyamtrading/status/1976241096691941456
 https://x.com/habitbreakerw/status/1978652591317004657
 https://x.com/Eugene_Bulltime/status/1980984059330183414
+https://x.com/habitbreakerw/status/1981179697200582965
 #### zk
 http://x.com/c_dylanber/status/1963044895532449971
 https://x.com/hansolar21/status/1961387368218595470
