@@ -11,3 +11,8 @@ Tags: [[trade]] [[invest]]
 要么高风险，股票，币，yt，期权、钱换积分
 
 # References
+### insight
+https://x.com/web3a99/status/1980818967704019111
+https://x.com/wquguru/status/1981271574205649059
+### project
+https://x.com/0xSleepinRain/status/1981290923326919035

@@ -4,6 +4,7 @@ Tags: [[macro]] [[valuation]]
 # Valuation for TSLA
 
 - [ ] read the roadmap #active
+- [ ] 2025 Q3 report
 
 # References
 https://x.com/Tesla/status/1962591324022153607

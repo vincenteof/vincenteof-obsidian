@@ -29,6 +29,7 @@ https://x.com/info_insightful/status/1979329834028511457
 https://x.com/Normanrockon/status/1979140341572997519
 https://x.com/cryptoxiaoxiang/status/1979076265207591076
 https://x.com/Kaseyibcc/status/1979877542778843339
+https://x.com/j0hnwang/status/1981446070447329474
 ### insight
 https://x.com/hoidya_/status/1977749569615302891
 https://x.com/0xKaKa03/status/1977794661675909151
