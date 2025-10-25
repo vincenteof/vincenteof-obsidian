@@ -19,6 +19,7 @@ https://x.com/beefnoode/status/1979168076785684946
 https://x.com/Vey200209/status/1979375674176737673
 https://x.com/0xBitalk/status/1980545372213899381
 https://x.com/gusik4ever/status/1980987864931602600
+https://x.com/wang_xiaolou/status/1980458877465555153
 ## profit
 https://x.com/PixOnChain/status/1959283346418127117
 https://x.com/PixOnChain/status/1914377412126638095
