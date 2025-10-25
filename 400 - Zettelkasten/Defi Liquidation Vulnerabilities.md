@@ -1,5 +1,5 @@
 Date: 2025-10-22
-Tags: [[defi]] [[crypto]]
+Tags: [[defi]] [[crypto]] [[security]]
 
 # Defi Liquidation Vulnerabilities
 
