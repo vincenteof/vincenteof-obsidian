@@ -3,7 +3,7 @@ Tags: [[mind-iteration]]
 
 # Avoid Swot Mind
 
-This kind of mind can be described as: Try to elim
+Swot mindset can be described as: Try to eliminate all kinds of uncertainty. But both good timing and luck is not predictable and can only be found by trial and error.
 
 
 
