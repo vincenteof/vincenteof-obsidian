@@ -4,11 +4,15 @@ Tags: [[trade]] [[invest]]
 
 - [ ] conclude first version #active 
 
+binance alpha
+500 ~ 1000 for yt
 资产本位
 杠铃策略
 去除中间地带的defi 套娃
 要么无风险，或者高tvl单层
 要么高风险，股票，币，yt，期权、钱换积分
+
+投资的最终目的是获得自由，
 
 # References
 ### insight
