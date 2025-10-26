@@ -30,7 +30,8 @@ binance alpha
 我参与的撸毛活动主要有以下几种：
 1. 币安 Alpha
 2. 币圈热门风向产品
-3. Pendle
+3. Pendle YT
+
 
 
 
