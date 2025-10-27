@@ -1,6 +1,6 @@
 Date: 2025-10-22
 Tags: [[trade]] [[invest]]
-# My Trading System
+# My Investment Framework
 
 - [ ] conclude first version #active 
 
@@ -31,6 +31,7 @@ binance alpha
 1. 币安 Alpha
 2. 币圈热门风向产品
 3. Pendle YT
+之前会为了 APY 会参加一些冷门的 DEFI 项目，但我思考后发现这些产品其实风险收益比不高，看上去是理财，但是风险敞口依然非常大，不论是项目被黑或是项目方跑路，都意味着全部本金风险亏损的风险。
 
 
 
