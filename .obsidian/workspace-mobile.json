@@ -78,33 +78,9 @@
               "icon": "lucide-file",
               "title": "2025-09-28"
             }
-          },
-          {
-            "id": "852771ced96e72cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "400 - Zettelkasten/My Trading System.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "My Trading System"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,42 +224,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "852771ced96e72cc",
+  "active": "49edd0349a359cc6",
   "lastOpenFiles": [
-    "300 - Daily Notes/2025-10-21.md",
     "400 - Zettelkasten/My Trading System.md",
-    "/400 - Zettelkasten/Advanced Solidity Study Plan.md",
+    "400 - Zettelkasten/My Investment Framework.md",
+    "400 - Zettelkasten/Introduction to MEV for  small capital.md",
+    "400 - Zettelkasten/Sports can relax your anxiety.md",
+    "400 - Zettelkasten/Rebuild Uniswap V2.md",
+    "400 - Zettelkasten/Avoid Swot Mind.md",
+    "400 - Zettelkasten/Pashove Audits.md",
+    "400 - Zettelkasten/Defi Liquidation Vulnerabilities.md",
+    "/400 - Zettelkasten/Valuation for TSLA.md",
+    "/400 - Zettelkasten/Valuation for Lighter.md",
+    "/400 - Zettelkasten/Textbook - Defi.md",
+    "/400 - Zettelkasten/Sports can relax your anxiety.md",
+    "/400 - Zettelkasten/Rebuild Uniswap V2.md",
+    "/400 - Zettelkasten/Prediction Market.md",
+    "/400 - Zettelkasten/Pashove Audits.md",
+    "/400 - Zettelkasten/My Investment Framework.md",
+    "/400 - Zettelkasten/Introduction to MEV for  small capital.md",
+    "/400 - Zettelkasten/Defi Liquidation Vulnerabilities.md",
+    "/400 - Zettelkasten/Avoid Swot Mind.md",
+    "/200 - Materials/220 - Youtube/Backend from first principles.md",
+    "200 - Materials/220 - Youtube/Backend from first principles.md",
+    "/200 - Materials/220 - Youtube",
+    "/200 - Materials",
     "/400 - Zettelkasten",
+    "300 - Daily Notes/2025-10-21.md",
+    "/400 - Zettelkasten/Advanced Solidity Study Plan.md",
     "Untitled.md",
     "300 - Daily Notes/2025-09-28.md",
     "400 - Zettelkasten/The Financial Trick OpenAI Plays.md",
-    "400 - Zettelkasten/The only proof of skill is what you put in public.md",
-    "400 - Zettelkasten/HLP Trading Strategy on Pendle.md",
-    "400 - Zettelkasten/Defi Core Primitives.md",
-    "400 - Zettelkasten/Valuation for BP.md",
-    "400 - Zettelkasten/Why Some People Succeeded On 10-11 Crash.md",
-    "400 - Zettelkasten/Valuation for TSLA.md",
-    "400 - Zettelkasten/Distributed Systems Hard Core Learning Path.md",
-    "400 - Zettelkasten/The Paradigm Shift SORA2 May Bring.md",
-    "400 - Zettelkasten/Valuation for NVDA.md",
-    "200 - Materials/210 - X/Andrej Karpathy's LLM.md",
-    "400 - Zettelkasten/Don't die for optimization.md",
-    "400 - Zettelkasten/Valuation for xAI.md",
-    "400 - Zettelkasten/Valuation For Etherum.md",
-    "400 - Zettelkasten/Perp Series.md",
-    "000 - Indexes/valuation.md",
-    "200 - Materials/210 - X/Open Account On Charles Schwab.md",
-    "000 - Indexes/perpetual.md",
-    "400 - Zettelkasten/How I Almost Get Hacked By A Job Interview.md",
-    "400 - Zettelkasten/Avoid Widom-Maker Strategy.md",
-    "400 - Zettelkasten/Are you really prepared to become rich.md",
     "/980 - Task Management",
     "/800 - Blogs",
     "/300 - Daily Notes",
     "/200 - Materials/240 - Books",
-    "/200 - Materials/220 - Youtube",
     "/200 - Materials/210 - X",
-    "/200 - Materials",
     "/000 - Indexes",
     "/200 - Materials/230 - Podcasts"
   ]
