@@ -18,7 +18,7 @@ Place free money on different places, like Binance and warm wallet. When the mes
 During big liquidation, vault like hlp always make big profit. To maximize the yield, you can something like YT-hwHLP on pendle.
 When you find big depeg, you should have your idea of whether it's just mess or real bad things happens. If you don't, only buy assets related to binance.
 
-- [ ] set the monitor on three devices #active 
+- [ ] set the monitor on three devices
 - [ ] write the program to find arbitrage path
 - [ ] store most assets on binance and warm wallet
 - [ ] familiar with serveral bridges

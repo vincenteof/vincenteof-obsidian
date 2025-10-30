@@ -15,6 +15,7 @@ Tags: [[trade]] [[invest]]
 1. 工资储蓄
 2. 币圈撸毛
 3. 自媒体
+4. 期权
 
 对于工资储蓄，我想做到的不是一味的节俭，而是 **杜绝一切“二手”欲望以及因为无聊而产生的消费**。后续可能会研究一些信用卡，尽可能降低消费成本同时保证生活品质。
 
@@ -35,6 +36,7 @@ Tags: [[trade]] [[invest]]
 https://x.com/web3a99/status/1980818967704019111
 https://x.com/wquguru/status/1980601239017779662
 https://x.com/Cbb0fe/status/1980576445438034287
+https://x.com/cmdefi/status/1983840009426739443
 ### project
 https://x.com/0xSleepinRain/status/1981290923326919035
 https://x.com/0xSleepinRain/status/1980933925775228944
