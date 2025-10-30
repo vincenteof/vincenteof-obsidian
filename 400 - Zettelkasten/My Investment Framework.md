@@ -39,14 +39,14 @@ Tags: [[trade]] [[invest]] [[trade-plan]]
 
 - [ ] 资金分布占比的具体计划 #active 
 
-我的目标是让长期持仓
+我的目标是让长期持仓占据个人总资本的 50% ~ 70%，撸毛资金约 10%，剩下约 20% 进行极低风险的理财。
 
 # References
 ### insight
-https://x.com/web3a99/status/1980818967704019111
 https://x.com/wquguru/status/1980601239017779662
 https://x.com/Cbb0fe/status/1980576445438034287
-https://x.com/cmdefi/status/1983840009426739443
+
 ### project
 https://x.com/0xSleepinRain/status/1981290923326919035
 https://x.com/0xSleepinRain/status/1980933925775228944
+https://x.com/cmdefi/status/1983840009426739443
