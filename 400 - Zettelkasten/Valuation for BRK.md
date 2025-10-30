@@ -14,7 +14,12 @@ Its philosophy is:
 1. only make long-term positive ev investment
 2. let the company they buyout run independently
 3. buy when other are fear and sell when other are greedy
-4. let the profit compound
+4. prefer compound profit to fast profit
+
+PB is better than PE for BRK, 1.4 - 1.6 is reasonable and 1.3 is good buying time. On 2025/10/30, it is 1.55.
+
+
+
 
 
 
