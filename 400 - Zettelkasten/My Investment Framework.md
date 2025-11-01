@@ -40,6 +40,14 @@ Tags: [[trade]] [[invest]] [[trade-plan]]
 - [ ] 资金分布占比的具体计划 #active 
 
 我的目标是让长期持仓占据个人总资本的 50% ~ 70%，撸毛资金约 10%，剩下约 20% 进行极低风险的理财。
+我有两个长期投资组合，一个主要关注改变世界范式的科技股（Alpha），另一个主要追踪美股大盘（Beta）。
+Alpha 投资组合主要有以下持仓：
+- BTC/ETH
+- TSLA
+- QQQ
+Beta 投资组合
+
+
 
 # References
 ### insight
