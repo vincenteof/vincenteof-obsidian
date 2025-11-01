@@ -7,3 +7,5 @@ Tags: [[defi]]
 # References
 https://x.com/0xKaKa03/status/1954939215399247933
 https://rdi.berkeley.edu/berkeley-defi/f24
+https://x.com/0xKaKa03/status/1983947113865343132
+https://rdi.berkeley.edu/berkeley-defi/f25
