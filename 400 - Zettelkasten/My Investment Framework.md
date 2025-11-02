@@ -72,7 +72,9 @@ Beta 投资组合主要有以下持仓：
 
 - [ ] fix the improvement raised by AI #active 
 
-针对长期投资组合，
+针对长期投资 Alpha 组合，我的再平衡机制主要为 **从高波动资产平衡到低波动资产**, 比如从 BTC/ETH 平衡到美股，从个股平衡到 QQQ，从 QQQ 平衡到现金或者类似 SGOV 这样的现金等价物。当 Alpha 资产占据 Alpha 投资组合的超过 80％ 自动减仓。
+
+而长期投资的 Beta 组合，主要跟踪
 
 # References
 ### insight
