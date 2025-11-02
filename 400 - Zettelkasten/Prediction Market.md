@@ -42,6 +42,7 @@ https://x.com/agintender/status/1981300383982244285
 https://x.com/0xDoraaa/status/1979501179240374599
 https://x.com/0xTykoo/status/1981287488116445438
 https://x.com/WinForKakei/status/1982800688519450677
+https://x.com/ec_unoxx/status/1983580778660557076
 ### projects
 https://x.com/blockphd7/status/1978077274311217204
 https://x.com/Alvin0617/status/1977789972934774917

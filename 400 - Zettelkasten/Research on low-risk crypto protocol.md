@@ -16,3 +16,4 @@ https://x.com/taowang1/status/1954784863875399986
 https://x.com/0xSleepinRain/status/1981290923326919035
 https://x.com/0xSleepinRain/status/1980933925775228944
 https://x.com/cmdefi/status/1983840009426739443
+https://x.com/cmdefi/status/1983840009426739443
