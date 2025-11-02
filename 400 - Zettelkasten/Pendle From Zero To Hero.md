@@ -10,3 +10,4 @@ Tags: [[trade]] [[farming]]
 ### projects
 https://x.com/imqianyi88/status/1984488715776114893
 https://x.com/imqianyi88/status/1984218704133923153
+https://x.com/imqianyi88/status/1984843098141421957
