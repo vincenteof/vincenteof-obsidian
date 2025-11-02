@@ -72,7 +72,7 @@ Beta 投资组合主要有以下持仓：
 
 - [ ] fix the improvement raised by AI #active 
 
-
+针对长期投资组合，
 
 # References
 ### insight
