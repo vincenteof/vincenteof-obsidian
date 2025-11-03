@@ -81,7 +81,7 @@ Beta 投资组合主要有以下持仓：
 
 长期投资组合用 Google Sheet 记录，每个季度进行再平衡与复盘。低风险收益理财主要是稳定币，直接用钱包统计即可。撸毛也主要用 Google Sheet 记录，每次开始及 TGE 时更新。年终进行整体复盘。
 
-- [ ] setup the google sheet #active 
+- [x] setup the google sheet #active ✅ 2025-11-03
 
 
 
