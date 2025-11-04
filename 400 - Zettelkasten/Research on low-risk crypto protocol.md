@@ -10,10 +10,14 @@ TAL 更能表明需求端的强劲，说明流动性在被正在使用，而非�
 - [ ] evaluate for long term participation #active 
 
 
+
 # References
-https://x.com/humafinance/status/1954769768336314771
-https://x.com/taowang1/status/1954784863875399986
+spark
 https://x.com/0xSleepinRain/status/1981290923326919035
 https://x.com/0xSleepinRain/status/1980933925775228944
 https://x.com/cmdefi/status/1983840009426739443
 https://x.com/cmdefi/status/1983840009426739443
+## huma
+https://x.com/humafinance/status/1954769768336314771
+https://x.com/LumaoDoggie/status/1985151049603408092
+https://x.com/taowang1/status/1954784863875399986
