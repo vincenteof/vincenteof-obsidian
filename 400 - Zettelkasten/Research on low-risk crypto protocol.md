@@ -18,6 +18,8 @@ https://x.com/cmdefi/status/1983840009426739443
 https://x.com/cmdefi/status/1983840009426739443
 ## morpho
 https://x.com/Loki_Zeng/status/1985643534419108075
+https://x.com/DU09BTC/status/1985695777721549283
+https://x.com/deepcryptodive/status/1985693763121889722
 ## huma
 https://x.com/humafinance/status/1954769768336314771
 https://x.com/LumaoDoggie/status/1985151049603408092

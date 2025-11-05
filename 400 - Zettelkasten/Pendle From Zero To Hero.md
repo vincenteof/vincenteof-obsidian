@@ -3,6 +3,8 @@ Tags: [[trade]] [[farming]]
 
 # Pendle From Zero To Hero
 
+- [ ] Why PT users exist make IY higher #active 
+
 - [ ] try to monitor pools on pendle #active 
 
 
@@ -13,3 +15,5 @@ https://x.com/imqianyi88/status/1984218704133923153
 https://x.com/imqianyi88/status/1984843098141421957
 ## tools
 https://pendle-yield-calculator.vercel.app/
+## insight
+https://x.com/an_le23998/status/1985948554452770972
