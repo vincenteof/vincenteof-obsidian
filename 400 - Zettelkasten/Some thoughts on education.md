@@ -4,7 +4,10 @@ Tags: [[parenting]] [[mind-iteration]]
 # Some Thoughts on education
 
 In AI era, paradigm shift also happens on education.
-Too much homework doesn't make any sense, since most memorizing problems are meaningless with AI. We should prioritize fundational skills like math, history, economy and even science fiction to understand the complex 
+We should prioritize fundational skills like math, history, economy and even science fiction over rote homework. Engaging more on outdoor sports since this compounds to your physical and mental health, which is the AI-displaceable skills in a tech-driven future.
+Never force yourself fit the obsolete system.
+
+
 
 
 # References
