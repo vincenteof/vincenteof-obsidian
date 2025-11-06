@@ -33,11 +33,14 @@ Since tUSDE captaures all the yields from sUSDe, the YT seems more valuable. IY 
 
 - [ ] terminal points valuation #not_interested
 
+### Strata
 
 
 # References
+## core
 https://docs.ethena.fi/
-https://deposit.strata.money/#/predeposit
-https://terminal.fi/roots
+https://x.com/ethena_labs/status/1986078303120400660
+
 https://x.com/imqianyi88/status/1954079519968833829
 https://x.com/imqianyi88/status/1964162903717925205
+https://x.com/PendleIntern/status/1986377510972792964
