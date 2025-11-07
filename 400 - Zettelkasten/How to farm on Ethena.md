@@ -31,16 +31,17 @@ Since Season 4 ends on 09/22, you could consider more on Teriminal, Strata and E
 
 Since tUSDE captaures all the yields from sUSDe, the YT seems more valuable. IY under 12% is acceptable for me.
 
-- [ ] terminal points valuation #not_interested
+- [ ] terminal points valuation 
 
 ### Strata
 
+- [ ] strata points valuation
 
 # References
 ## core
 https://docs.ethena.fi/
 https://x.com/ethena_labs/status/1986078303120400660
-
+## valuation
 https://x.com/imqianyi88/status/1954079519968833829
 https://x.com/imqianyi88/status/1964162903717925205
 https://x.com/PendleIntern/status/1986377510972792964
