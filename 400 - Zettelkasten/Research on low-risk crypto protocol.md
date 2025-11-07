@@ -26,6 +26,8 @@ https://x.com/Loki_Zeng/status/1985643534419108075
 https://x.com/DU09BTC/status/1985695777721549283
 https://x.com/deepcryptodive/status/1985693763121889722
 https://x.com/cmdefi/status/1986249296413606186
+https://x.com/antonttc/status/1986724207577985220
+https://x.com/Slutsky___/status/1986710768029712414
 ## huma
 https://x.com/humafinance/status/1954769768336314771
 https://x.com/LumaoDoggie/status/1985151049603408092

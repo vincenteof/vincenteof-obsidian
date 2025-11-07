@@ -24,3 +24,5 @@ https://x.com/QihongF44102/status/1984059730869055950
 https://x.com/oran_ge/status/1984026986055090221
 https://x.com/dotey/status/1983612904428495059
 https://x.com/joely7758521/status/1983502078002761921
+https://x.com/TJ_Research01/status/1986711198700818789
+https://x.com/JamesLt196801/status/1986627773881065987
