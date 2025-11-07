@@ -3,16 +3,17 @@ Tags: [[macro]] [[valuation]]
 
 # Valuation for TSLA
 
+TSLA use synthesis to simulate edge cases, a world model for vison based fsd.
+
 - [ ] read the roadmap #active
 - [ ] 2025 Q3 report
-
-use synthesis to simulate edge cases, a world model for vison based fsd
+- [ ] watch the annual shareholder meeting
 
 # References
 ###  roadmap
 https://x.com/Tesla/status/1962591324022153607
 https://x.com/Tesla/status/1977443755256111109
-
+https://www.youtube.com/watch?v=VGPlvmMjPtE
 
 ### insight
 https://rabbit-hole.notion.site/2650616711418094bb74e38b58052acf
