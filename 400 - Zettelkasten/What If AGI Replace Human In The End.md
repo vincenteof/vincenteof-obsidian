@@ -11,3 +11,4 @@ Bad cases: ...
 https://x.com/raycat2021/status/1986426531393220995
 https://x.com/raycat2021/status/1986423766298316947
 https://x.com/wangwatchworld/status/1986836268488249824
+https://x.com/python_xxt/status/1987180214221480194

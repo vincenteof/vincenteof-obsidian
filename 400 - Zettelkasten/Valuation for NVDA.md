@@ -34,4 +34,7 @@ For 3, there are some trend like quantum computing or photonic computing, but th
 
 
 # References
+## Insight
 https://x.com/iamai_eth/status/1975778759795220545
+## Risk
+https://x.com/Tz_2022/status/1986820222842548679
