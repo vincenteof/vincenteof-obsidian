@@ -5,6 +5,7 @@ Tags: [[trade]] [[farming]]
 
 - [ ] 1. Why PT users exist make IY higher 2. Why PT moves oppsite way from  YT #active 
 
+
 - [ ] try to monitor pools on pendle #active 
 
 
