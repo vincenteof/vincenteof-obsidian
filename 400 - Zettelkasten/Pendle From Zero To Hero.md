@@ -4,7 +4,7 @@ Tags: [[trade]] [[farming]]
 # Pendle From Zero To Hero
 
 - [ ] 1. Why PT users exist make IY higher 2. Why PT moves oppsite way from  YT #active 
-
+Sine `PT + YT = SY`， it means that the price of PT and YT moves in a oppsite way. Although YT moves to 0 and PT moves to SY when maturity is coming, it's still possible that YT goes high while PT goes down at some point based on trader's expectation.
 
 - [ ] try to monitor pools on pendle #active 
 
