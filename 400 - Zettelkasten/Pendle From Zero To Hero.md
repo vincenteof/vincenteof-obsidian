@@ -6,7 +6,9 @@ Tags: [[trade]] [[farming]]
 - [ ] 1. Why PT users exist make IY higher 2. Why PT moves oppsite way from  YT #active 
 Sine `PT + YT = SY`， it means that the price of PT and YT moves in a oppsite way. Although YT moves to 0 and PT moves to SY when maturity is coming, it's still possible that YT goes high while PT goes down at some point based on trader's expectation.
 
-Pendle has an AMM for PT and SY, and YT is derived. So PT and SY is the real liquidity. When some one is buying PT, the pool will have has more SY and less PT, so the PT price is goes up,
+Pendle has an AMM for PT and SY, and YT is derived. So PT and SY is the real liquidity. When some one is trading PT, the point move on the AMM curve. Buy PT means put SY and get PT. And sell PT means the oppsite direction.
+
+Trading YT is indirect. Buy YT means first minting PT and YT using SY, then swap 
 
 - [ ] try to monitor pools on pendle #active 
 
