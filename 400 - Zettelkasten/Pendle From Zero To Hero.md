@@ -3,12 +3,12 @@ Tags: [[trade]] [[farming]]
 
 # Pendle From Zero To Hero
 
-- [ ] 1. Why PT users exist make IY higher 2. Why PT moves oppsite way from  YT #active 
+- [x] 1. Why PT users exist make IY higher 2. Why PT moves oppsite way from  YT #active ✅ 2025-11-09
 Sine `PT + YT = SY`， it means that the price of PT and YT moves in a oppsite way. Although YT moves to 0 and PT moves to SY when maturity is coming, it's still possible that YT goes high while PT goes down at some point based on trader's expectation.
 
 Pendle has an AMM for PT and SY, and YT is derived. So PT and SY is the real liquidity. When some one is trading PT, the point move on the AMM curve. Buy PT means put SY and get PT. And sell PT means the oppsite direction.
 
-Trading YT is indirect. Buy YT means first minting PT and YT using SY, then swap 
+Trading YT is indirect. Buy YT means first minting PT and YT using SY, then send PT to the pool getting more SY, and the PT reserve goes up and SY reserve goes dowm resulting PT price down and YT price up. When selling YT, the router mints PT first, combines with YT to reconstruct SY and buy back PT from AMM and rebalances. The pool will have more SY and less PT and PT price up.
 
 - [ ] try to monitor pools on pendle #active 
 
