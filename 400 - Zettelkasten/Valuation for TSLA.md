@@ -6,6 +6,10 @@ Tags: [[macro]] [[valuation]]
 TSLA use synthesis to simulate edge cases, a world model for vison based fsd.
 
 - [ ] read the roadmap #active
+
+The goal: **sustianable abundnace**
+
+
 - [ ] 2025 Q3 report
 - [ ] watch the annual shareholder meeting
 
