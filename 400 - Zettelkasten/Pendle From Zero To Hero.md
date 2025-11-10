@@ -10,7 +10,7 @@ Pendle has an AMM for PT and SY, and YT is derived. So PT and SY is the real liq
 
 Trading YT is indirect. Buy YT means first minting PT and YT using SY, then send PT to the pool getting more SY, and the PT reserve goes up and SY reserve goes dowm resulting PT price down and YT price up. When selling YT, the router mints PT first, combines with YT to reconstruct SY and buy back PT from AMM and rebalances. The pool will have more SY and less PT and PT price up.
 
-- [ ] try to monitor pools on pendle
+- [ ] try to monitor IY and send alert #active 
 Since most of the time we just use the maker order to buy YT, so we tend to split a big order into small orders at different IY, so the real time IY is not that important.
 
 
