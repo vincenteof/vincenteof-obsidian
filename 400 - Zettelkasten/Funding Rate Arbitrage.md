@@ -9,3 +9,6 @@ Frist, we need find a tool to monitor funding rate difference between different 
 # References
 https://x.com/Ferrari4u2/status/1985753358766891167
 https://app.evplus.ai/funding
+https://ghzperpdextools.vercel.app/MM
+https://x.com/StayRoamer/status/1972066174205878495
+https://x.com/WisdomMatic/status/1987792275892514929
