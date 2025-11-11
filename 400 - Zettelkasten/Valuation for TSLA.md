@@ -8,9 +8,7 @@ TSLA use synthesis to simulate edge cases, a world model for vison based fsd.
 - [ ] read the roadmap #active
 
 The goal: **sustianable abundnace**
-Basically they want to eliminate the scarity through technology revolution.
-
-
+Basically they want to eliminate the scarity through technology revolution. The scarity could be energy, time, freedom.
 
 - [ ] 2025 Q3 report
 - [ ] watch the annual shareholder meeting
