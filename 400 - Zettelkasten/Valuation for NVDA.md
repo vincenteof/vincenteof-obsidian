@@ -27,7 +27,12 @@ For 3, there are some trend like quantum computing or photonic computing, but th
 
 - [ ] read the opinion of influencers on X #active 
 
-I use Grok to analyze @iamai_eth 's posts, most are bullish on NVDA. But I found a very inspiring view about BTC and NVDA.
+I use Grok to analyze @iamai_eth 's posts, most are bullish on NVDA. But I found a very inspiring view about BTC and NVDA. 
+
+> The price of Bitcoin is the option value of the world's surplus electricity.
+
+Each Bitcoin is minted using energy, and there is surplus electricity all over the world which cannot be stored to used. Mining provide a way of converting them to long term option. Nowadays AI is also eager for energy, 
+
 
 - [ ] do the valuation for the fair buying price of nvda
 
