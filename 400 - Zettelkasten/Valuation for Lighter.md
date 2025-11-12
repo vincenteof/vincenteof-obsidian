@@ -45,5 +45,6 @@ https://x.com/Eugene_Bulltime/status/1980263699039334735
 https://x.com/Web3Feng/status/1980548912093274196
 https://x.com/satoshiheist/status/1984024090022441351
 https://x.com/hansolar21/status/1988231460965568852
+https://x.com/0xJaehaerys/status/1983251296095482338
 ### tool
 https://x.com/c_dylanber/status/1979002654291562599
