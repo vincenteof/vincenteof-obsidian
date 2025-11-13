@@ -18,6 +18,8 @@ Tags: [[wishlist]]
 - 罗技鼠标
 - 美卡
 - 汇丰 Pulse
+- A house with Tesla Powerwall
+- Tesla Model3
 
 
 **Spiritual**:
@@ -34,3 +36,4 @@ https://x.com/kittycatsocute4/status/1934527083390136825
 https://x.com/manateelazycat/status/1970497527205241269
 https://x.com/manateelazycat/status/1970815014861930775
 https://x.com/manateelazycat/status/1988795054492885266
+https://x.com/levelsio/status/1988878240191246590
