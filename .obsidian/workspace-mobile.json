@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 - Zettelkasten/Funding Rate Arbitrage.md",
+                "file": "300 - Daily Notes/2025-11-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Funding Rate Arbitrage"
+              "title": "2025-11-13"
             }
           }
         ],
@@ -108,7 +108,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "funding",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -145,7 +145,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "f9bc89e2b104ad64",
@@ -226,6 +226,8 @@
   },
   "active": "49edd0349a359cc6",
   "lastOpenFiles": [
+    "400 - Zettelkasten/Funding Rate Arbitrage.md",
+    "300 - Daily Notes/2025-11-13.md",
     "400 - Zettelkasten/中国房地产的终局.md",
     "400 - Zettelkasten/Valuation for BTC.md",
     "400 - Zettelkasten/The purpose of work.md",
@@ -251,8 +253,6 @@
     "/400 - Zettelkasten/How to use dune.md",
     "/400 - Zettelkasten/How to farm on Ethena.md",
     "/400 - Zettelkasten/Funding Rate Arbitrage.md",
-    "/400 - Zettelkasten/Balancer Hack.md",
-    "400 - Zettelkasten/Balancer Hack.md",
     "/200 - Materials/210 - X",
     "/200 - Materials",
     "/200 - Materials/220 - Youtube",
