@@ -14,6 +14,8 @@ Trading YT is indirect. Buy YT means first minting PT and YT using SY, then send
 Since most of the time we just use the maker order to buy YT, so we tend to split a big order into small orders at different IY, so the real time IY is not that important.
 Grok has given some advice.
 
+- [ ] what happens when yield become negative #active 
+
 
 # References
 ### projects
