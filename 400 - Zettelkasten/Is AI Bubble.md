@@ -15,6 +15,17 @@ depreciation rate of gpu
 forward pe
 the good part: ultimate labor fource
 
+
+
+
+
+
+
+
+
+
+
+
 # References
 https://x.com/laochenusa/status/1975688336057770386
 https://x.com/TJ_Research01/status/1975200455505432762
