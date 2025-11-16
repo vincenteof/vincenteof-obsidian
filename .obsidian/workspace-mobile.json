@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 - Zettelkasten/Pendle From Zero To Hero.md",
+                "file": "400 - Zettelkasten/Funding Rate Arbitrage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pendle From Zero To Hero"
+              "title": "Funding Rate Arbitrage"
             }
           }
         ],
@@ -108,7 +108,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "pendle",
+            "query": "perpdex",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -226,6 +226,20 @@
   },
   "active": "49edd0349a359cc6",
   "lastOpenFiles": [
+    "/000 - Indexes/当下就是最好的时代.md",
+    "000 - Indexes/当下就是最好的时代.md",
+    "/000 - Indexes",
+    "/400 - Zettelkasten/Is AI Bubble.md",
+    "/400 - Zettelkasten/HLP Trading Strategy on Pendle.md",
+    "/400 - Zettelkasten",
+    "400 - Zettelkasten/Pendle From Zero To Hero.md",
+    "400 - Zettelkasten/段永平关于S&P500的论述.md",
+    "/400 - Zettelkasten/段永平关于S&P500的论述.md",
+    "/400 - Zettelkasten/My Wishlist.md",
+    "/400 - Zettelkasten/CRS 规避.md",
+    "400 - Zettelkasten/CRS 规避.md",
+    "/200 - Materials/210 - X",
+    "/200 - Materials",
     "300 - Daily Notes/2025-11-13.md",
     "400 - Zettelkasten/Funding Rate Arbitrage.md",
     "400 - Zettelkasten/中国房地产的终局.md",
@@ -236,31 +250,17 @@
     "/400 - Zettelkasten/Valuation for Lighter.md",
     "/400 - Zettelkasten/Valuation for BTC.md",
     "/400 - Zettelkasten/The purpose of work.md",
-    "/400 - Zettelkasten/Is AI Bubble.md",
-    "/400 - Zettelkasten",
     "400 - Zettelkasten/Life is a self-fulfilling prophecy.md",
     "400 - Zettelkasten/How to use dune.md",
     "400 - Zettelkasten/What If AGI Replace Human In The End.md",
     "400 - Zettelkasten/投资者的意义感.md",
     "/400 - Zettelkasten/投资者的意义感.md",
     "/400 - Zettelkasten/What If AGI Replace Human In The End.md",
-    "/400 - Zettelkasten/Valuation for TSLA.md",
-    "/400 - Zettelkasten/Research on low-risk crypto protocol.md",
-    "/400 - Zettelkasten/Prediction Market.md",
-    "/400 - Zettelkasten/Pendle From Zero To Hero.md",
-    "/400 - Zettelkasten/Never compromise on your true desire.md",
-    "/400 - Zettelkasten/Life is a self-fulfilling prophecy.md",
-    "/400 - Zettelkasten/How to use dune.md",
-    "/400 - Zettelkasten/How to farm on Ethena.md",
-    "/400 - Zettelkasten/Funding Rate Arbitrage.md",
-    "/200 - Materials/210 - X",
-    "/200 - Materials",
     "/200 - Materials/220 - Youtube",
     "/980 - Task Management",
     "/800 - Blogs",
     "/300 - Daily Notes",
     "/200 - Materials/240 - Books",
-    "/000 - Indexes",
     "/200 - Materials/230 - Podcasts"
   ]
 }
