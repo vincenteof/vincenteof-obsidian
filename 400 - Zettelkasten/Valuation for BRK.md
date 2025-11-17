@@ -4,6 +4,7 @@ Tags: [[macro]] [[valuation]]
 # Valuation for BRK
 - [x] learn the basic of brk #active ✅ 2025-11-01
 
+## Basic
 BRK consists of 3 core parts:
 1. insurance business providing cheap float money
 2. investment portflio focusing on blue chip stocks
@@ -24,6 +25,10 @@ As a long term investor, we should focus on the following potential risk:
 3. If AI is the real future, whether they could still find their way
 4. How it can beat the market when in such a big size
 
+## Leadership
 
+- [ ] watch abel's video #active 
 
 # References
+## leadership
+https://x.com/joely7758521/status/1989559611993854035

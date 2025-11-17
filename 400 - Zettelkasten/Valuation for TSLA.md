@@ -7,16 +7,33 @@ TSLA use synthesis to simulate edge cases, a world model for vison based fsd.
 
 - [x] read the roadmap #active ✅ 2025-11-12
 
+## Basic
+
 The goal: **sustianable abundnace**
 Basically they want to eliminate the scarity through technology revolution. The scarity could be energy, labor force, time. In order to make all things scalable, the cost must be low enough and the production efficiency must be high.
 Optimus -> Infinite labor force supply with intelligence
 FSD -> free time with more safety, Car becomes asset creating cash flow, the cost of transportation reuducing to near zero
 Energy storage -> sun as the infinite energy supply
 
-Elon is trying to put 100GW/year of AI in space.
+
+Elon is trying to put 100GW/year of AI in space. Basically they are gonna deploy GPUs into orbit.
 
 - [ ] 2025 Q3 report
 - [ ] watch the annual shareholder meeting
+
+## Energy
+
+- [ ] read the post about  megapack #active 
+
+## Milestone
+
+FSD:
+1. size scale (2000 robotaxi)
+2. when remove the security officer (by the end of 2025)
+3. when will FSD allow driver to use the phone (by the end of 2025)
+
+
+
 
 
 
@@ -33,3 +50,4 @@ https://x.com/jason1730/status/1982443011633295666
 https://x.com/pirrer/status/1982379299039834433
 ### energy
 https://x.com/iamai_eth/status/1989457402203386066
+https://x.com/Tesla_Megapack/status/1989073638273012133
