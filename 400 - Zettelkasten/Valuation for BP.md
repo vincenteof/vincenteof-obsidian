@@ -5,3 +5,4 @@ Tags: [[macro]] [[valuation]]
 
 # References
 https://x.com/lerolwen/status/1976142596125995455
+https://x.com/0Xlynn03/status/1990391511163568496
