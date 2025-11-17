@@ -20,10 +20,15 @@ Elon is trying to put 100GW/year of AI in space. Basically they are gonna deploy
 
 - [ ] 2025 Q3 report
 - [ ] watch the annual shareholder meeting
+- [ ] watch the interview #active 
+
 
 ## Energy
 
 - [ ] read the post about  megapack #active 
+
+## FSD
+- [ ] read fsd long post
 
 ## Milestone
 
@@ -42,6 +47,7 @@ FSD:
 https://x.com/Tesla/status/1962591324022153607
 https://x.com/Tesla/status/1977443755256111109
 https://www.youtube.com/watch?v=VGPlvmMjPtE
+https://youtu.be/GwfLkEOW37Q?si=XZZ9Oaut8nbGh7EG
 ## insight
 https://rabbit-hole.notion.site/2650616711418094bb74e38b58052acf
 https://x.com/jason1730/status/1982293830436311041
@@ -51,3 +57,5 @@ https://x.com/pirrer/status/1982379299039834433
 ### energy
 https://x.com/iamai_eth/status/1989457402203386066
 https://x.com/Tesla_Megapack/status/1989073638273012133
+## fsd
+https://x.com/pbeisel/status/1990167809952006593

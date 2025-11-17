@@ -7,3 +7,4 @@ Tags: [[valuation]] [[macro]]
 
 # References
 https://x.com/RakukageMSC/status/1988430238121161029
+https://x.com/RakukageMSC/status/1990405761454010800
