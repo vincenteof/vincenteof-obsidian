@@ -21,10 +21,11 @@ The last time lighter get fund it was valued at 1.5B and most good project will 
 
 Lighter also airdrops memecoins. We can assume the total points are 10M, and the total supply for the meme coin is 1B, and half of it airdrops to points, so each point get 0.5B / 10M = 50 tokens. 
 ## Big Story
+
 The long term story is that, ethereum is the chain has the best liquidity. As an L2, lighter is able to take defi primitive (like LP token) as collateral to open position with the lp token still earning fees.
 
-- [ ] conclude things related to citadel and robinhood #active 
-
+- [x] conclude things related to citadel and robinhood #active ✅ 2025-11-18
+Founder of lighter has deep relationship of tradfi (citadel and robinhood). If RWA happens, lighter maybe the venue where big funds hedge and trade. It will not just be robinhood integrating lighter. every broker that leans on citadel for liquidity has a huge incentive to line up with the same margin rail for capital efficiency and risk consistency.
 ## Long-term Milestone
 Forex and commodities are already supported on Lighter. Next is spot market. And prediction market and option are also in the plan.
 
