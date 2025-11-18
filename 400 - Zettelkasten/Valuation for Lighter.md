@@ -3,6 +3,7 @@ Tags: [[farming]]
 
 # Valuation for Lighter
 
+## Valuation
 - [x] valuation for lighter point #active ✅ 2025-09-09
 
 Point value = FDV * Airdrop Percentage * / Total Points
@@ -19,10 +20,14 @@ Another way of evaluation is comparing lighter to robinhood, since they are all 
 The last time lighter get fund it was valued at 1.5B and most good project will get a 1~10x FDV when TGE (Actually there many project's TGE FDV is over 10x, but since vc based project is not preferred in 2025, some's FDV is less then 1x). I think the OTC price (100u) is very fair.
 
 Lighter also airdrops memecoins. We can assume the total points are 10M, and the total supply for the meme coin is 1B, and half of it airdrops to points, so each point get 0.5B / 10M = 50 tokens. 
-
+## Big Story
 The long term story is that, ethereum is the chain has the best liquidity. As an L2, lighter is able to take defi primitive (like LP token) as collateral to open position with the lp token still earning fees.
 
+- [ ] conclude things related to citadel and robinhood #active 
+
+## Long-term Milestone
 Forex and commodities are already supported on Lighter. Next is spot market. And prediction market and option are also in the plan.
+
 # References
 #### valuation
 https://x.com/c_dylanber/status/1957269172515385809
@@ -46,5 +51,6 @@ https://x.com/Web3Feng/status/1980548912093274196
 https://x.com/satoshiheist/status/1984024090022441351
 https://x.com/hansolar21/status/1988231460965568852
 https://x.com/0xJaehaerys/status/1983251296095482338
+https://x.com/shawnchen_eth/status/1989946440358269194
 ### tool
 https://x.com/c_dylanber/status/1979002654291562599

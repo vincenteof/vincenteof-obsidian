@@ -6,5 +6,6 @@ Tags: [[valuation]] [[macro]]
 - [ ] analyze influence of enery price increasement on bitcoin and mining company #active 
 
 # References
+## insight
 https://x.com/RakukageMSC/status/1988430238121161029
 https://x.com/RakukageMSC/status/1990405761454010800

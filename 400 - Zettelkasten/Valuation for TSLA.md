@@ -21,6 +21,7 @@ Elon is trying to put 100GW/year of AI in space. Basically they are gonna deploy
 - [ ] 2025 Q3 report
 - [ ] watch the annual shareholder meeting
 - [ ] watch the interview #active 
+- [ ] read muskonomy2.0
 
 
 ## Energy
@@ -54,6 +55,7 @@ https://x.com/jason1730/status/1982293830436311041
 https://x.com/battleangelviv/status/1982309205441724906
 https://x.com/jason1730/status/1982443011633295666
 https://x.com/pirrer/status/1982379299039834433
+https://x.com/TeslaLarry/status/1990060509979119670
 ### energy
 https://x.com/iamai_eth/status/1989457402203386066
 https://x.com/Tesla_Megapack/status/1989073638273012133
