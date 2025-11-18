@@ -5,6 +5,8 @@ Tags: [[macro]] [[valuation]]
 
 - [ ] learn the basic of CRCL #active 
 
+CRCL 本质上和 BRK 有点类似。BRK 通过用用户的浮存金进行投资，而 CRCL 通过用户
+
 # References
 ## insight
 https://x.com/lufeieth/status/1975924479252402382
