@@ -5,6 +5,7 @@ Tags: [[macro]] [[valuation]]
 
 - [ ] learn the basic of CRCL #active 
 
+
 # References
 ## insight
 https://x.com/lufeieth/status/1975924479252402382
