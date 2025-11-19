@@ -55,17 +55,21 @@ USDT 最大的问题是政治风险。如果未来链上经济也是美国主导
 这种估值模式比较静态，主要关注稳定币的核心业务模式，没有考虑到支付网络和结算层的估值。长期需要关注 ARC 公链的进展。
 
 
-- [ ] read posts from community #active 
+- [x] read posts from community #active ✅ 2025-11-19
 
 从 fintech 公司的估值而言，目前（30倍以内）不算贵。利率下降 1％，规模需要扩大 25％ 保持估值不变。
 目前已经接近全流通。
-美国财长贝森特：到 2030 年，稳定币的规模可能会从 3000 亿美元增长至 30000 亿美元。如果按照目前接近 25％ 的比例算，那就是 7500 亿。
+美国财长贝森特：到 2030 年，稳定币的规模可能会从 3000 亿美元增长至 30000 亿美元。如果按照目前接近 25％ 的比例算，那就是 7500 亿，相比于现在规模增长接近 10 倍。
+如果CRCL能跌回100-200亿美金市值你再买入，将会有机会获得50-100倍收益的超额赔率预期。
+美债的增长是必然，需要有接盘的人。买 CRCL 也是在押注美元和美债，做多数字化美元的扩张。
 
-
-
+- [ ] read things about arc #active 
 # References
+## grouth
+https://www.arc.network/
 ## insight
 https://x.com/lufeieth/status/1975924479252402382
+https://mp.weixin.qq.com/s/aV-aPk9BnHUBS-5-9c5j5g?poc_token=HOi5HWmjDOioygyDHDhKsCBGmEmH1ORpG9DXn5VW
 https://x.com/sunnyfinance1/status/1989512766302941197
 https://x.com/chenreason/status/1989368205081792997
 https://weibo.com/1763492752/QdO28tPW2
