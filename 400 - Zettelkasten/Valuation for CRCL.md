@@ -34,7 +34,9 @@ USDT 最大的问题是政治风险。如果未来链上经济也是美国主导
 
 
 - [ ] read posts from community
+
 - [ ] do the evaluation #active 
+
 
 
 # References
