@@ -63,7 +63,13 @@ USDT 最大的问题是政治风险。如果未来链上经济也是美国主导
 如果CRCL能跌回100-200亿美金市值你再买入，将会有机会获得50-100倍收益的超额赔率预期。
 美债的增长是必然，需要有接盘的人。买 CRCL 也是在押注美元和美债，做多数字化美元的扩张。
 
-- [ ] read lite paper about arc #active 
+- [x] read lite paper about arc #active ✅ 2025-11-20
+
+USDC 作为原生 gas，网络费用收入将进入国库。
+网络可选择地开启隐私。
+应用包括：各类可编程外汇及代币化资产，跨链流动性，企业级支付与结算。
+需要根据后续发展，是否能将价值捕获给 CRCL 的股东。
+
 # References
 ## grouth
 https://www.arc.network/
