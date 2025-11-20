@@ -22,7 +22,7 @@ Elon is trying to put 100GW/year of AI in space. Basically they are gonna deploy
 - [ ] watch the annual shareholder meeting
 - [ ] read muskonomy2.0
 
-- [ ] watch the interview #active 
+- [x] watch the interview #active ✅ 2025-11-21
 
 Hand is very complex and its the core of robot which intends to do a surgery or build a house. This kind of demand cannot be solved by money because these kind of resources(good surgeon) is limited.
 
@@ -70,5 +70,6 @@ https://x.com/TeslaLarry/status/1990060509979119670
 ### energy
 https://x.com/iamai_eth/status/1989457402203386066
 https://x.com/Tesla_Megapack/status/1989073638273012133
+https://x.com/tradergokux/status/1991341114452832757
 ## fsd
 https://x.com/pbeisel/status/1990167809952006593
