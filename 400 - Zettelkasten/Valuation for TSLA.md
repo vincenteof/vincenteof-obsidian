@@ -31,14 +31,16 @@ The sentience will grow when new Grok is trainned. The question is how far it ca
 Elon doesn't have problem taking risks.
 
 
-
-
-
 ## Energy
 
 - [x] read the post about  megapack #active ✅ 2025-11-20
 
 因为 AI 数据中心的能耗波动极大，有可能从 10％ 飙升到 100％。这种“尖峰+高频震荡”会严重冲击当地电网，可能导致电压骤降、频率失稳，甚至大面积停电。Megapack 可以充当缓冲期，只需要数据中心成本的 1％ 就可以完全平滑这种波动。
+
+马斯克似乎在认真思考把算力部署到太空。本质上是由于太空有无限的能源资源（太阳能）且效率更高，而且可以绕开国家电网及各种中心化监管。因为处于真空，理论上可以使用辐射散热到太空背景（2.7K），无需水冷。这会让 SpaceX + X + Tesla + Starlink 形成**完整的 AI 帝国闭环**。
+但挑战同样巨大：散热成本，计算芯片在太空可能不能运作，维护成本等等。
+https://chatgpt.com/g/g-p-67a5639b3cec8191b6084622f64bed7d-trade/c/691fa2a0-7b68-8320-a435-b41e50b228bf
+
 ## FSD
 - [ ] read fsd long post
 
@@ -71,5 +73,6 @@ https://x.com/TeslaLarry/status/1990060509979119670
 https://x.com/iamai_eth/status/1989457402203386066
 https://x.com/Tesla_Megapack/status/1989073638273012133
 https://x.com/tradergokux/status/1991341114452832757
+https://x.com/BlueJay87476298/status/1991435063859487022
 ## fsd
 https://x.com/pbeisel/status/1990167809952006593
