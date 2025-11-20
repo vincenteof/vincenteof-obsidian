@@ -28,6 +28,8 @@ Hand is very complex and its the core of robot which intends to do a surgery or 
 
 The sentience will grow when new Grok is trainned. The question is how far it can go? Elon thinks almost incomprehensibly far. Elon sees a path putting 100 gw per year of solar powered AI satellite into orbit as a solution to scale AI.
 
+Elon doesn't have problem taking risks.
+
 
 
 
