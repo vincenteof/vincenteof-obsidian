@@ -24,6 +24,12 @@ Elon is trying to put 100GW/year of AI in space. Basically they are gonna deploy
 
 - [ ] watch the interview #active 
 
+Hand is very complex and its the core of robot which intends to do a surgery or build a house. This kind of demand cannot be solved by money because these kind of resources(good surgeon) is limited.
+
+
+
+
+
 
 ## Energy
 
