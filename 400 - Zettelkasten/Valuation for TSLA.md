@@ -27,8 +27,9 @@ Elon is trying to put 100GW/year of AI in space. Basically they are gonna deploy
 
 ## Energy
 
-- [ ] read the post about  megapack #active 
+- [x] read the post about  megapack #active ✅ 2025-11-20
 
+因为 AI 数据中心的能耗波动极大，有可能从 10％ 飙升到 100％。这种“尖峰+高频震荡”会严重冲击当地电网，可能导致电压骤降、频率失稳，甚至大面积停电。Megapack 可以充当缓冲期，只需要数据中心成本的 1％ 就可以完全平滑这种波动。
 ## FSD
 - [ ] read fsd long post
 

@@ -10,11 +10,10 @@ If the price or project progress doesn't go as expected, OpenAI has more flexibi
 
 - [ ] analyze the detail #active 
 
-the cycle starts from nvda
-depreciation rate of gpu
-forward pe
-the good part: ultimate labor fource
 
+CPU 折旧率
+大公司 Capex
+NVDA 利润和 forward PE
 
 
 
