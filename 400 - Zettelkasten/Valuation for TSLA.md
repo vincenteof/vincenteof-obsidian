@@ -26,7 +26,7 @@ Elon is trying to put 100GW/year of AI in space. Basically they are gonna deploy
 
 Hand is very complex and its the core of robot which intends to do a surgery or build a house. This kind of demand cannot be solved by money because these kind of resources(good surgeon) is limited.
 
-
+The sentience will grow when new Grok is trainned. The question is how far it can go? Elon thinks almost incomprehensibly far. Elon sees a path putting 100 gw per year of solar powered AI satellite into orbit as a solution to scale AI.
 
 
 
