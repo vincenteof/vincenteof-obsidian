@@ -63,7 +63,7 @@ USDT 最大的问题是政治风险。如果未来链上经济也是美国主导
 如果CRCL能跌回100-200亿美金市值你再买入，将会有机会获得50-100倍收益的超额赔率预期。
 美债的增长是必然，需要有接盘的人。买 CRCL 也是在押注美元和美债，做多数字化美元的扩张。
 
-- [ ] read things about arc #active 
+- [ ] read lite paper about arc #active 
 # References
 ## grouth
 https://www.arc.network/
