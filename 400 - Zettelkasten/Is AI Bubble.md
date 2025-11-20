@@ -8,12 +8,12 @@ OpenAI buy AMD GPU and stock options from AMD with zero-cash mode.
 If the price is up to 600, OpenAI will get a lot of reward and the purchased GPU is almost free. It seems AMD raise money using future orders to OpenAI and let OpenAI buy their chips.
 If the price or project progress doesn't go as expected, OpenAI has more flexibility. AMD will use real money to produce GPUs. If OpenAI doesn't purchase, they must find a way to consume these supply. 
 
-- [ ] analyze the detail #active 
+- [x] analyze the detail #active ✅ 2025-11-20
 
-
-CPU 折旧率
-大公司 Capex
-NVDA 利润和 forward PE
+CPU 折旧率影响估值，因为一旦在估值模型中定的太长，可能会导致实际上没有足够多的时间摊销成本。
+大公司 Capex 主要用于构建数据中心，理论上大公司的 leader 会更有 insight，未来需要看 AI 能否真实地收回这些支出。
+NVDA 利润是真实，称不上泡沫，但是它的收入和利润能否能维持很重要，取决于 AI 能否真的变现，否则它的收入就不能维持。
+AI 最好的未来是什么：TSLA 宏伟蓝图里写的，无限富足的世界
 
 
 
