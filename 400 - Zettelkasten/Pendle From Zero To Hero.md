@@ -14,7 +14,10 @@ Trading YT is indirect. Buy YT means first minting PT and YT using SY, then send
 Since most of the time we just use the maker order to buy YT, so we tend to split a big order into small orders at different IY, so the real time IY is not that important.
 Grok has given some advice.
 
-- [ ] what happens when yield become negative #active 
+- [x] what happens when yield become negative #active ✅ 2025-11-20
+
+Pende 中有个 Watermark，表示 SY 资产能兑换的资产的最大值。一旦出现负收益，兑换率就回小于这个曾经最高的水位。因为 YT 始终会归零，因为之前拿出的利息是无法收回的，所以 PT 的持有者在兑换回底层资产的时候会减少。
+一旦重新上升到水位以上，YT 重新开始收到利息，PT 又可以足额兑换回 SY。
 
 
 # References

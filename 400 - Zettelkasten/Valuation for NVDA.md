@@ -33,6 +33,8 @@ I use Grok to analyze @iamai_eth 's posts, most are bullish on NVDA. But I found
 
 Each Bitcoin is minted using energy, and there is surplus electricity all over the world which cannot be stored to used. Mining provide a way of converting them to long term option. Nowadays AI is also eager for energy which makes the price of energy higher. This may lead to hash rate reduce and have influence on Bitcoin price.
 
+- [ ] 阅读 NVDA 2025 Q3 财报 #active 
+
 - [ ] do the valuation for the fair buying price of nvda
 
 
