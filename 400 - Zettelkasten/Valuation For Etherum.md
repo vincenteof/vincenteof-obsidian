@@ -7,9 +7,13 @@ Tags: [[macro]] [[valuation]]
 这为以太坊生态，尤其是L2真正转向消费级应用做好了重要的准备，未来的隐私DeFi、AI代理经济、RWA等场景都会收益。
 
 
+
+
 # References
-### zk
+## zk
 https://x.com/VitalikButerin/status/1978432581298204951
 https://x.com/lanhubiji/status/1978721883316207788
 https://x.com/darkforesttri/status/1978722898551665028
 https://x.com/lanhubiji/status/1992450426588057817
+## post-quantum
+https://x.com/lanhubiji/status/1992823572885360746
