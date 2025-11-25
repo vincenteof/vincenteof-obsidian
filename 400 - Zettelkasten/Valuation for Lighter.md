@@ -26,6 +26,8 @@ The long term story is that, ethereum is the chain has the best liquidity. As an
 
 - [x] conclude things related to citadel and robinhood #active ✅ 2025-11-18
 Founder of lighter has deep relationship of tradfi (citadel and robinhood). If RWA happens, lighter maybe the venue where big funds hedge and trade. It will not just be robinhood integrating lighter. every broker that leans on citadel for liquidity has a huge incentive to line up with the same margin rail for capital efficiency and risk consistency.
+
+Lighter 可能会成为 Robinhood 的一个后端接受从那边路由过来的订单，Robinhood 本身也是 Lighter 的 VC，本身也在押注 Lighter。
 ## Long-term Milestone
 Forex and commodities are already supported on Lighter. Next is spot market. And prediction market and option are also in the plan.
 
@@ -53,5 +55,6 @@ https://x.com/satoshiheist/status/1984024090022441351
 https://x.com/hansolar21/status/1988231460965568852
 https://x.com/0xJaehaerys/status/1983251296095482338
 https://x.com/shawnchen_eth/status/1989946440358269194
+https://x.com/satoshiheist/status/1993100188076921019
 ### tool
 https://x.com/c_dylanber/status/1979002654291562599
