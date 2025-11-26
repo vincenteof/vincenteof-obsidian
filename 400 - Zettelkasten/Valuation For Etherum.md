@@ -13,6 +13,9 @@ Tags: [[macro]] [[valuation]]
 ## post-quantum
 比特币作为价值存储，目前最大的隐患就是抗量子计算。因为以太坊迭代得比比特币快的多，它大概率会比比特币更早解决抗量子计算的问题，一定程度上以太坊的 money premium 属性可能会回归。
 
+## scaling
+
+
 
 
 # References
@@ -23,5 +26,7 @@ https://x.com/darkforesttri/status/1978722898551665028
 https://x.com/lanhubiji/status/1992450426588057817
 ## post-quantum
 https://x.com/lanhubiji/status/1992823572885360746
+## scaling
+
 ## insight
 https://x.com/Snapcrackle/status/1992924911325905256
