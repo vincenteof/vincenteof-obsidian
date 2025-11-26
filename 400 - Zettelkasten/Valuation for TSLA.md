@@ -43,9 +43,10 @@ https://chatgpt.com/g/g-p-67a5639b3cec8191b6084622f64bed7d-trade/c/691fa2a0-7b68
 
 ## FSD
 - [ ] read post the magic of telsa fsd
+从 FSD V12 版本开始，特斯拉完全抛弃 rule-based 方案，采用端到端 AI，用 8 个摄像头输入光子信号，输出控制信号。因为特斯拉自身也是骑车
 
 V14.2 已经展现了完全解决自动驾驶的能力，许多人都汇报长距离自动驾驶 0 接管。Elon 说 V14.3 是自动驾驶的最后一块拼图。
-
+ 
 ## Milestone
 
 FSD:
@@ -76,5 +77,6 @@ https://x.com/tradergokux/status/1991341114452832757
 https://x.com/BlueJay87476298/status/1991435063859487022
 ## fsd
 https://x.com/pbeisel/status/1831315999037210900
+https://grok.com/share/bGVnYWN5LWNvcHk_a4e5bb9a-0a35-4212-b32c-4f024e07d3de
 https://x.com/Louistesla93/status/1992022320958107887
 https://x.com/XieJackie/status/1991902747688579074
