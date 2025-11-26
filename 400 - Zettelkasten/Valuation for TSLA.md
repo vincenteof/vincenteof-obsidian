@@ -42,9 +42,9 @@ Elon doesn't have problem taking risks.
 https://chatgpt.com/g/g-p-67a5639b3cec8191b6084622f64bed7d-trade/c/691fa2a0-7b68-8320-a435-b41e50b228bf
 
 ## FSD
-- [ ] read fsd long post
+- [ ] read post the magic of telsa fsd
 
-V14.2 已经展现了完全解决自动驾驶的能力，许多人都汇报长距离自动驾驶 0 接管。Elon 说 V14.3 是
+V14.2 已经展现了完全解决自动驾驶的能力，许多人都汇报长距离自动驾驶 0 接管。Elon 说 V14.3 是自动驾驶的最后一块拼图。
 
 ## Milestone
 
@@ -75,6 +75,6 @@ https://x.com/Tesla_Megapack/status/1989073638273012133
 https://x.com/tradergokux/status/1991341114452832757
 https://x.com/BlueJay87476298/status/1991435063859487022
 ## fsd
-https://x.com/pbeisel/status/1990167809952006593
+https://x.com/pbeisel/status/1831315999037210900
 https://x.com/Louistesla93/status/1992022320958107887
 https://x.com/XieJackie/status/1991902747688579074
