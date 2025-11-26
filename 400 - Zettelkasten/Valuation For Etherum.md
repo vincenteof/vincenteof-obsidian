@@ -3,8 +3,8 @@ Tags: [[macro]] [[valuation]]
 
 # Valuation For Etherum
 
-## big picture
-链上低风险Defi
+## defi
+链上低风险 Defi 可以被更多大资金作为 saving account, 核心还是得解决安全问题，比如为协议引入保险金库。这比高风险的挖矿协议更有长期价值。稳定币及 RWA 规模也被预期会快速增长。
 
 ## zk
 以太坊L1/L2生态已经从“昂贵/慢”，逐步转向“可证明的扩展”，Succinct、Zksync以及Brevis对以太坊在不牺牲去中心化（甚至利于朝更去中心化方向发展）下，对以太坊生态的整体扩展做出了贡献。
