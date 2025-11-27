@@ -14,7 +14,8 @@ Tags: [[macro]] [[valuation]]
 比特币作为价值存储，目前最大的隐患就是抗量子计算。因为以太坊迭代得比比特币快的多，它大概率会比比特币更早解决抗量子计算的问题，一定程度上以太坊的 money premium 属性可能会回归。
 
 ## scaling
-
+2年10倍、4年100倍、六年 1000倍。（这还真不是放卫星），2年内主要依靠 Gas 提升加并行，还有延迟执行等优化，4年以上靠 ZK。
+gasLimit 是以太坊上面每个区块中所有交易可以消耗的 gas 上限。假设目前每个区块的 gasLimit 是 30M，一笔普通的转账大约消耗 21000 gas，那么一个区块最多 1428 比转账，因为区块时间为 12s，那么TPS 约为 119。因此提高 gasLimit 是直观可以提升 TPS 的方法。但是这样会对节点产生更大的负担，一定程度上削弱节点的去中心化。
 
 
 
@@ -27,6 +28,6 @@ https://x.com/lanhubiji/status/1992450426588057817
 ## post-quantum
 https://x.com/lanhubiji/status/1992823572885360746
 ## scaling
-
+https://x.com/NPC_Leo/status/1993569168785121787
 ## insight
 https://x.com/Snapcrackle/status/1992924911325905256
