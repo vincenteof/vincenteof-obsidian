@@ -12,3 +12,4 @@ https://app.evplus.ai/funding
 https://ghzperpdextools.vercel.app/MM
 https://x.com/StayRoamer/status/1972066174205878495
 https://x.com/WisdomMatic/status/1987792275892514929
+https://x.com/0xYuCry/status/1994655465410891961

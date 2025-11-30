@@ -18,6 +18,8 @@ Energy storage -> sun as the infinite energy supply
 
 Elon is trying to put 100GW/year of AI in space. Basically they are gonna deploy GPUs into orbit.
 
+基础设施第一次进入算法时代。自动驾驶，是人类历史上第一次尝试以软件的速度扩张现实世界的基础设施。软件的迭代速度是远远低于物理世界的，但是自动驾驶模型直接把
+
 - [ ] 2025 Q3 report
 - [ ] watch the annual shareholder meeting
 - [ ] read muskonomy2.0
@@ -73,6 +75,7 @@ https://x.com/battleangelviv/status/1982309205441724906
 https://x.com/jason1730/status/1982443011633295666
 https://x.com/pirrer/status/1982379299039834433
 https://x.com/TeslaLarry/status/1990060509979119670
+https://x.com/Maggie191919/status/1994982499110224095
 ### energy
 https://x.com/iamai_eth/status/1989457402203386066
 https://x.com/Tesla_Megapack/status/1989073638273012133

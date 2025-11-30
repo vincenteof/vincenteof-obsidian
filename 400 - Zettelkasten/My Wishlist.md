@@ -8,8 +8,9 @@ Tags: [[wishlist]]
 	- 计划优衣库，最终购买 Lululemon
 	- 也从 NIO 得到了一个免费的
 - ✔️ Oppo Pad4 Pro
-- OneKey
+- ✔️ OneKey
 - IPhone
+- IWatch
 - Macbook Pro
 - Keyboard
 	- NuPhy
@@ -20,6 +21,7 @@ Tags: [[wishlist]]
 - 汇丰 Pulse
 - A house with Tesla Powerwall
 - Tesla Model3
+- 个人办公室
 
 
 **Spiritual**:
@@ -37,3 +39,4 @@ https://x.com/manateelazycat/status/1970497527205241269
 https://x.com/manateelazycat/status/1970815014861930775
 https://x.com/manateelazycat/status/1988795054492885266
 https://x.com/levelsio/status/1988878240191246590
+https://x.com/SovereignIntern/status/1994283612729167990
