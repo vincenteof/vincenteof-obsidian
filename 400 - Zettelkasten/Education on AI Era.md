@@ -11,7 +11,8 @@ The real problem with education in mainland China is that it **destroys children
 The time when you can gain the most from studying is when you’re **not studying for exams**. Never lose your curiosity during that stage of life. The most precious human traits — curiosity, attention, taste, physical vitality, and mental resilience — **cannot be measured by tests**.  
 So play when you’re young. **Seize real moments of growth instead of chasing grades.**
 
-青春短暂且珍贵，相比之下整个人生漫长的多。而中国的教育系统，就像是要在短暂的青春中消耗掉整个人生里对于学习的好奇心。这种方式从未正确过，在 AI 时代更是错的离谱。这种方式不仅消耗人的好奇心，更会让人产生一种努力就有回报的错觉，最终把人培异化成工具。
+青春短暂且珍贵，相比之下整个人生漫长的多。而中国的教育系统，就像是要在短暂的青春中消耗掉整个人生里对于学习的好奇心。这种方式从未正确过，在 AI 时代更是错的离谱。这种有毒的方式不仅摧毁人的好奇心，更会让人产生一种努力就有回报的错觉，最终把人培异化成工具。真正有价值的东西：体格，心态，逻辑，认知。
+
 
 # References
 https://x.com/manateelazycat/status/1980927738837082618
