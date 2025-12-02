@@ -12,11 +12,13 @@ MSTR 预计通过 ATM 增发股票筹钱建立 USD 储备来支付股息和利�
 
 
 # References
-## insight
+## energy
 https://x.com/RakukageMSC/status/1988430238121161029
 https://x.com/RakukageMSC/status/1990405761454010800
+https://x.com/lanhubiji/status/1995695096654954966
 ## mstr
 https://x.com/mindaoyang/status/1995531812345438591
 https://x.com/cmdefi/status/1995630835614318854
 ## post quantum
 https://x.com/cr0ath/status/1971087482113655061?s=46&t=dB0iYuht_woxawlW9qX43A
+

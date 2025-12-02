@@ -43,7 +43,7 @@ Elon doesn't have problem taking risks.
 但挑战同样巨大：散热成本，计算芯片在太空可能不能运作，维护成本等等。
 https://chatgpt.com/g/g-p-67a5639b3cec8191b6084622f64bed7d-trade/c/691fa2a0-7b68-8320-a435-b41e50b228bf
 
-截止 2025 年 Q3，TSLA Energy 业务占应收 12％ 左右，
+截止 2025 年 Q3，TSLA Energy 业务占应收 12％ 左右，整体毛利率比汽车业务高。这看这块业务，已经达到了 “大型独立能源／储能供应商”级别，不是简单边缘业务，而是具有明显盈利能力和增长潜力的核心业务。
 
 ## FSD
 - [x] read post the magic of telsa fsd ✅ 2025-11-26
