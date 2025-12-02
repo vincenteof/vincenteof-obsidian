@@ -43,6 +43,8 @@ Elon doesn't have problem taking risks.
 但挑战同样巨大：散热成本，计算芯片在太空可能不能运作，维护成本等等。
 https://chatgpt.com/g/g-p-67a5639b3cec8191b6084622f64bed7d-trade/c/691fa2a0-7b68-8320-a435-b41e50b228bf
 
+截止 2025 年 Q3，TSLA Energy 业务占应收 12％ 左右，
+
 ## FSD
 - [x] read post the magic of telsa fsd ✅ 2025-11-26
 从 FSD V12 版本开始，特斯拉完全抛弃 rule-based 方案，采用端到端 AI，用 8 个摄像头输入光子信号，输出控制信号。因为特斯拉自身也是骑车制造商，因此有巨大的数据优势，异常数据自动回传，模型永不停止迭代。V14 引入 Mixture of Experts (MoE) 架构，因为驾驶不是单一任务，需要根据环境切换专家模式。MoE 允许全球部署——用中国数据微调后，即可适配本地交通规则。整个 FSD 的架构，Optimus 也可以共享。
