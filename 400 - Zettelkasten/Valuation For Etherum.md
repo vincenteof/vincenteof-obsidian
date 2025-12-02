@@ -1,5 +1,5 @@
 Date: 2025-10-16
-Tags: [[macro]] [[valuation]]
+Tags: [[macro]] [[valuation]] [[ethereum]]
 
 # Valuation For Etherum
 
