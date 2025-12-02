@@ -70,6 +70,9 @@ USDC 作为原生 gas，网络费用收入将进入国库。
 应用包括：各类可编程外汇及代币化资产，跨链流动性，企业级支付与结算。
 需要根据后续发展，是否能将价值捕获给 CRCL 的股东。
 
+## Competitor
+Tether 并不是很透明，因为把部分储备金配置成了 BTC 和 黄金，如果他们
+
 # References
 ## grouth
 https://www.arc.network/
@@ -79,3 +82,5 @@ https://mp.weixin.qq.com/s/aV-aPk9BnHUBS-5-9c5j5g?poc_token=HOi5HWmjDOioygyDHDhK
 https://x.com/sunnyfinance1/status/1989512766302941197
 https://x.com/chenreason/status/1989368205081792997
 https://weibo.com/1763492752/QdO28tPW2
+## competitor
+https://x.com/mindaoyang/status/1995153593402372249
