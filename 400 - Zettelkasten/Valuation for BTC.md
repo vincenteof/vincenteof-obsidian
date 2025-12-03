@@ -4,7 +4,8 @@ Tags: [[valuation]] [[macro]]
 # Valuation for BTC
 
 - [ ] analyze influence of enery price increasement on bitcoin and mining company #active 
-比特币是能源货币
+
+比特币货币化了能源，
 
 - [x] analyze mstr USD reserve #active ✅ 2025-12-02
 MSTR 预计通过 ATM 增发股票筹钱建立 USD 储备来支付股息和利息。目前这 14.4 亿美金至少足够支付 12 个月，因为在短期内不会出售 BTC。
