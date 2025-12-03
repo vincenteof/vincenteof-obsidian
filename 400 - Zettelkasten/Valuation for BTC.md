@@ -5,7 +5,7 @@ Tags: [[valuation]] [[macro]]
 
 - [ ] analyze influence of enery price increasement on bitcoin and mining company #active 
 
-比特币货币化了能源，
+比特币货币化了能源，所有搁浅的电力最终都将转化为比特币。数据中心的建立导致电力的巨大缺口，因此带来了新一轮的电力基建。
 
 - [x] analyze mstr USD reserve #active ✅ 2025-12-02
 MSTR 预计通过 ATM 增发股票筹钱建立 USD 储备来支付股息和利息。目前这 14.4 亿美金至少足够支付 12 个月，因为在短期内不会出售 BTC。
