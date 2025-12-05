@@ -35,5 +35,14 @@ https://x.com/lanhubiji/status/1992823572885360746
 https://x.com/NPC_Leo/status/1993569168785121787
 ## UX
 https://x.com/nake13/status/1995319745030295717
+## upgrade
+### fusaka
+https://x.com/tmel0211/status/1996775309082087800
+https://x.com/0x_Allending/status/1996540540796670123
+https://x.com/0xTodd/status/1996516205709148249
+https://x.com/lanhubiji/status/1996577110413181107
+https://x.com/lanhubiji/status/1996103075766173861
+https://x.com/nake13/status/1996241760155312566
+
 ## insight
 https://x.com/Snapcrackle/status/1992924911325905256
