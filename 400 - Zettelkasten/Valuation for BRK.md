@@ -27,8 +27,16 @@ As a long term investor, we should focus on the following potential risk:
 
 ## Leadership
 
+Todd 与 2025/12/08 宣布离职。Todd 与 Ted 分别掌握 15B 的资金，约占 BRK 总证券资产的 10％～15％。他们更像现代化的巴菲特，对科技公司更开放。
+Todd 对保险和金融理解比较深且投资更分散保守，Ted 集中度更高更大的 conviction，Abel 可能更关注实业。
+Todd 与 Ted 各掌握约 150 亿美元，合计 ~300 亿，是 BRK 投资端的“未来样板间”。
+
+
+
 - [ ] watch abel's video #active 
+
 
 # References
 ## leadership
 https://x.com/joely7758521/status/1989559611993854035
+https://x.com/ooeli_eth/status/1998059018628333588
