@@ -3,7 +3,7 @@ Tags: [[mind-iteration]]
 
 # Stoicism
 
-- [ ] learn the basic
+- [x] learn the basic ✅ 2025-12-11
 ## Basic
 
 什么是斯多葛主义：**如何在一个不可控的世界里，保持内在的自由和行动力**
@@ -67,8 +67,14 @@ Tags: [[mind-iteration]]
 
 这其实就是“前额叶失效、边缘系统接管人生”。
 
-
 ## Train
+
+ 控制圈练习 －不在可控的事件上投入精力
+ 负面可视化－给自己合理的心理预期
+ 情绪分离－深呼吸，把更高的自己显现，让掌管自己的身体
+ 自愿的不适－可以选择一些不舒服的小事
+ 
+ 
 
 # References
 https://x.com/ReynoldDai/status/1988933675694661854
