@@ -34,6 +34,9 @@ PeerDAS 降低验证者门槛85%，更加去中心化。
 ## adoption
 以太坊在 Q4 稳定币转账接近 6 万亿，已经碾压 Visa（约3.5万亿）和 Mastercard（越2.5万亿）的极度支付量。USDT 的供应从 Tron 回流到以太坊。这是真实采用而非投机，机构资金在实打实的加速进场。
 
+## valuation
+- [ ] 研究以太坊的估值模型 #active 
+
 # References
 ## zk
 https://x.com/VitalikButerin/status/1978432581298204951
@@ -58,5 +61,7 @@ https://x.com/lanhubiji/status/1996103075766173861
 https://x.com/nake13/status/1996241760155312566
 ## insight
 https://x.com/Snapcrackle/status/1992924911325905256
+https://ethval.com/
 ## adoption
 https://x.com/dankrad/status/1998289130967691697
+
