@@ -72,6 +72,10 @@ USDC 作为原生 gas，网络费用收入将进入国库。
 
 目前CRCL总股本数约是2.3548亿，按照200亿-100亿美元总市值的合理建仓区间，三个便于记忆的对应股价： 200亿：84刀 150亿：64刀 100亿：42刀
 
+CRCL 与信贷模式的区别：
+银行必须承担信用风险才能赚钱；  Circle 不需要承担任何信用风险就能赚钱。
+银行不是100％准备金，因此天然怕挤兑。
+
 
 ## Competitor
 
@@ -90,6 +94,7 @@ https://x.com/sunnyfinance1/status/1989512766302941197
 https://x.com/chenreason/status/1989368205081792997
 https://weibo.com/1763492752/QdO28tPW2
 https://x.com/lufeieth/status/1997360211955237258
+https://x.com/JUNLAI87000115/status/1996610885541130593
 ## competitor
 https://x.com/mindaoyang/status/1995153593402372249
 ## leadership
