@@ -70,7 +70,7 @@ Tags: [[mind-iteration]]
 ## Train
 
  控制圈练习 －不在可控的事件上投入精力
- 负面可视化－给自己合理的心理预期
+ 负面可视化－给自己合理的心#理预期
  情绪分离－深呼吸，把更高的自己显现，让掌管自己的身体
  自愿的不适－可以选择一些不舒服的小事
  
@@ -79,3 +79,4 @@ Tags: [[mind-iteration]]
 # References
 https://x.com/ReynoldDai/status/1988933675694661854
 https://x.com/ReynoldDai/status/1989179739408593211
+https://x.com/PandaTalk8/status/1998652856451346889
