@@ -33,6 +33,7 @@ Actions:
 
 The core is not solidity. Please don't learn syntax. Learn core EVM concepts, smart contract design patterns, and O(1) algorithms. Read EIPs, audit reports, and exploit post-mortems. Study basic cryptography, key management, and established DeFi protocols.
 
+Play CTFs, Study real exploits(SCH), Share your journey
 
 
 # References
