@@ -48,3 +48,5 @@ https://x.com/jiahao_luo9/status/2001094744168923332
 https://github.com/theredguild/damn-vulnerable-defi
 https://github.com/SunWeb3Sec/DeFiHackLabs
 https://github.com/slowmist/Knowledge-Base
+## raodmap
+https://github.com/panditdhamdhere/master_smart_contracts
