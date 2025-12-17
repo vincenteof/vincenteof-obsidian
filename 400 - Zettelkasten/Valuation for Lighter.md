@@ -20,6 +20,9 @@ Another way of evaluation is comparing lighter to robinhood, since they are all 
 The last time lighter get fund it was valued at 1.5B and most good project will get a 1~10x FDV when TGE (Actually there many project's TGE FDV is over 10x, but since vc based project is not preferred in 2025, some's FDV is less then 1x). I think the OTC price (100u) is very fair.
 
 Lighter also airdrops memecoins. We can assume the total points are 10M, and the total supply for the meme coin is 1B, and half of it airdrops to points, so each point get 0.5B / 10M = 50 tokens. 
+
+假设总量为 1B，如果空投比例为 25％，则空投总数为 0.25B，目前总积分为 12M，1 积分大约 20.83 个币。
+Funder
 ## Big Story
 
 The long term story is that, ethereum is the chain has the best liquidity. As an L2, lighter is able to take defi primitive (like LP token) as collateral to open position with the lp token still earning fees.
