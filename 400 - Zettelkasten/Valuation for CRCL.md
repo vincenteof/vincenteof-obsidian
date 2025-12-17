@@ -84,7 +84,7 @@ Tether 并不是很透明，因为把部分储备金配置成了 BTC 和 黄金�
 Circle管理层我觉得主要看两个人：创始人Jeremy Allaire三次创业都还很成功、他的推比较活跃。 现任总裁Heath Tarbert背景相当可以：最早是白宫助理法律顾问，曾经担任过财政部助理部长、CFTC美国商品及期货委员会的主席、城堡证券的首席法律顾问，23年加入Circle。这俩一个管业务，一个管合规。
 
 ## Growth
-Visa 引入 USDC 结算，目前使用 Solana，后续可能会接入 Arc。接入 Arc 显然能给 CRCL 带来更多收入，目前在 Solana 进行大规模结算，CRCL 能否获得价值捕获？是通过
+Visa 引入 USDC 结算，目前使用 Solana，后续可能会接入 Arc。接入 Arc 显然能给 CRCL 带来更多收入，目前在 Solana 进行大规模结算，CRCL 能否获得价值捕获？是通过转换成法币的通道？
 
 
 # References
