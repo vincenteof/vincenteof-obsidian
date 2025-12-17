@@ -22,7 +22,14 @@ The last time lighter get fund it was valued at 1.5B and most good project will 
 Lighter also airdrops memecoins. We can assume the total points are 10M, and the total supply for the meme coin is 1B, and half of it airdrops to points, so each point get 0.5B / 10M = 50 tokens. 
 
 假设总量为 1B，如果空投比例为 25％，则空投总数为 0.25B，目前总积分为 12M，1 积分大约 20.83 个币。
-Funder
+Funders Fund 最后一轮以 1.5B 估值投资，这个估值一个单币价格为 1.5U，1分约31.245U。
+场外 1M 单子的买入价为 80U/分，单币价格为 3.84U，估值 3.84B。
+1.5U/Token -> 31.245U/Point -> 1.5B Valuation
+3.0U/Token -> 62.5U/Point -> 3B Valuation
+4.0U/Token -> 83.32U/Point -> 4B Valuation
+5.0U/Token -> 104.15U/Point -> 5B Valution
+8.0U/Token -> 166.64U/Point -> 8B Valution
+10.0/Token -> 208.3U/Point -> 10B Valution
 ## Big Story
 
 The long term story is that, ethereum is the chain has the best liquidity. As an L2, lighter is able to take defi primitive (like LP token) as collateral to open position with the lp token still earning fees.
