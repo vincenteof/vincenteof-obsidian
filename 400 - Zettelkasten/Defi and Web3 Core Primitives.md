@@ -36,8 +36,15 @@ The core is not solidity. Please don't learn syntax. Learn core EVM concepts, sm
 Play CTFs, Study real exploits(SCH), Share your journey
 
 
+
 # References
+## insight
 https://x.com/shafu0x/status/1978062876779622600
 https://x.com/shafu0x/status/1978634370496782357
 https://x.com/shafu0x/status/1998571949480395025
 https://x.com/Arvolear/status/1998450157730541928
+## vul
+https://x.com/jiahao_luo9/status/2001094744168923332
+https://github.com/theredguild/damn-vulnerable-defi
+https://github.com/SunWeb3Sec/DeFiHackLabs
+https://github.com/slowmist/Knowledge-Base
