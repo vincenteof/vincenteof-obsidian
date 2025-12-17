@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 - Zettelkasten/真正的学习.md",
+                "file": "400 - Zettelkasten/Funding Rate Arbitrage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "真正的学习"
+              "title": "Funding Rate Arbitrage"
             }
           }
         ],
@@ -108,7 +108,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "学习",
+            "query": "funding rate",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -226,6 +226,15 @@
   },
   "active": "49edd0349a359cc6",
   "lastOpenFiles": [
+    "400 - Zettelkasten/完美的资金流转方案.md",
+    "/400 - Zettelkasten/完美的资金流转方案.md",
+    "/400 - Zettelkasten/完美的 JS 框架.md",
+    "/400 - Zettelkasten/Valuation for CRCL.md",
+    "/400 - Zettelkasten/Defi and Web3 Core Primitives.md",
+    "/400 - Zettelkasten/React Stack Patterns.md",
+    "400 - Zettelkasten/React Stack Patterns.md",
+    "/400 - Zettelkasten",
+    "400 - Zettelkasten/真正的学习.md",
     "400 - Zettelkasten/AI Coding Stack.md",
     "400 - Zettelkasten/关于期限错配.md",
     "400 - Zettelkasten/Valuation for SPY.md",
@@ -240,19 +249,10 @@
     "/400 - Zettelkasten/通缩时代的历史经验及教训.md",
     "/400 - Zettelkasten/聪明人为什么破产.md",
     "/400 - Zettelkasten/治理代币的价值.md",
-    "/400 - Zettelkasten/完美的 JS 框架.md",
     "/400 - Zettelkasten/关于期限错配.md",
     "/400 - Zettelkasten/人生复利思维.md",
     "/400 - Zettelkasten/Valuation for TSLA.md",
     "/400 - Zettelkasten/Valuation for SPY.md",
-    "/400 - Zettelkasten/Valuation for CRCL.md",
-    "/400 - Zettelkasten/Valuation for BTC.md",
-    "/400 - Zettelkasten/Valuation for BRK.md",
-    "/400 - Zettelkasten/Valuation For Etherum.md",
-    "/400 - Zettelkasten/Stoicism.md",
-    "/400 - Zettelkasten/Prediction Market.md",
-    "/400 - Zettelkasten/How to farm on Ethena.md",
-    "/400 - Zettelkasten",
     "/800 - Blogs",
     "/200 - Materials/220 - Youtube",
     "/200 - Materials/210 - X",
