@@ -3,6 +3,7 @@ Tags: [[valuation]] [[macro]]
 
 # Valuation for BTC
 
+## Power
 - [x] analyze influence of enery price increasement on bitcoin and mining company #active ✅ 2025-12-04
 
 比特币货币化了能源，所有搁浅的电力最终都将转化为比特币。当挖矿成本小于比特币市场价的时候，这个过程会不断进行。当市场价明显低于电力成本时，从二级市场上直接买币更为划算，因此对比特币的价格产生了支撑。比特币本身的特性非常适合做储值工具，而作为储值工具它的价格又一定程度上增强它的价值，这里产生了自强化的循环，让上述货币化的过程可以不断重复，从而让比特币的价格可以不断锚定能源的价格。
@@ -16,9 +17,15 @@ The grid powers AI.
 AI increases demand for more energy. 
 Which Bitcoin again monetizes.
 
+Hash Rate 是衡量整个比特币网络计算能力的指标，单位是 EH/s（每秒万亿亿次哈希计算）或者 ZH/s（1 ZH/s = 1000 EH/s）。哈希率越高，网络越安全，因为攻击它需要更多资源。哈希率代表了矿工投入的“真实努力”——包括电力、设备和基础设施。
+
+
+## MSTR
+
 - [x] analyze mstr USD reserve #active ✅ 2025-12-02
 MSTR 预计通过 ATM 增发股票筹钱建立 USD 储备来支付股息和利息。目前这 14.4 亿美金至少足够支付 12 个月，因为在短期内不会出售 BTC。
-# post quntum
+
+## post quntum
 量子计算可以做到从公钥计算出私钥，因为所有用公钥签名过的地址都有被破解风险，比如转账或参与只能合约。中本聪的公钥也是暴露的，一种可行的升级方案是提供窗口期进行升级，超过升级窗口期没升级的进行冻结。
 ## lessons from history
 
