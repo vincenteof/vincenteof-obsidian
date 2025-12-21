@@ -12,7 +12,7 @@ I am not interested in it anymore, and I will take all my money out when this se
 
 - [ ] compare Aave, Spark and Morpho #active 
 
-- [ ] analyze morpho curator problem #active 
+- [ ] analyze morpho curator problem
 
 # References
 ## spark

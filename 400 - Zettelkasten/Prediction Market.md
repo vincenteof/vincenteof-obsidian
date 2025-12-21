@@ -3,7 +3,7 @@ Tags:  [[crypto]] [[trade]]
 
 # Prediction Market
 ## How it works
-- [ ] figure out how it works #active 
+- [ ] figure out how it works
 
 ## How to make profit
 - [ ] learn how to make profit
