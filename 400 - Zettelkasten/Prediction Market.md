@@ -2,6 +2,14 @@ Date: 2025-08-28
 Tags:  [[crypto]] [[trade]]
 
 # Prediction Market
+
+## Why
+预测市场可以被是做真相的金融化。一些用途与价值
+- 对冲黑天鹅事件，用作保险但是没有保险公司
+- 真相作为可交易的商品，形成注意力广播网络
+- 
+- 重述真理发现机制
+
 ## How it works
 - [ ] figure out how it works
 
@@ -46,6 +54,7 @@ https://x.com/0xTykoo/status/1981287488116445438
 https://x.com/WinForKakei/status/1982800688519450677
 https://x.com/ec_unoxx/status/1983580778660557076
 https://x.com/qinbafrank/status/1997929577197502552
+https://x.com/indigox/status/2001564858668716147
 ### projects
 https://x.com/blockphd7/status/1978077274311217204
 https://x.com/Alvin0617/status/1977789972934774917
