@@ -31,7 +31,13 @@ Funders Fund 最后一轮以 1.5B 估值投资，这个估值一个单币价格�
 8.0U/Token -> 166.64U/Point -> 8B Valution
 10.0/Token -> 208.3U/Point -> 10B Valution
 
-Lighter 和 Hyperliquid 讲的是不一样的故事。Hyperliquid 针对追求自由的散户，Lighter 更像是
+Lighter 和 Hyperliquid 讲的是不一样的故事。Hyperliquid 针对追求自由的散户，Lighter 更像是作为 TradeFi & Fintech 的 Infrastructure Layer。
+1.5B FDV 的价格作为 VC 设立的基准，4.2B 作为场外 OTC 及 pre-market 交易出来的结果。
+如果用 5倍 TVL 估值，那么是 7.2B。作为对比，HL 是 5.8倍，Aster 是 4.2 倍。因此这并不是一个特别离谱的估值。
+如果用收入估值，年收入 HL 为 900M，Aster 为 513M，Lighter 为 167.9M。这方面 Lighter 确实逊色于前两者，但是毕竟 Lighter 产品形态未完全且还没有 token。
+Bear：1.5B - 4.2B
+Base: 4.2B - 7.5B
+Bull: 7.5B - 12.5B+
 
 ## Big Story
 The long term story is that, ethereum is the chain has the best liquidity. As an L2, lighter is able to take defi primitive (like LP token) as collateral to open position with the lp token still earning fees.
@@ -45,6 +51,17 @@ HL 上线了 pre ipo 股票的 perp，比如 OPENAI-USDH。因为没有现货价
 
 ## Long-term Milestone
 Forex and commodities are already supported on Lighter. Next is spot market. And prediction market and option are also in the plan.
+
+2026 Expansion：
+- ZK EVM
+- RWA Perps
+- RWA Spot
+- Portfolio Margin
+- Mobile App
+- Prediction Markets
+- S3 / Tokenomics
+- …and more
+
 
 # References
 #### valuation

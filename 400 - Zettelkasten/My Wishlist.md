@@ -21,7 +21,7 @@ Tags: [[wishlist]]
 - 汇丰 Pulse
 - A house with Tesla Powerwall
 - Tesla Model3
-- 个人办公室
+- 个人办公室或地下室
 
 
 **Spiritual**:
@@ -40,3 +40,4 @@ https://x.com/manateelazycat/status/1970815014861930775
 https://x.com/manateelazycat/status/1988795054492885266
 https://x.com/levelsio/status/1988878240191246590
 https://x.com/SovereignIntern/status/1994283612729167990
+https://x.com/indigox/status/2002292899325579300
