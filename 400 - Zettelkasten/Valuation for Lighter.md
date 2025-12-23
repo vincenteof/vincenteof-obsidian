@@ -30,8 +30,10 @@ Funders Fund 最后一轮以 1.5B 估值投资，这个估值一个单币价格�
 5.0U/Token -> 104.15U/Point -> 5B Valution
 8.0U/Token -> 166.64U/Point -> 8B Valution
 10.0/Token -> 208.3U/Point -> 10B Valution
-## Big Story
 
+Lighter 和 Hyperliquid 讲的是不一样的故事。Hyperliquid 针对追求自由的散户，Lighter 更像是
+
+## Big Story
 The long term story is that, ethereum is the chain has the best liquidity. As an L2, lighter is able to take defi primitive (like LP token) as collateral to open position with the lp token still earning fees.
 
 - [x] conclude things related to citadel and robinhood #active ✅ 2025-11-18
@@ -40,6 +42,7 @@ Founder of lighter has deep relationship of tradfi (citadel and robinhood). If R
 Lighter 可能会成为 Robinhood 的一个后端接受从那边路由过来的订单，Robinhood 本身也是 Lighter 的 VC，本身也在押注 Lighter。
 
 HL 上线了 pre ipo 股票的 perp，比如 OPENAI-USDH。因为没有现货价格，因此他们采用的是所内订单簿上的移动平均价格最为预言机价格进行费率机制。这本质上是带了杠杆的预测市场，是被严格监管的，因为风险很大，价格非常容易被操纵。
+
 ## Long-term Milestone
 Forex and commodities are already supported on Lighter. Next is spot market. And prediction market and option are also in the plan.
 
@@ -53,6 +56,7 @@ https://x.com/samyamtrading/status/1976241096691941456
 https://x.com/habitbreakerw/status/1978652591317004657
 https://x.com/Eugene_Bulltime/status/1980984059330183414
 https://x.com/habitbreakerw/status/1981179697200582965
+https://x.com/ingalvarezsol/status/2002560333638926727
 #### zk
 http://x.com/c_dylanber/status/1963044895532449971
 https://x.com/hansolar21/status/1961387368218595470
