@@ -77,6 +77,7 @@ FSD:
 2. when remove the security officer (by the end of 2025)
 3. when will FSD allow driver to use the phone (by the end of 2025)
 
+## Leadership
 
 
 
@@ -105,3 +106,5 @@ https://x.com/pbeisel/status/1831315999037210900
 https://grok.com/share/bGVnYWN5LWNvcHk_a4e5bb9a-0a35-4212-b32c-4f024e07d3de
 https://x.com/Louistesla93/status/1992022320958107887
 https://x.com/XieJackie/status/1991902747688579074
+## leadership
+https://x.com/RakukageMSC/status/2001274700690010341
