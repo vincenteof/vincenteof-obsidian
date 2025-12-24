@@ -4,40 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "b04f1dd7c041a9f4",
+        "id": "d2faba9a80633cac",
         "type": "tabs",
         "children": [
           {
-            "id": "294a5bb2a079a4d8",
+            "id": "c29ee3635bf9d5e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "400 - Zettelkasten/Huma YT farming plan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Huma YT farming plan"
+              "title": "New tab"
             }
           },
           {
-            "id": "cd914a85153968d8",
+            "id": "d4694ff4a8c61155",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Daily Notes/2025-09-23.md",
+                "file": "400 - Zettelkasten/My Heroes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +38,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-23"
-            }
-          },
-          {
-            "id": "49edd0349a359cc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "400 - Zettelkasten/Valuation for Lighter.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Valuation for Lighter"
+              "title": "My Heroes"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +70,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "lighter",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -145,7 +107,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "f9bc89e2b104ad64",
@@ -224,8 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49edd0349a359cc6",
+  "active": "d4694ff4a8c61155",
   "lastOpenFiles": [
+    "400 - Zettelkasten/My Heroes.md",
+    "400 - Zettelkasten/Huma YT farming plan.md",
+    "400 - Zettelkasten/Valuation for Lighter.md",
     "400 - Zettelkasten/人生宪法.md",
     "400 - Zettelkasten/英语口语学习.md",
     "/400 - Zettelkasten/人生复利思维.md",
@@ -250,9 +215,6 @@
     "400 - Zettelkasten/Funding Rate Arbitrage.md",
     "400 - Zettelkasten/完美的资金流转方案.md",
     "/400 - Zettelkasten/完美的资金流转方案.md",
-    "/400 - Zettelkasten/React Stack Patterns.md",
-    "400 - Zettelkasten/React Stack Patterns.md",
-    "400 - Zettelkasten/真正的学习.md",
     "/800 - Blogs",
     "/200 - Materials/220 - Youtube",
     "/200 - Materials/210 - X",
