@@ -11,6 +11,8 @@ Backpack 的基本思路是先做底层primitive，最后再打通所有基础�
 
 S4 第五周，日本市场合规完成。
 
+## valuation
+每个赛季 100M 积分，S4 TGE 的话积分总量就是 400M。按照 25％ 空投和 1B FDV 估值的话，一分就是 0.625U。
 
 
 # References
