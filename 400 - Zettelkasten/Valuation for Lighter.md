@@ -62,6 +62,11 @@ Forex and commodities are already supported on Lighter. Next is spot market. And
 - S3 / Tokenomics
 - …and more
 
+## Token Economics
+从简版的说明来看：
+1. 协议收入全部分配给持有者，具体形式kennel是回购或分红
+2. 质押以获得访问权限
+3. 获取市场数据的费用代币
 
 # References
 #### valuation
@@ -90,5 +95,6 @@ https://x.com/0xJaehaerys/status/1983251296095482338
 https://x.com/shawnchen_eth/status/1989946440358269194
 https://x.com/satoshiheist/status/1993100188076921019
 https://x.com/lilk1kopops/status/1993604360786620747
+https://x.com/Lighter_xyz/status/2005862682608472263
 ### tool
 https://x.com/c_dylanber/status/1979002654291562599
