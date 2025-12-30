@@ -77,9 +77,7 @@ FSD:
 2. when remove the security officer (by the end of 2025)
 3. when will FSD allow driver to use the phone (by the end of 2025)
 
-## Leadership
-Elon的身价表示人们在押注世界将被颠覆。底层机制将被改写，不确定性大到可能导致裂变。纸面的财富如果不能捕获新的范式转移，那么只会一点点被洗牌走。巴菲特在上一轮抓住了 APPL，这个决策也对他的整体收益率产生了关键的作用。
-Buffett的世界观假设世界稳定、激励趋同、时间会平滑波动；Musk的世界观假设世界剧变、激励分化、时间放大差异。资本已选择相信后一种更“真实”的视角，这解释了为什么Musk的财富相对暴增，而Buffett相对落后。当机构失去合法性（无法有效解决问题）但仍握有权力时，系统会寻找替代者——那些能承受混乱、外部化风险、先行一步的人。
+
 
 
 # References
@@ -107,5 +105,3 @@ https://x.com/pbeisel/status/1831315999037210900
 https://grok.com/share/bGVnYWN5LWNvcHk_a4e5bb9a-0a35-4212-b32c-4f024e07d3de
 https://x.com/Louistesla93/status/1992022320958107887
 https://x.com/XieJackie/status/1991902747688579074
-## leadership
-https://x.com/RakukageMSC/status/2001274700690010341

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2faba9a80633cac",
+        "id": "026b4ae265b94673",
         "type": "tabs",
         "children": [
           {
-            "id": "c29ee3635bf9d5e2",
+            "id": "3d46fa6050150cc9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,33 +16,8 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "d4694ff4a8c61155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "400 - Zettelkasten/My Heroes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "My Heroes"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +161,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4694ff4a8c61155",
+  "active": "3d46fa6050150cc9",
   "lastOpenFiles": [
     "400 - Zettelkasten/My Heroes.md",
     "400 - Zettelkasten/Huma YT farming plan.md",
