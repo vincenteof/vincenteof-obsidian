@@ -37,6 +37,8 @@ Play CTFs, Study real exploits(SCH), Share your journey
 
 
 Read the theory first, Understand the protocol, read the fkn code and build using this.
+
+使用 deepwiki 学习代码架构
 # References
 ## insight
 https://x.com/shafu0x/status/1978062876779622600
@@ -52,3 +54,6 @@ https://x.com/0xSimao/status/2001064877624815887
 ## raodmap
 https://github.com/panditdhamdhere/master_smart_contracts
 https://x.com/panditdhamdhere/status/2001218503907664161
+
+## tool
+https://x.com/vikingmute/status/2004829889577582781
