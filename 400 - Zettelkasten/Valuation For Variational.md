@@ -3,7 +3,12 @@ Tags: [[valuation]]
 
 # Valuation For Variational
 
+## thoughts
 链上 RFQ 天生存在被套利者剥削的问题，需要被解决。具体这个问题是否影响到 Var 需要了解到他的底层实现细节。
+
+## valuation
+积分总数 9M，FDV 参考 PM 约为 500M 到 1B，第一波空头 20% - 25%，都取中位数的话一积分约为 20.83U
+
 
 # References
 ## insight
@@ -15,3 +20,4 @@ https://x.com/lerolwen/status/1980568571622404349
 https://x.com/Lisir020306/status/1984246299949244591
 https://x.com/mr_plumpkin/status/1985548765382717582
 https://x.com/dongdongRobin/status/2000853585127727158
+https://x.com/0Xlynn03/status/2005990289811595727
