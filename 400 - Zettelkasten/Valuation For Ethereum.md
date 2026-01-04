@@ -1,7 +1,7 @@
 Date: 2025-10-16
 Tags: [[macro]] [[valuation]] [[ethereum]]
 
-# Valuation For Etherum
+# Valuation For Ethereum
 
 ## defi
 链上低风险 Defi 可以被更多大资金作为 saving account, 核心还是得解决安全问题，比如为协议引入保险金库。这比高风险的挖矿协议更有长期价值。稳定币及 RWA 规模也被预期会快速增长。
