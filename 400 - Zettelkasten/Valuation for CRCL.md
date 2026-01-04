@@ -75,6 +75,8 @@ CRCL 与信贷模式的区别：
 银行必须承担信用风险才能赚钱；  Circle 不需要承担任何信用风险就能赚钱。
 银行不是100％准备金，因此天然怕挤兑。
 
+- [ ] 阅读总结社区里的利用 AI 的正反讨论 #active 
+
 ## Competitor
 
 Tether 并不是很透明，因为把部分储备金配置成了 BTC 和 黄金，如果他们下跌可能会导致资产储备不足 100％。因为过去一段时间它分红越 100 亿，可以推测近几年他们通过分红把 200 ～300 亿美元权益表外化。如果仍在集团体系内，那它的真实安全垫可能远高于目前的表面数字。他们的 BTC 和黄金投资很成功，但是分红后可能没有进行再平衡，导致风险资产占比过高。Tether 的体量已经大到全球系统级。做到真正 100% USD 足额支持，远比拿用户铸币的钱去做方向性押注更重要。因此它也被标普评级降级。
@@ -103,6 +105,7 @@ https://x.com/chenreason/status/1989368205081792997
 https://weibo.com/1763492752/QdO28tPW2
 https://x.com/lufeieth/status/1997360211955237258
 https://x.com/JUNLAI87000115/status/1996610885541130593
+https://x.com/lufeieth/status/2005955861089239188
 ## competitor
 https://x.com/mindaoyang/status/1995153593402372249
 https://defillama.com/stablecoins
