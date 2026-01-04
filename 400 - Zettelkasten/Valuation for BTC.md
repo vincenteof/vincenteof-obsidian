@@ -25,9 +25,15 @@ Hash Rate 是衡量整个比特币网络计算能力的指标，单位是 EH/s�
 ## MSTR
 
 - [x] analyze mstr USD reserve #active ✅ 2025-12-02
+
 MSTR 预计通过 ATM 增发股票筹钱建立 USD 储备来支付股息和利息。目前这 14.4 亿美金至少足够支付 12 个月，因为在短期内不会出售 BTC。
 
-- [ ] 关于 MSTR 成为 BTC 央行 #active 
+- [ ] 关于 MSTR 成为 BTC 银行 #active 
+
+Saylor 自己发了一张摩根大通风格的肖像并配文：
+**Bitcoin is money. Everything else is credit.**
+
+很明显 Saylor 的野心是想做比特币储备的 **影子** 银行，当 BTC 的市值变的足够大时，他可能能成为一个真正的银行。目前它更像是 “金匠银行 / 商人银行的早期阶段”，它手里持有硬资产储备，对外发行凭证型负债。不同点是是历史上的“凭证”会进入支付/清算体系，逐渐货币化；而 MSTR 的负债目前主要是资本市场证券，**不直接承担支付与存款职能**。
 
 
 
