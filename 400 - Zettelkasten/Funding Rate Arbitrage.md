@@ -4,7 +4,7 @@ Tags:  [[arbitrage]]
 
 # Funding Rate Arbitrage
 
-Frist, we need find a tool to monitor funding rate difference between different exchanges. With perp dex, there will be more chance for use to find.
+First, we need find a tool to monitor funding rate difference between different exchanges. With perp dex, there will be more chance for use to find.
 
 # References
 https://x.com/Ferrari4u2/status/1985753358766891167
@@ -13,3 +13,5 @@ https://ghzperpdextools.vercel.app/MM
 https://x.com/StayRoamer/status/1972066174205878495
 https://x.com/WisdomMatic/status/1987792275892514929
 https://x.com/0xYuCry/status/1994655465410891961
+https://x.com/JoestarCrypto/status/2007512305211453538
+https://toomanycooks.app/

@@ -77,6 +77,9 @@ FSD:
 2. when remove the security officer (by the end of 2025)
 3. when will FSD allow driver to use the phone (by the end of 2025)
 
+## Signal
+
+Q4 公开了卖方分析师的交付共识，主要应该还是控制预期，因为从 2025 Q4 到 2026 年全年，交付数据都可能下滑，受美国联邦EV税收抵免到期、竞争加剧等影响。
 
 
 
@@ -105,3 +108,5 @@ https://x.com/pbeisel/status/1831315999037210900
 https://grok.com/share/bGVnYWN5LWNvcHk_a4e5bb9a-0a35-4212-b32c-4f024e07d3de
 https://x.com/Louistesla93/status/1992022320958107887
 https://x.com/XieJackie/status/1991902747688579074
+## signal
+https://x.com/JasonZX/status/2006049688261386433
