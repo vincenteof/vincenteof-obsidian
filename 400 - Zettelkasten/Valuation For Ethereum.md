@@ -18,6 +18,9 @@ Tags: [[macro]] [[valuation]] [[ethereum]]
 2年10倍、4年100倍、六年 1000倍。（这还真不是放卫星），2年内主要依靠 Gas 提升加并行，还有延迟执行等优化，4年以上靠 ZK。
 gasLimit 是以太坊上面每个区块中所有交易可以消耗的 gas 上限。假设目前每个区块的 gasLimit 是 30M，一笔普通的转账大约消耗 21000 gas，那么一个区块最多 1428 比转账，因为区块时间为 12s，那么TPS 约为 119。因此提高 gasLimit 是直观可以提升 TPS 的方法。但是这样会对节点产生更大的负担，一定程度上削弱节点的去中心化。
 
+据 Vitalik 说，ZK-EVM 和 PeerDAS 将解决不可能三角。
+2026年，先不靠ZK-EVM，将gas限额（处理能力）大幅提高，还能试跑ZK节点； 2026-28年，调费用、改数据结构，让高负载更安全； 2027-30年，ZK-EVM成主流，处理能力再翻倍。
+
 ## Upgrade
 ### Fusaka
 EIP-7594，L2 成本大量降低，通过 Blob 扩容 + PeerDAS。以后 L2 的 Blob 不用完全检查了，（基于密码学）抽样检查即可。这样共识层的节点可以再不提升配置的前提下，处理更多 L2 Blob，社区分析认为这个让 L2 再便宜 8x。
@@ -58,6 +61,7 @@ https://x.com/lanhubiji/status/1994999784256803075
 https://x.com/lanhubiji/status/1992823572885360746
 ## scaling
 https://x.com/NPC_Leo/status/1993569168785121787
+https://x.com/lanhubiji/status/2007718657695330577
 ## UX
 https://x.com/nake13/status/1995319745030295717
 ## upgrade
