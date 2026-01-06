@@ -69,6 +69,8 @@ https://chatgpt.com/share/69397d0c-0b4c-8008-a1da-961f42a4b18c
 V14 也引入了更多推理能力，直观感受就是 FSD 近似有意识，判用户需求、个性化服务，人类逐渐从驾驶中解放。
 
 V14.2 已经展现了完全解决自动驾驶的能力，许多人都汇报长距离自动驾驶 0 接管。Elon 说 V14.3 是自动驾驶的最后一块拼图。
+
+模型的进化只取决于数据和算力。在数据端，有着车队的 TSLA 有较大的优势。算力端是比谁的口袋深。长期来看，NVDA 可能有一些些优势。UBER 有一些网络效应的优势，
  
 ## Milestone
 
@@ -80,6 +82,8 @@ FSD:
 ## Signal
 
 Q4 公开了卖方分析师的交付共识，主要应该还是控制预期，因为从 2025 Q4 到 2026 年全年，交付数据都可能下滑，受美国联邦EV税收抵免到期、竞争加剧等影响。
+
+英文达和奔驰合作，年底推出自动驾驶车辆。方案类似于纯视觉的 FSD。需要关注这个合作对 NVDA 而言具体意味什么，如果只是为了售卖芯片那么威胁程度很低。
 
 
 
@@ -97,6 +101,8 @@ https://x.com/jason1730/status/1982443011633295666
 https://x.com/pirrer/status/1982379299039834433
 https://x.com/TeslaLarry/status/1990060509979119670
 https://x.com/Maggie191919/status/1994982499110224095
+https://x.com/raines1220/status/2008365245295968370
+https://x.com/TJ_Research/status/2008402010677129224
 ### energy
 https://x.com/iamai_eth/status/1989457402203386066
 https://x.com/Tesla_Megapack/status/1989073638273012133
@@ -110,3 +116,4 @@ https://x.com/Louistesla93/status/1992022320958107887
 https://x.com/XieJackie/status/1991902747688579074
 ## signal
 https://x.com/JasonZX/status/2006049688261386433
+https://x.com/CyberCatX/status/2008379305747783703

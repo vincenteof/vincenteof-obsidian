@@ -1,7 +1,7 @@
 Date: 2025-09-07
 Tags: [[farming]]
 
-# Valuation for Lighter
+# Valuation for LIT
 
 ## Valuation
 - [x] valuation for lighter point #active ✅ 2025-09-09
@@ -68,6 +68,11 @@ Forex and commodities are already supported on Lighter. Next is spot market. And
 2. 质押以获得访问权限
 3. 获取市场数据的费用代币
 
+已确认手续费回购，国库回购账户：
+https://app.lighter.xyz/explorer/accounts/0
+
+
+
 # References
 #### valuation
 https://x.com/c_dylanber/status/1957269172515385809
@@ -96,5 +101,6 @@ https://x.com/shawnchen_eth/status/1989946440358269194
 https://x.com/satoshiheist/status/1993100188076921019
 https://x.com/lilk1kopops/status/1993604360786620747
 https://x.com/Lighter_xyz/status/2005862682608472263
+https://x.com/Lighter_xyz/status/2008309047787753497
 ### tool
 https://x.com/c_dylanber/status/1979002654291562599
