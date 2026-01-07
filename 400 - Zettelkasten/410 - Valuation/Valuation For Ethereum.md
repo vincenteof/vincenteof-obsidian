@@ -47,6 +47,12 @@ PeerDAS 降低验证者门槛85%，更加去中心化。
 - Active Users
 - Crypto Payment
 
+> 离岸美元至少在10万亿以上，如果未来有50%跑在链上，其中以太坊占比约60%（按目前大概比例），届时以太坊大约会有3万亿美元跑在链上，这3万亿美元不会静静呆在链上，会参与到各种金融活动中，交易/借贷/合约/预测市场/期权/链上股票/链上基金...
+
+以太坊上的稳定币市值：
+https://defillama.com/stablecoins/Ethereum?referrer=grok.com
+目前大约 1650 亿，达到3万亿还有约 15 倍，似乎短期内是过于乐观的预测。
+
 ## valuation
 - [ ] 研究以太坊的估值模型 #active 
 
@@ -79,4 +85,5 @@ https://ethval.com/
 ## adoption
 https://x.com/dankrad/status/1998289130967691697
 https://x.com/ready_co/status/2001610562111742325
+https://x.com/cmdefi/status/2008523414332731796
 
