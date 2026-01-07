@@ -21,7 +21,7 @@ gasLimit 是以太坊上面每个区块中所有交易可以消耗的 gas 上限
 据 Vitalik 说，ZK-EVM 和 PeerDAS 将解决不可能三角。
 2026年，先不靠ZK-EVM，将gas限额（处理能力）大幅提高，还能试跑ZK节点； 2026-28年，调费用、改数据结构，让高负载更安全； 2027-30年，ZK-EVM成主流，处理能力再翻倍。
 
-## Upgrade
+## upgrade
 ### Fusaka
 EIP-7594，L2 成本大量降低，通过 Blob 扩容 + PeerDAS。以后 L2 的 Blob 不用完全检查了，（基于密码学）抽样检查即可。这样共识层的节点可以再不提升配置的前提下，处理更多 L2 Blob，社区分析认为这个让 L2 再便宜 8x。
 
@@ -54,6 +54,14 @@ https://defillama.com/stablecoins/Ethereum?referrer=grok.com
 目前大约 1650 亿，达到3万亿还有约 15 倍，似乎短期内是过于乐观的预测。
 
 ## valuation
+
+vatalik：
+> Ethereum is not the world. Ethereum is an opinionated take on properties that we think should be available in the world for those who want or need them.
+
+持有以太坊可能永远也不会像持有谷歌的股票一样，因为一旦进入这个范畴，它几乎注定失败。以太坊的独特性，最终会让它更像其他商品，比如金银铜，而这些商品都具有周期。一旦世界对它身上的独特性产生巨大需求的时候，
+
+
+
 - [ ] 研究以太坊的估值模型 #active 
 
 # References
@@ -79,9 +87,10 @@ https://x.com/0xTodd/status/1996516205709148249
 https://x.com/lanhubiji/status/1996577110413181107
 https://x.com/lanhubiji/status/1996103075766173861
 https://x.com/nake13/status/1996241760155312566
-## insight
+## insight & valuation
 https://x.com/Snapcrackle/status/1992924911325905256
 https://ethval.com/
+https://x.com/VitalikButerin/status/2008194024012705947
 ## adoption
 https://x.com/dankrad/status/1998289130967691697
 https://x.com/ready_co/status/2001610562111742325
