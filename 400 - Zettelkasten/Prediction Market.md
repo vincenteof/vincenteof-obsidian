@@ -7,8 +7,13 @@ Tags:  [[crypto]] [[trade]]
 预测市场可以被是做真相的金融化。一些用途与价值
 - 对冲黑天鹅事件，用作保险但是没有保险公司
 - 真相作为可交易的商品，形成注意力广播网络
-- 
 - 重述真理发现机制
+
+预测市场同样也非常有反身性，它甚至有可能会影响现实世界。
+
+## Signal
+
+2026 年 1 月 8 日，道琼斯及旗下的华尔街日报正式宣布 Polymarket 成为其独家预测市场合作伙伴。华尔街日报引用 Polymarket 是为了获取极具新闻价值的预测数据，这意味着 Crypto 产生的数据首次被视为与股票债券同等重要的金融指标。
 
 ## How it works
 - [ ] figure out how it works
@@ -59,3 +64,6 @@ https://x.com/indigox/status/2001564858668716147
 https://x.com/blockphd7/status/1978077274311217204
 https://x.com/Alvin0617/status/1977789972934774917
 https://x.com/0xDeMoo/status/1979118487319777538
+## signal
+https://x.com/0xBeyondLee/status/2009160440795062602
+https://x.com/qinbafrank/status/2009406643566727600
