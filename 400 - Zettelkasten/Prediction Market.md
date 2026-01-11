@@ -21,6 +21,8 @@ Tags:  [[crypto]] [[trade]]
 ## How to make profit
 - [ ] learn how to make profit
 
+YES + NO < 1 的套利机会，在 Polymarket 早期可能比较容易抓。
+
 # References
 ## introdcution
 https://x.com/trynalearnabt/status/1968392782998835518
@@ -47,6 +49,7 @@ https://x.com/Kaseyibcc/status/1979877542778843339
 https://x.com/j0hnwang/status/1981446070447329474
 https://x.com/Eric_Option101/status/1985607946831872277
 https://x.com/GreekGamblerPM/status/1987167717590249918
+https://x.com/GodotSancho/status/2009566051424416150
 ### insight
 https://x.com/hoidya_/status/1977749569615302891
 https://x.com/0xKaKa03/status/1977794661675909151
