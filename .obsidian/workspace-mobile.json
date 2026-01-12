@@ -11,10 +11,24 @@
             "id": "3d46fa6050150cc9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "300 - Daily Notes/2026-01-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-01-06"
             }
           }
         ]
@@ -163,6 +177,29 @@
   },
   "active": "3d46fa6050150cc9",
   "lastOpenFiles": [
+    "400 - Zettelkasten/Coding Agent 工作流.md",
+    "400 - Zettelkasten/If you have multiple interests, do not waste the next 2-3 years.md",
+    "000 - Indexes/vibe-coding.md",
+    "/400 - Zettelkasten/通缩时代的历史经验及教训.md",
+    "/400 - Zettelkasten/完美的资金流转方案.md",
+    "/400 - Zettelkasten/人生复利思维.md",
+    "/400 - Zettelkasten/中国房地产的终局.md",
+    "/400 - Zettelkasten/个人工作流.md",
+    "/400 - Zettelkasten/Prediction Market.md",
+    "/400 - Zettelkasten/If you have multiple interests, do not waste the next 2-3 years.md",
+    "/400 - Zettelkasten/Coding Agent 工作流.md",
+    "/400 - Zettelkasten/AI 终局.md",
+    "/400 - Zettelkasten/420.1 - Life Log/Life Log 2026 Q1.md",
+    "/400 - Zettelkasten/420.1 - Life Log",
+    "/400 - Zettelkasten/410 - Valuation/Valuation for TSLA.md",
+    "/400 - Zettelkasten/410 - Valuation/Valuation For Ethereum.md",
+    "/400 - Zettelkasten/410 - Valuation",
+    "/400 - Zettelkasten",
+    "/000 - Indexes/vibe-coding.md",
+    "/000 - Indexes/china.md",
+    "000 - Indexes/china.md",
+    "/000 - Indexes",
+    "300 - Daily Notes/2026-01-06.md",
     "400 - Zettelkasten/great-post.md",
     "400 - Zettelkasten/The Prison Of Financial Mediocrity.md",
     "400 - Zettelkasten/前额叶训练及多巴胺脱敏.md",
@@ -170,34 +207,11 @@
     "400 - Zettelkasten/410 - Valuation/Valuation for BTC.md",
     "400 - Zettelkasten/410 - Valuation/Valuation for xAI.md",
     "400 - Zettelkasten/410 - Valuation/Valuation For Ethereum.md",
-    "400 - Zettelkasten/410 - Valuation/Valuation for CRCL.md",
-    "400 - Zettelkasten/410 - Valuation/Valuation for SPY.md",
-    "400 - Zettelkasten/410 - Valuation/Valuation for LIT.md",
-    "400 - Zettelkasten/410 - Valuation/Valuation for BRK.md",
-    "400 - Zettelkasten/410 - Valuation/Valuation For Variational.md",
-    "400 - Zettelkasten/410 - Valuation/Valuation for TSLA.md",
-    "400 - Zettelkasten/410 - Valuation/Valuation for NVDA.md",
-    "400 - Zettelkasten/410 - Valuation/Valuation for BP.md",
     "400 - Zettelkasten/410 - Valuation",
-    "400 - Zettelkasten/420.2 - Trade Log/Trade Log 2025 Q3.md",
-    "400 - Zettelkasten/420.2 - Trade Log/Trade Log 2026 Q1.md",
     "400 - Zettelkasten/420.2 - Trade Log",
-    "400 - Zettelkasten/420.1 - Life Log/Life Log 2026 Q1.md",
     "400 - Zettelkasten/420.1 - Life Log",
-    "/400 - Zettelkasten/410 - Valuation/Valuation for xAI.md",
-    "/400 - Zettelkasten/410 - Valuation/Valuation for NVDA.md",
-    "/400 - Zettelkasten/410 - Valuation/Valuation for SPY.md",
-    "/400 - Zettelkasten/410 - Valuation/Valuation for BRK.md",
-    "/400 - Zettelkasten/410 - Valuation/Valuation for BP.md",
-    "/400 - Zettelkasten/白银的逼仓逻辑.md",
-    "/400 - Zettelkasten/我的投资框架.md",
-    "/400 - Zettelkasten/完美的资金流转方案.md",
     "/300 - Daily Notes",
     "/200 - Materials/210 - X",
-    "/200 - Materials",
-    "/000 - Indexes",
-    "/400 - Zettelkasten/420.2 - Trade Log",
-    "/400 - Zettelkasten/420.1 - Life Log",
-    "/400 - Zettelkasten/410 - Valuation"
+    "/200 - Materials"
   ]
 }
