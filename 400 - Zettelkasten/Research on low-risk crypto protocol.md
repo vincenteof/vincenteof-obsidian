@@ -10,9 +10,7 @@ TAL 更能表明需求端的强劲，说明流动性在被正在使用，而非�
 
 I am not interested in it anymore, and I will take all my money out when this season finishes. I don't want to take too much risk on my cash position. I will just use protocols with highest TVL.
 
-- [ ] compare Aave, Spark and Morpho #active 
-
-- [ ] analyze morpho curator problem
+- [ ] compare Aave, Spark and Morpho
 
 # References
 ## spark

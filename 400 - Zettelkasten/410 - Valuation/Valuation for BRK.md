@@ -31,7 +31,7 @@ Todd 与 2025/12/08 宣布离职。Todd 与 Ted 分别掌握 15B 的资金，约
 Todd 对保险和金融理解比较深且投资更分散保守，Ted 集中度更高更大的 conviction，Abel 可能更关注实业。
 Todd 与 Ted 各掌握约 150 亿美元，合计 ~300 亿，是 BRK 投资端的“未来样板间”。Todd 风格偏保守、偏金融、重风险控制；Ted 偏集中、偏深度研究、偏长期成长。Todd 离职后，证券投资端。将更集中于 Ted，一定程度增加波动性，但仍在 Berkshire 可控框架下。
 
-- [ ] watch abel's video #active 
+- [ ] watch abel's video
 
 
 # References

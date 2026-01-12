@@ -1,5 +1,5 @@
 Date: 2025-09-07
-Tags: [[farming]]
+Tags: [[valuation]]
 
 # Valuation for LIT
 
@@ -49,6 +49,8 @@ Lighter 可能会成为 Robinhood 的一个后端接受从那边路由过来的�
 
 HL 上线了 pre ipo 股票的 perp，比如 OPENAI-USDH。因为没有现货价格，因此他们采用的是所内订单簿上的移动平均价格最为预言机价格进行费率机制。这本质上是带了杠杆的预测市场，是被严格监管的，因为风险很大，价格非常容易被操纵。
 
+ZK L2 叙事，可以参考 prover 的相关内容查看。
+
 ## Long-term Milestone
 Forex and commodities are already supported on Lighter. Next is spot market. And prediction market and option are also in the plan.
 
@@ -87,6 +89,7 @@ https://x.com/ingalvarezsol/status/2002560333638926727
 #### zk
 http://x.com/c_dylanber/status/1963044895532449971
 https://x.com/hansolar21/status/1961387368218595470
+https://x.com/Lighter_xyz/status/2004396114909471133
 #### other perp dex
 https://x.com/c_dylanber/status/1962318388287688906
 https://x.com/c_dylanber/status/1961247538348204069
