@@ -10,7 +10,10 @@ CC 的作者提供了一套他使用 CC 的方案，可以参考。
 我准备先从 Codex 开始，因为无需解决 VPN 问题，而且终局我们肯定希望人能更少介入流程，而模型能力解决更多问题，因此 Codex 的思路也没有错。
 
 
-- [ ] 基于 Codex 总结属于自己的 AI 工作流 #active 
+- [ ] 用 Codex 完成个人 portfolio 站 #active 
+
+
+- [ ] 基于 Codex 总结属于自己的 AI 工作流
 
 AGENTS md 是什么？
 
