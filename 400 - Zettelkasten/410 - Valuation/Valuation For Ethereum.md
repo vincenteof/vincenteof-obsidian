@@ -34,7 +34,7 @@ EIP-7951，可以不用记种子短语即可创建钱包，加了 passkey 支持
 
 PeerDAS 降低验证者门槛85%，更加去中心化。
 
-从 UltraSound 
+从 ultrasound 上看，Fusaka 升级并没有增加 blob fee 的燃烧，因为新的升级后 blob 的供应也大幅增加，需求反而没跟上，每天只能燃烧零点几 ETH。 
 
 ## adoption
 以太坊在 Q4 稳定币转账接近 6 万亿，已经碾压 Visa（约3.5万亿）和 Mastercard（越2.5万亿）的极度支付量。USDT 的供应从 Tron 回流到以太坊。这是真实采用而非投机，机构资金在实打实的加速进场。
