@@ -78,6 +78,10 @@ https://app.lighter.xyz/explorer/accounts/0
 空投筹码分析：
 http://qwantify.io/app/lighter/airdrop
 
+协议的每日收入：
+https://defillama.com/protocol/lighter-perps?referrer=grok.com
+空投发放后，每周约 1M 收入
+
 
 # References
 #### valuation
@@ -110,6 +114,7 @@ https://x.com/lilk1kopops/status/1993604360786620747
 https://x.com/Lighter_xyz/status/2005862682608472263
 https://x.com/Lighter_xyz/status/2008309047787753497
 https://x.com/vnovakovski/status/2011166372152426557
+https://defillama.com/protocol/lighter-perps?referrer=grok.com
 ### tool
 https://x.com/c_dylanber/status/1979002654291562599
 http://qwantify.io/app/lighter/airdrop
