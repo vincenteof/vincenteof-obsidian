@@ -64,6 +64,8 @@ Forex and commodities are already supported on Lighter. Next is spot market. And
 - S3 / Tokenomics
 - …and more
 
+2026/1/14 已发布 Mobile App，实际使用目前还有一点问题。
+
 ## Token Economics
 从简版的说明来看：
 1. 协议收入全部分配给持有者，具体形式kennel是回购或分红
@@ -105,5 +107,6 @@ https://x.com/satoshiheist/status/1993100188076921019
 https://x.com/lilk1kopops/status/1993604360786620747
 https://x.com/Lighter_xyz/status/2005862682608472263
 https://x.com/Lighter_xyz/status/2008309047787753497
+https://x.com/vnovakovski/status/2011166372152426557
 ### tool
 https://x.com/c_dylanber/status/1979002654291562599
