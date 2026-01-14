@@ -75,6 +75,8 @@ Forex and commodities are already supported on Lighter. Next is spot market. And
 已确认手续费回购，国库回购账户：
 https://app.lighter.xyz/explorer/accounts/0
 
+空投筹码分析：
+http://qwantify.io/app/lighter/airdrop
 
 
 # References
@@ -110,3 +112,4 @@ https://x.com/Lighter_xyz/status/2008309047787753497
 https://x.com/vnovakovski/status/2011166372152426557
 ### tool
 https://x.com/c_dylanber/status/1979002654291562599
+http://qwantify.io/app/lighter/airdrop

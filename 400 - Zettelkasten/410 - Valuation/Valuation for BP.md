@@ -11,6 +11,8 @@ Backpack 的基本思路是先做底层primitive，最后再打通所有基础�
 
 S4 第五周，日本市场合规完成。
 
+S4 第八周，预测市场私测。这非常 bullish，预测市场同样也在 BP 的交叉保证金模型内，并且后续可能无需 KYC。
+
 
 
 # References
@@ -24,4 +26,6 @@ https://x.com/KittaKitka/status/1991136562290020636
 https://x.com/James_0x777/status/1990337543917928723
 https://x.com/HM010169/status/2001988233857831127
 https://x.com/armaniferrante/status/2003013481143095597
+https://x.com/Eno19988/status/2011132436705657319
+https://x.com/armaniferrante/status/2011100164048777668
 
