@@ -3,7 +3,7 @@ Tags: [[trade-plan]]
 
 # Trade Log 2026 Q1
 
-- [ ] 完成 2025 Q4 资产总额记录 #active 
+- [x] 完成 2025 Q4 资产总额记录 #active ✅ 2026-01-13
 
 ## 预期
 
