@@ -82,6 +82,16 @@ http://qwantify.io/app/lighter/airdrop
 https://defillama.com/protocol/lighter-perps?referrer=grok.com
 空投发放后，每周约 1M 收入
 
+2026/1/15 币价下破了2，但是我觉得这可能被低估了，LIT 至少还有名牌的3个利好：
+1. 上线美国合规交易所，如 Coinbase/Robinhood
+2. 与 Robinhood 展开合作
+3. LIT 质押
+LIT 质押即将上线。
+**可能更应该关注后续 Lighter 手续费能否维持在一个水平线，这决定了 LIT 最大的基本面。**
+
+LIT 质押即将上线，质押 LIT 用户可以访问 LLP，每一个 LIT 可以放入 10 USDC。现在 LLP 的参与者在 2026/1/28 以后需要推出。
+做市商和高频交易者的费率将会提升，质押 LIT 可以活得折扣。
+质押 LIT 本身也能活得
 
 # References
 #### valuation
@@ -115,6 +125,8 @@ https://x.com/Lighter_xyz/status/2005862682608472263
 https://x.com/Lighter_xyz/status/2008309047787753497
 https://x.com/vnovakovski/status/2011166372152426557
 https://defillama.com/protocol/lighter-perps?referrer=grok.com
+https://x.com/yourQuantGuy/status/2010670334618329353
+https://x.com/Lighter_xyz/status/2011580423604740117
 ### tool
 https://x.com/c_dylanber/status/1979002654291562599
 http://qwantify.io/app/lighter/airdrop
