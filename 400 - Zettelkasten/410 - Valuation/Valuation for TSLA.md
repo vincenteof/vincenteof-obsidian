@@ -42,6 +42,7 @@ Elon doesn't have problem taking risks.
 
 截止 2025 年 Q3，TSLA Energy 业务占应收 12％ 左右，整体毛利率比汽车业务高。这看这块业务，已经达到了 “大型独立能源／储能供应商”级别，不是简单边缘业务，而是具有明显盈利能力和增长潜力的核心业务。
 
+2026/1/15 美国最大的锂精炼厂现已投入运营，这有助于减少对海外供应链（尤其是中国）的依赖，并为特斯拉的电动车和能源存储业务提供更稳定的原材料供应。需要关注年产量可以支持多少车辆。
 ## Space Data Center
 
 马斯克似乎在认真思考把算力部署到太空。本质上是由于太空有无限的能源资源（太阳能）且效率更高，而且可以绕开国家电网及各种中心化监管。因为处于真空，理论上可以使用辐射散热到太空背景（2.7K），无需水冷。这会让 SpaceX + X + Tesla + Starlink 形成**完整的 AI 帝国闭环**。
@@ -117,6 +118,7 @@ https://x.com/Tesla_Megapack/status/1989073638273012133
 https://x.com/tradergokux/status/1991341114452832757
 https://x.com/BlueJay87476298/status/1991435063859487022
 https://x.com/elonmusk/status/1997706687155720229
+https://x.com/elonmusk/status/2011561514302652607
 ## fsd
 https://x.com/pbeisel/status/1831315999037210900
 https://grok.com/share/bGVnYWN5LWNvcHk_a4e5bb9a-0a35-4212-b32c-4f024e07d3de

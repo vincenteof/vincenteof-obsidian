@@ -89,9 +89,9 @@ https://defillama.com/protocol/lighter-perps?referrer=grok.com
 LIT 质押即将上线。
 **可能更应该关注后续 Lighter 手续费能否维持在一个水平线，这决定了 LIT 最大的基本面。**
 
-LIT 质押即将上线，质押 LIT 用户可以访问 LLP，每一个 LIT 可以放入 10 USDC。现在 LLP 的参与者在 2026/1/28 以后需要推出。
+LIT 质押即将上线，质押 LIT 用户可以访问 LLP，每一个 LIT 可以放入 10 USDC。现在 LLP 的参与者在 2026/1/28 以后需要推出。按照现在的 TVL，大约可以质押 20% 的供应，如果TVL 下降，那么策略本身的收益会上涨提供了吸引力。
 做市商和高频交易者的费率将会提升，质押 LIT 可以活得折扣。
-质押 LIT 本身也能活得
+质押 LIT 本身也将能获得收益。
 
 # References
 #### valuation
@@ -127,6 +127,7 @@ https://x.com/vnovakovski/status/2011166372152426557
 https://defillama.com/protocol/lighter-perps?referrer=grok.com
 https://x.com/yourQuantGuy/status/2010670334618329353
 https://x.com/Lighter_xyz/status/2011580423604740117
+https://x.com/yourQuantGuy/status/2011625966854869186
 ### tool
 https://x.com/c_dylanber/status/1979002654291562599
 http://qwantify.io/app/lighter/airdrop
