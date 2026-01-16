@@ -38,7 +38,7 @@ Exercises:
 2. Because it sends rewards before mutating the state, which introduces reentrancy attack. We can fix it using checks-effects-iteractions pattern.
 
 - [x] Defi Book Chapter4 #active ✅ 2025-10-22
-- [ ] build a tiny version of stable coin like DAI #active 
+
 Exercises:
 1. **collateral risk** DAI is over-collateralization, so there is a buffer for collateral value crashes. But if the vault becomes undercollateralized, liquidations happen. For usde, since it's fully hedged, it won't be affected too much. **peg mechanism risk** for DAI, if its value is under 1, PSM will start and  arbitrageur will buy it to swap to USDC. For USDE, people can redeem USDE to get the value backed by it. **operational risk** They both has the risk of being hacked. And USDE has extra risk since it relies on centeralized exhcange or custodian. Both for DAI and USDE, this kind of risk is fatal. Someone has to undertake the loss. **regulatory risk** DAI relies on USDC, so if USC blacklists its address, it will have trouble. USDE has KYC gating. And it yield-bearing version could be considered a security.
    https://chatgpt.com/share/68f17f2b-1fd4-8008-8bf9-c32d54d20457

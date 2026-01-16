@@ -18,7 +18,7 @@ Primitives:
 - Restacking
 
 Actions:
-- Build a stablecoin from scratch 
+- [ ] Build a stablecoin from scratch  #active 
 - Build uniswap v2 from scratch 
 - Build the evm from scratch 
 - Read everything on rareskills 
