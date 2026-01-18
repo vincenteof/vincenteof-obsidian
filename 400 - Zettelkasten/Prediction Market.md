@@ -23,6 +23,15 @@ Tags:  [[crypto]] [[trade]]
 
 YES + NO < 1 的套利机会，在 Polymarket 早期可能比较容易抓。
 
+专注于哪些机会：
+1. 寻找概率错位
+2. 做可验证，可结算，无解释空间的问题
+3. 做黑天鹅对冲
+不做哪些：
+4. 不做看上去非常确定的事件，等于压路机前捡硬币
+5. 不做流动性差的事件
+6. 不做自己希望发生的事件
+
 # References
 ## introdcution
 https://x.com/trynalearnabt/status/1968392782998835518
@@ -50,6 +59,7 @@ https://x.com/j0hnwang/status/1981446070447329474
 https://x.com/Eric_Option101/status/1985607946831872277
 https://x.com/GreekGamblerPM/status/1987167717590249918
 https://x.com/GodotSancho/status/2009566051424416150
+https://x.com/hqinjarsy/status/2011871855918125150
 ### insight
 https://x.com/hoidya_/status/1977749569615302891
 https://x.com/0xKaKa03/status/1977794661675909151
