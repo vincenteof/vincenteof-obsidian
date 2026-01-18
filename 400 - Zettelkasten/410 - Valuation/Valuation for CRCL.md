@@ -86,10 +86,19 @@ Circle管理层我觉得主要看两个人：创始人Jeremy Allaire三次创业
 
 ## Growth
 Visa 引入 USDC 结算，目前使用 Solana，后续可能会接入 Arc。接入 Arc 显然能给 CRCL 带来更多收入，目前在 Solana 进行大规模结算，CRCL 能否获得价值捕获？是通过转换成法币的通道？
+
 CRCL 开始和美国主流的报税审计软件合作，如果后续千万会计师和报税人开始习惯用 USDC，稳定币就真的成了世界货币。
+
+IB 于 2026/1/16 支持 USDC 如今，不过大陆用户不支持。
+
+关于 CLARITY 法案的延期，主要的争议点：
+1. 三方机构对稳定币的补贴利息
+2. RWA 如链上证券，也不能豁免监管要求
+3. 对 Defi 前端也要有
 
 ## Signal
 USDC 的流通量及市占率可以在 defilemma 上看到，目前约占 25%，USDT 占 60%。
+
 
 
 # References
@@ -97,6 +106,7 @@ USDC 的流通量及市占率可以在 defilemma 上看到，目前约占 25%，
 https://www.arc.network/
 https://x.com/BTCdayu/status/2000957683831361694
 https://x.com/lufeieth/status/2001844595903336683
+https://x.com/MengLayer/status/2011970769711219150
 ## insight
 https://x.com/lufeieth/status/1975924479252402382
 https://mp.weixin.qq.com/s/aV-aPk9BnHUBS-5-9c5j5g?poc_token=HOi5HWmjDOioygyDHDhKsCBGmEmH1ORpG9DXn5VW
