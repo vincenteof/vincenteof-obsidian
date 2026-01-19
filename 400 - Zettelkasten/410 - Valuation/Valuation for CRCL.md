@@ -94,7 +94,7 @@ IB 于 2026/1/16 支持 USDC 如今，不过大陆用户不支持。
 关于 CLARITY 法案的延期，主要的争议点：
 1. 三方机构对稳定币的补贴利息
 2. RWA 如链上证券，也不能豁免监管要求
-3. 对 Defi 前端也要有
+3. 对 Defi 前端也要有 KYC/AML，否则开发者要对用户行为负责
 
 ## Signal
 USDC 的流通量及市占率可以在 defilemma 上看到，目前约占 25%，USDT 占 60%。
@@ -107,6 +107,8 @@ https://www.arc.network/
 https://x.com/BTCdayu/status/2000957683831361694
 https://x.com/lufeieth/status/2001844595903336683
 https://x.com/MengLayer/status/2011970769711219150
+https://x.com/qinbafrank/status/2011727476171685992
+
 ## insight
 https://x.com/lufeieth/status/1975924479252402382
 https://mp.weixin.qq.com/s/aV-aPk9BnHUBS-5-9c5j5g?poc_token=HOi5HWmjDOioygyDHDhKsCBGmEmH1ORpG9DXn5VW

@@ -57,10 +57,17 @@ https://defillama.com/stablecoins/Ethereum?referrer=grok.com
 
 ## valuation
 
-vatalik：
+vitalik：
 > Ethereum is not the world. Ethereum is an opinionated take on properties that we think should be available in the world for those who want or need them.
 
 持有以太坊可能永远也不会像持有谷歌的股票一样，因为一旦进入这个范畴，它几乎注定失败。以太坊的独特性，最终会让它更像其他商品，比如金银铜，而所有商品都具有周期。人永远无法预言世界的发展，也有某个黑天鹅事件，会让世界对它产生巨大的需求。持有这种独特性，就像是持有一张无限期的看涨期权。
+
+vitalik 希望以太坊通过启用测试，即使供应商失去维护兴趣，使用者不受影响。需要支持：
+1. 抗量子
+2. 整体架构可以支持足够高的 TPS
+3. 账户抽象
+4. 更好的 gas 机制
+5. pos
 
 
 - [ ] 研究以太坊的估值模型
@@ -92,6 +99,7 @@ https://x.com/nake13/status/1996241760155312566
 https://x.com/Snapcrackle/status/1992924911325905256
 https://ethval.com/
 https://x.com/VitalikButerin/status/2008194024012705947
+https://x.com/VitalikButerin/status/2010621884811845708
 ## adoption
 https://x.com/dankrad/status/1998289130967691697
 https://x.com/ready_co/status/2001610562111742325
