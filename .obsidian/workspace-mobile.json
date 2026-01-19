@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Daily Notes/2026-01-16.md",
+                "file": "400 - Zettelkasten/前额叶训练及多巴胺脱敏.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-16"
+              "title": "前额叶训练及多巴胺脱敏"
             }
           }
         ]
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "前额叶",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -96,7 +96,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "f9bc89e2b104ad64",
@@ -177,6 +177,7 @@
   },
   "active": "3d46fa6050150cc9",
   "lastOpenFiles": [
+    "300 - Daily Notes/2026-01-16.md",
     "/400 - Zettelkasten/完美的资金流转方案.md",
     "/400 - Zettelkasten/人生复利思维.md",
     "/400 - Zettelkasten/Prediction Market.md",
@@ -190,7 +191,6 @@
     "/400 - Zettelkasten/Textbook - Defi.md",
     "/400 - Zettelkasten/Defi and Web3 Core Primitives.md",
     "300 - Daily Notes/2026-01-06.md",
-    "300 - Daily Notes/2026-01-16.md",
     "Untitled.md",
     "400 - Zettelkasten/Coding Ideas.md",
     "300 - Daily Notes/2026-01-13.md",
