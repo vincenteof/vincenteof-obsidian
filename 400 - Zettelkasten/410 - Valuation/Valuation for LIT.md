@@ -80,6 +80,7 @@ http://qwantify.io/app/lighter/airdrop
 
 协议的每日收入：
 https://defillama.com/protocol/lighter-perps?referrer=grok.com
+https://lighterlytics.com/
 空投发放后，每周约 1M 收入
 
 2026/1/15 币价下破了2，但是我觉得这可能被低估了，LIT 至少还有名牌的3个利好：
@@ -88,6 +89,7 @@ https://defillama.com/protocol/lighter-perps?referrer=grok.com
 3. LIT 质押
 LIT 质押即将上线。
 **可能更应该关注后续 Lighter 手续费能否维持在一个水平线，这决定了 LIT 最大的基本面。**
+
 
 LIT 质押即将上线，质押 LIT 用户可以访问 LLP，每一个 LIT 可以放入 10 USDC。现在 LLP 的参与者在 2026/1/28 以后需要推出。按照现在的 TVL，大约可以质押 20% 的供应，如果TVL 下降，那么策略本身的收益会上涨提供了吸引力。
 做市商和高频交易者的费率将会提升，质押 LIT 可以活得折扣。
