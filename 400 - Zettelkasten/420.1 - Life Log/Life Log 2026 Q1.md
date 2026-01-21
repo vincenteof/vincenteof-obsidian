@@ -19,6 +19,7 @@ AI 时代的稀缺性：
 1. 前额叶训练及多巴胺基线降低 [[前额叶训练及多巴胺脱敏]]
 2. 智能合约实践 [[Defi and Web3 Core Primitives]]
 3. 在 X 上持续表达自己的观点，准备第一个 youtube 视频
+4. 升入 vibe coding
 
 
 
