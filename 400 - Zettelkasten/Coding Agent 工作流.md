@@ -16,7 +16,6 @@ Droid CTO 分享了一个高性价比组合：用 Opus 做 Planning，用 GLM 4.
 
 - [ ] 基于 Codex 总结属于自己的 AI 工作流
 
-AGENTS md 是什么？
 
 ## 结合 Obsidian
 
