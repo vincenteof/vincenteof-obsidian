@@ -1,5 +1,5 @@
 Date: 2025-08-26
-Tags: 
+Tags: [[full-stack]] [[system-design]]
 
 # Everything I know about good system design
 
