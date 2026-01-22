@@ -15,6 +15,8 @@ Droid CTO 分享了一个高性价比组合：用 Opus 做 Planning，用 GLM 4.
 
 
 - [ ] 基于 Codex 总结属于自己的 AI 工作流
+一些 vibe coding 的黑话：
+- **rules** 静态上下文，
 
 
 ## 结合 Obsidian
