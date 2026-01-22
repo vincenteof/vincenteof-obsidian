@@ -15,8 +15,15 @@ Droid CTO 分享了一个高性价比组合：用 Opus 做 Planning，用 GLM 4.
 
 
 - [ ] 基于 Codex 总结属于自己的 AI 工作流
+
 一些 vibe coding 的黑话：
-- **rules** 静态上下文，
+- **Rules** 静态上下文，早期用于减少模型幻觉
+- **Commands** 打包在一起的一些 prompt，用于执行一些命令，比如按某些规则提交
+- **MCP Servers** 上面两种本质上还是静态上下文，这可以运行代码，是动态上下文
+- **Modes** 行为风格，比如 Plan Mode
+- **Subagents** 独立的分体 LLM，拥有自己的上下文和人格
+- **Hooks** 在特定生命周期事件自动触发代码或提示，确定性行为
+- **Skills** 给 LLM 增加「专业知识包」或「可调用能力」，类似于插件
 
 
 ## 结合 Obsidian
@@ -29,5 +36,6 @@ https://x.com/bcherny/status/2007179832300581177
 https://x.com/OnlyXuanwo/status/1996572217266811196
 https://x.com/AI_Ghost_Lab/status/2009835437771338154
 https://x.com/kevinma_dev_zh/status/2013479699901825169
+https://www.youtube.com/watch?v=L_p5GxGSB_I
 ## integration
 https://x.com/kepano/status/2007223691315499199
