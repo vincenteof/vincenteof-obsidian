@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 - Zettelkasten/420.1 - Life Log/Life Log 2026 Q1.md",
+                "file": "300 - Daily Notes/2026-01-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Life Log 2026 Q1"
+              "title": "2026-01-22"
             }
           }
         ]
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "q1",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -177,6 +177,8 @@
   },
   "active": "3d46fa6050150cc9",
   "lastOpenFiles": [
+    "400 - Zettelkasten/420.1 - Life Log/Life Log 2026 Q1.md",
+    "300 - Daily Notes/2026-01-22.md",
     "Untitled.md",
     "400 - Zettelkasten/一个非常棒的教授系统设计的人.md",
     "/400 - Zettelkasten/一个非常棒的教授系统设计的人.md",
@@ -185,7 +187,6 @@
     "/000 - Indexes/system-design.md",
     "000 - Indexes/system-design.md",
     "/000 - Indexes",
-    "400 - Zettelkasten/420.1 - Life Log/Life Log 2026 Q1.md",
     "400 - Zettelkasten/前额叶训练及多巴胺脱敏.md",
     "200 - Materials/220 - Youtube/WTF is happening at xAI.md",
     "/400 - Zettelkasten/人生长居地.md",
@@ -208,7 +209,6 @@
     "/400 - Zettelkasten/410 - Valuation/Valuation For Ethereum.md",
     "/000 - Indexes/history.md",
     "000 - Indexes/history.md",
-    "/400 - Zettelkasten/Textbook - Defi.md",
     "/400 - Zettelkasten/420.2 - Trade Log",
     "/400 - Zettelkasten/420.1 - Life Log",
     "400 - Zettelkasten/410 - Valuation",
