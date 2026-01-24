@@ -5,5 +5,9 @@ Tags: [[macro]] [[invest]] [[great-post]]
 
 - [ ] 完成平庸之金的牢笼的总结及具体操作 #active 
 
+核心观念就是：**Long Degeneracy**
+婴儿潮
+
+
 # References
 https://x.com/systematicls/status/2004900241745883205
