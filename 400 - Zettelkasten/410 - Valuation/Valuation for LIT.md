@@ -82,6 +82,8 @@ http://qwantify.io/app/lighter/airdrop
 https://defillama.com/protocol/lighter-perps?referrer=grok.com
 https://lighterlytics.com/
 空投发放后，每周约 1M 收入
+Lighter 官方出了相关统计页面：
+https://app.lighter.xyz/stats
 
 2026/1/15 币价下破了2，但是我觉得这可能被低估了，LIT 至少还有名牌的3个利好：
 1. 上线美国合规交易所，如 Coinbase/Robinhood
