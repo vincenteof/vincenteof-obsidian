@@ -46,6 +46,15 @@ AI 时代的稀缺性：
 - 真实关系，信任圈层
 - 物理约束，能量，算力，原材料
 
+## 泡沫与风险
+
+> The reason why RAM has become four times more expensive is that a huge amount of RAM that has not yet been produced was purchased with non-existent money to be installed in GPUs that also have not yet been produced, in order to place them in data centers that have not yet been built, powered by infrastructure that may never appear, to satisfy demand that does not actually exist and to obtain profit that is mathematically impossible.  
+> 内存价格飙升至原先四倍的原因在于：人们用并不存在的资金购入海量尚未生产的内存，用以装配同样尚未投产的 GPU，只为将它们置于尚未建成的数据中心——这些中心依赖可能永不会落成的基础设施供电，旨在满足实际并不存在的需求，并试图获取数学意义上不可能实现的利润。
+
+它在描述这样一件事：
+内存供应商优先支持 AI 产业的商用内存，PC 上的 RAM 供应被挤压。因为各种科技巨头在通过发债等方式买入这些硬件（RAM/GPU）去训练模型以供未来贩卖更多算力。但是这依赖于数据中心的建成，而数据中心依赖于电力基础设施。
+
+
 
 # References
 ## insight
@@ -61,3 +70,5 @@ https://x.com/turingou/status/2009170400194748709
 https://x.com/LotusDecoder/status/2009153013357961572
 ## value capture
 https://x.com/iamai_eth/status/2007988602102587721
+## risk
+https://x.com/malaxiaowo/status/2015788620951724095
