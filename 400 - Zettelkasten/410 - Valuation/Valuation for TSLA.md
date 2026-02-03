@@ -20,10 +20,6 @@ Elon is trying to put 100GW/year of AI in space. Basically they are gonna deploy
 
 基础设施第一次进入算法时代。自动驾驶，是人类历史上第一次尝试以软件的速度扩张现实世界的基础设施。软件的迭代速度是远远低于物理世界的，但是自动驾驶模型直接把“道路使用效率”变成可计算对象，速度的定义就从物理层切换到了算法层。终局就是利用 Optimus 把所有整个物理世界都变成可编程对象。这样城市拥堵、物流效率、交通事故率，长期被认为是“无法突破的物理约束”，这些限制会像早期移动互联网的带宽瓶颈一样——突然被突破。自动驾驶不是产品，而是城市层级的计算平台。 当算法能影响道路的运行节奏，它就从功能升级变成了基础设施升级。
 
-- [ ] 2025 Q3 report
-- [ ] watch the annual shareholder meeting
-- [ ] read muskonomy2.0
-
 - [x] watch the interview #active ✅ 2025-11-21
 
 Hand is very complex and its the core of robot which intends to do a surgery or build a house. This kind of demand cannot be solved by money because these kind of resources(good surgeon) is limited.
@@ -31,6 +27,8 @@ Hand is very complex and its the core of robot which intends to do a surgery or 
 The sentience will grow when new Grok is trainned. The question is how far it can go? Elon thinks almost incomprehensibly far. Elon sees a path putting 100 gw per year of solar powered AI satellite into orbit as a solution to scale AI.
 
 Elon doesn't have problem taking risks.
+
+- [ ] TSLA 2025 Q4 report #active 
 
 
 ## Energy
