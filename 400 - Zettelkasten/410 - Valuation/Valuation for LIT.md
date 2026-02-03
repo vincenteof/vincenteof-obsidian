@@ -52,6 +52,9 @@ HL 上线了 pre ipo 股票的 perp，比如 OPENAI-USDH。因为没有现货价
 HL 很大程度决定了 Lighter 的天花板，HL 目前在走大宗衍生品高杠杆路线，因为贵金属的行情这个方向带了很多收入。但这些大宗商品的永续合约， 直接变成绕过监管体系的影子商品期货交易所。一旦 Clarity Act通过在即，CFTC 一旦拿到国会清晰授权，监管行动可能会跟上。目前还是 Trump 执政下的黄金期，暂未对 Crypto 项目强监管。需要关注后续。
 
 ZK L2 叙事，可以参考 prover 的相关内容查看。
+https://x.com/Lighter_xyz/status/2017327020112252932
+建立可能通用 EVM 后可能会有更多的玩法。
+
 
 ## Long-term Milestone
 Forex and commodities are already supported on Lighter. Next is spot market. And prediction market and option are also in the plan.
@@ -67,6 +70,7 @@ Forex and commodities are already supported on Lighter. Next is spot market. And
 - …and more
 
 2026/1/14 已发布 Mobile App，实际使用目前还有一点问题。
+与 Axiom 合作了 zkEVM，目前尚未推出主网。
 
 ## Token Economics
 从简版的说明来看：
@@ -135,6 +139,7 @@ https://x.com/yourQuantGuy/status/2010670334618329353
 https://x.com/Lighter_xyz/status/2011580423604740117
 https://x.com/yourQuantGuy/status/2011625966854869186
 https://x.com/hqinjarsy/status/2016240605677142040
+https://x.com/Lighter_xyz/status/2017327020112252932
 ### tool
 https://x.com/c_dylanber/status/1979002654291562599
 http://qwantify.io/app/lighter/airdrop
