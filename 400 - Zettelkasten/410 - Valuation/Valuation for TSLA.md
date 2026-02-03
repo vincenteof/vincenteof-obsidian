@@ -28,9 +28,6 @@ The sentience will grow when new Grok is trainned. The question is how far it ca
 
 Elon doesn't have problem taking risks.
 
-- [ ] TSLA 2025 Q4 report #active 
-
-
 ## Energy
 
 - [x] read the post about  megapack #active ✅ 2025-11-20
@@ -95,6 +92,11 @@ Q4 公开了卖方分析师的交付共识，主要应该还是控制预期，�
 
 2026/1/23，TSLA 和 LMND 合作，它为 TSLA 提供便宜的保险。长期来看，如果自动驾驶进入终局，可能就没保险公司什么事了，保险公司赚的钱是人类系统的不确定性溢价，而 FSD 几乎消除了这些不确定性，从这个角度说 TSLA 肯定会比保险公司有更多 insight 因为它有更多数据。TSLA 可以直接把保费做到售价里了，把这块保险的利润也一起吃掉。一种观点是，TSLA 短期之内并不应该参与保险业务，因为车险本身也不是利润率特别高的行业，它应该专注于利润的大头而不是去做一些脏活，这应该是它在成熟阶段做的事。
 
+## Report
+
+- [ ] TSLA 2025 Q4 report #active 
+https://x.com/zutaoMin/status/2016705854259552310
+https://x.com/tonyhua64243679/status/2016700002396230107
 
 
 # References
