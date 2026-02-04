@@ -21,6 +21,12 @@ gasLimit 是以太坊上面每个区块中所有交易可以消耗的 gas 上限
 据 Vitalik 说，ZK-EVM 和 PeerDAS 将解决不可能三角。
 2026年，先不靠ZK-EVM，将gas限额（处理能力）大幅提高，还能试跑ZK节点； 2026-28年，调费用、改数据结构，让高负载更安全； 2027-30年，ZK-EVM成主流，处理能力再翻倍。
 
+- [ ] 总结 vitalik 最新关于 L2 的观点 #active 
+https://x.com/VitalikButerin/status/2018711006394843585
+https://x.com/MilkRoad/status/2018747921672577320
+https://x.com/lanhubiji/status/2018925592461410495
+
+
 ## upgrade
 ### Fusaka
 EIP-7594，L2 成本大量降低，通过 Blob 扩容 + PeerDAS。以后 L2 的 Blob 不用完全检查了，（基于密码学）抽样检查即可。这样共识层的节点可以再不提升配置的前提下，处理更多 L2 Blob，社区分析认为这个让 L2 再便宜 8x。
@@ -70,7 +76,7 @@ vitalik 希望以太坊通过启用测试，即使供应商失去维护兴趣，
 5. pos
 
 
-- [ ] 研究以太坊的估值模型
+
 
 # References
 ## zk
