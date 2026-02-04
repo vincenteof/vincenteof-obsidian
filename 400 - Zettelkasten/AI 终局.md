@@ -73,6 +73,8 @@ AI 时代的稀缺性：
 **当所有人都在用“未来”给自己当担保时，  系统会暂时非常繁荣，但必然对“真实需求”异常敏感。**
 
 
+
+
 # References
 ## insight
 https://x.com/turingou/status/2009177541790330926
@@ -89,3 +91,4 @@ https://x.com/LotusDecoder/status/2009153013357961572
 https://x.com/iamai_eth/status/2007988602102587721
 ## risk
 https://x.com/malaxiaowo/status/2015788620951724095
+https://x.com/realliaohaibo/status/2017542724183044361
