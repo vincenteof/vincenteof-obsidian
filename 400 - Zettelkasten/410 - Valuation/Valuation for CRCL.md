@@ -82,8 +82,21 @@ CRCL 与信贷模式的区别：
 3. 有没有可能被生息稳定币干掉，目前的监管框架看暂时不会有生息稳定币，因为很多问题难以解决，比如税务
 4. 能否成为美元白手套，会不会被美元官方干掉
 
-- [ ] 阅读 Circle's product vision for 2026 #active 
-https://x.com/lufeieth/status/2017645399750689054
+- [x] 阅读 Circle's product vision for 2026 #active ✅ 2026-02-05
+
+Circle 作为互联网金融系统的分层：
+1. Arc 与 开发者基础设施
+2. 数字资产与流动性
+3. 应用层，Circle Payments Network 与 StableFX
+
+对应的目标分别为：
+1. Arc 主网，提供机构想要的能力
+2. 增加 USDC 的覆盖面及流通量，增加全球出入金渠道
+3. 企业支付方案
+
+
+
+
 https://x.com/lufeieth/status/2018326815308472382
 https://x.com/WinForKakei/status/2018507117213450554
 https://x.com/lufeieth/status/2018865799851839646
@@ -121,6 +134,7 @@ https://x.com/BTCdayu/status/2000957683831361694
 https://x.com/lufeieth/status/2001844595903336683
 https://x.com/MengLayer/status/2011970769711219150
 https://x.com/qinbafrank/status/2011727476171685992
+https://x.com/lufeieth/status/2017645399750689054
 
 ## insight
 https://x.com/lufeieth/status/1975924479252402382
