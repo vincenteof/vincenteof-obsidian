@@ -83,7 +83,7 @@ CRCL 与信贷模式的区别：
 4. 能否成为美元白手套，会不会被美元官方干掉
 
 - [x] 阅读 Circle's product vision for 2026 #active ✅ 2026-02-05
-
+https://x.com/lufeieth/status/2017645399750689054
 Circle 作为互联网金融系统的分层：
 1. Arc 与 开发者基础设施
 2. 数字资产与流动性
@@ -94,16 +94,21 @@ Circle 作为互联网金融系统的分层：
 2. 增加 USDC 的覆盖面及流通量，增加全球出入金渠道
 3. 企业支付方案
 
-
+- [ ] Circle 的 DCF 估值 #active 
 https://x.com/lufeieth/status/2018326815308472382
 https://x.com/WinForKakei/status/2018507117213450554
+
 https://x.com/lufeieth/status/2018865799851839646
 https://x.com/lufeieth/status/2019002418139119675
-https://x.com/MengLayer/status/2016324959803736189
+
 
 ## Competitor
 
 Tether 并不是很透明，因为把部分储备金配置成了 BTC 和 黄金，如果他们下跌可能会导致资产储备不足 100％。因为过去一段时间它分红越 100 亿，可以推测近几年他们通过分红把 200 ～300 亿美元权益表外化。如果仍在集团体系内，那它的真实安全垫可能远高于目前的表面数字。他们的 BTC 和黄金投资很成功，但是分红后可能没有进行再平衡，导致风险资产占比过高。Tether 的体量已经大到全球系统级。做到真正 100% USD 足额支持，远比拿用户铸币的钱去做方向性押注更重要。因此它也被标普评级降级。
+
+- [ ] 分析泰达的 USAT 对 USDC 的影响 #active 
+https://x.com/MengLayer/status/2016324959803736189
+https://x.com/WinForKakei/status/2018507117213450554
 
 ## Leadership
 Circle管理层我觉得主要看两个人：创始人Jeremy Allaire三次创业都还很成功、他的推比较活跃。 现任总裁Heath Tarbert背景相当可以：最早是白宫助理法律顾问，曾经担任过财政部助理部长、CFTC美国商品及期货委员会的主席、城堡证券的首席法律顾问，23年加入Circle。这俩一个管业务，一个管合规。
@@ -133,7 +138,6 @@ https://x.com/lufeieth/status/2001844595903336683
 https://x.com/MengLayer/status/2011970769711219150
 https://x.com/qinbafrank/status/2011727476171685992
 https://x.com/lufeieth/status/2017645399750689054
-
 ## insight
 https://x.com/lufeieth/status/1975924479252402382
 https://mp.weixin.qq.com/s/aV-aPk9BnHUBS-5-9c5j5g?poc_token=HOi5HWmjDOioygyDHDhKsCBGmEmH1ORpG9DXn5VW
