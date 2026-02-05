@@ -82,7 +82,13 @@ CRCL 与信贷模式的区别：
 3. 有没有可能被生息稳定币干掉，目前的监管框架看暂时不会有生息稳定币，因为很多问题难以解决，比如税务
 4. 能否成为美元白手套，会不会被美元官方干掉
 
-
+- [ ] 阅读 Circle's product vision for 2026 #active 
+https://x.com/lufeieth/status/2017645399750689054
+https://x.com/lufeieth/status/2018326815308472382
+https://x.com/WinForKakei/status/2018507117213450554
+https://x.com/lufeieth/status/2018865799851839646
+https://x.com/lufeieth/status/2019002418139119675
+https://x.com/MengLayer/status/2016324959803736189
 
 ## Competitor
 
