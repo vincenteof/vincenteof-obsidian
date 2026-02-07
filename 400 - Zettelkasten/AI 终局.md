@@ -74,6 +74,7 @@ AI 时代的稀缺性：
 
 短期可以匹配支出的收入激增场景我们还看不到，但是债务的增长却具有确定性。当主要玩家还在追求更强的模型，大模型公司的现金流不仅无法转正，烧钱的速度还会呈指数扩大。停止烧钱有两种可能，要么撞上物理限制（模型太大训练不动，要么把全世界的钱/电都烧进去），要么 scaling law 边际收益递减，不值得再烧 10 倍的钱。在此之前，行业都依赖外部输血。AI 行业需要一次泡沫破裂去去伪成真。
 
+2026 年各大科技公司将 Capex 提高约 65%～100% 在 AI 上。
 
 # References
 ## insight
@@ -87,6 +88,7 @@ https://x.com/iamai_eth/status/1992627313767588297
 https://x.com/LotusDecoder/status/2009153013357961572
 https://x.com/turingou/status/2009170400194748709
 https://x.com/LotusDecoder/status/2009153013357961572
+https://x.com/Balder13946731/status/2019171236346294657
 ## value capture
 https://x.com/iamai_eth/status/2007988602102587721
 ## risk

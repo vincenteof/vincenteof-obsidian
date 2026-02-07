@@ -50,6 +50,7 @@ https://github.com/theredguild/damn-vulnerable-defi
 https://github.com/SunWeb3Sec/DeFiHackLabs
 https://github.com/slowmist/Knowledge-Base
 https://x.com/0xSimao/status/2001064877624815887
+https://x.com/RealJohnnyTime/status/2019022122656428115
 ## roadmap
 https://github.com/panditdhamdhere/master_smart_contracts
 https://x.com/panditdhamdhere/status/2001218503907664161
