@@ -25,7 +25,7 @@ AGI 的诞生不是一蹴而就的，中间过程中在消灭一些岗位的同�
 **影响有限：游戏，企业 SAAS，政府软件，安全系统**
 核心难点不是生产力，游戏在于创意，企业 SAAS 在于或客，政府软件在于关系，安全系统在于责任。
 
-
+anthropic 用 16 个 Agent 完成了一个基于 Rust 的 C 编译器，总共耗费 2 万美元的 API 费用，最终编写除了一个 10 万行的可编译 Linux 内核的编译器。但是它本身并没超出 gcc，因为本质上来说它也并没有派生出更多的智慧，依然是智慧共享，但即便如此似乎也已经可以对未来产生足够大的影响。我们应该比较的是，人类去完成同样的任务，同等时间内人力成本能否小于 2 万美元。
 
 
 ### 社交和亲近关系
@@ -91,7 +91,9 @@ https://x.com/LotusDecoder/status/2009153013357961572
 https://x.com/turingou/status/2009170400194748709
 https://x.com/LotusDecoder/status/2009153013357961572
 https://x.com/Balder13946731/status/2019171236346294657
+https://x.com/YATPoaster/status/2019497553063211486
 https://x.com/indigox/status/2019638067783671824
+https://www.reddit.com/r/programming/comments/1qwzyu4/anthropic_built_a_c_compiler_using_a_team_of/
 ## value capture
 https://x.com/iamai_eth/status/2007988602102587721
 ## risk
