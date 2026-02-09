@@ -23,8 +23,10 @@ gasLimit 是以太坊上面每个区块中所有交易可以消耗的 gas 上限
 
 - [ ] 总结 vitalik 最新关于 L2 的观点 #active 
 https://x.com/VitalikButerin/status/2018711006394843585
+https://x.com/nake13/status/2020761969461281048
 https://x.com/MilkRoad/status/2018747921672577320
 https://x.com/lanhubiji/status/2018925592461410495
+
 
 
 ## upgrade
