@@ -28,6 +28,9 @@ The sentience will grow when new Grok is trainned. The question is how far it ca
 
 Elon doesn't have problem taking risks.
 
+有人说 TSLA 正在转机器人叙事来支撑万亿美元的估值，纯粹的买车业务的故事已经讲到了尽头。我认为这是一个非常自然的事情而非一种刻意营造的叙事，因为搭配 FSD + Grok 的特斯拉汽车已经是一种四轮的机器人，也是未来 Optimus 大规模商用的基础。
+https://x.com/tonyhua64243679/status/2020629034200428565
+
 ## Energy
 
 - [x] read the post about  megapack #active ✅ 2025-11-20
@@ -80,6 +83,9 @@ FSD:
 2. when remove the security officer (by the end of 2025) 【done by 2026/1/23】
 3. when will FSD allow driver to use the phone (by the end of 2025)
 
+robotaxi 的车队情况可以参考
+https://robotaxitracker.com/?provider=tesla
+
 ## Signal
 
 Q4 公开了卖方分析师的交付共识，主要应该还是控制预期，因为从 2025 Q4 到 2026 年全年，交付数据都可能下滑，受美国联邦EV税收抵免到期、竞争加剧等影响。
@@ -116,7 +122,7 @@ https://x.com/Maggie191919/status/1994982499110224095
 https://x.com/raines1220/status/2008365245295968370
 https://x.com/TJ_Research/status/2008402010677129224
 https://x.com/TJ_Research/status/2008596864195850610
-
+https://x.com/tonyhua64243679/status/2020629034200428565
 ### energy
 https://x.com/iamai_eth/status/1989457402203386066
 https://x.com/Tesla_Megapack/status/1989073638273012133
