@@ -114,6 +114,9 @@ https://x.com/MengLayer/status/2016324959803736189
 https://x.com/WinForKakei/status/2018507117213450554
 
 - [ ] 银行可以发合规稳定币对 CRCL 的影响 #active 
+
+银行发的稳定币大概率不会是足额保证金的，它更会像是美元在链上的映射，那么一切关于它的监管都会和美元一样，包括 KYC 等机制。而 USDC 或 USDT，它们是稳定币而不是美元，我感觉可能这是目前监管刻意为之的模糊，Circle 并不是“银行的替代者”，而是：**银行体系无法、也不愿意承担的那一部分美元扩张工具**。
+
 https://x.com/hqinjarsy/status/2020691275520119161
 
 ## Leadership
