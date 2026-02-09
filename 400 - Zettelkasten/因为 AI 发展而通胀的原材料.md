@@ -7,6 +7,6 @@ Tags: [[macro]] [[ai]]
 铜
 银
 
-- [ ] 阐述理解因为 AI 发展而通胀的原材料 #active 
+- [ ] 阐述理解因为 AI 发展而通胀的原材料
 # References
 https://x.com/ShepherdCapital/status/2015398376989237456
