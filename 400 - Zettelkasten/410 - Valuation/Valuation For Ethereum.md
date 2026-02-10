@@ -81,6 +81,8 @@ vitalik 希望以太坊通过启用测试，即使供应商失去维护兴趣，
 4. 更好的 gas 机制
 5. pos
 
+以太坊可以作为 AI Agents 的经济层，如果 AI Agents 大规模爆发，那么最适合他们的经济层方案一定是 Crypto。
+https://x.com/VitalikButerin/status/2020963864175657102
 
 
 
