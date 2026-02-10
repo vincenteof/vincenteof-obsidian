@@ -13,6 +13,10 @@ S4 第五周，日本市场合规完成。
 
 S4 第八周，预测市场私测。这非常 bullish，预测市场同样也在 BP 的交叉保证金模型内，并且后续可能无需 KYC。
 
+## 代币经济学
+https://x.com/armaniferrante/status/2020863914918158535
+https://x.com/Metabape/status/2021132109323305237
+
 
 
 # References
