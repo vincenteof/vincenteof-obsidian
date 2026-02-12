@@ -44,11 +44,19 @@ Tags: [[mind-iteration]] [[kol]] [[great-post]]
 
 - [ ] 总结自己的人生历程并观察一些你的英雄是如何构建的 #active 
 
+我的经历：
+
 一些可以找到品牌的英雄：
-1. naval
-2. ntt
-3. dan koe
-4. 其他一些 youtuber：脑总，
+1. [naval](https://x.com/naval)
+2. [ntt](https://x.com/nntaleb)
+3. [王川](https://x.com/Svwang1)
+4. [dan koe](https://x.com/thedankoe)
+5. [lei](https://x.com/TheMarketMemo)
+6. [leerob](https://x.com/leerob)
+7. [terrychen](https://x.com/hackbearterry)
+
+
+
 
 
 ### 找到新颖视角
