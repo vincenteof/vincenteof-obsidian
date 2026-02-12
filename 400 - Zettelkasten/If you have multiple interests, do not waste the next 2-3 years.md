@@ -44,6 +44,13 @@ Tags: [[mind-iteration]] [[kol]] [[great-post]]
 
 - [ ] 总结自己的人生历程并观察一些你的英雄是如何构建的 #active 
 
+一些可以找到品牌的英雄：
+1. naval
+2. ntt
+3. dan koe
+4. 其他一些 youtuber：脑总，
+
+
 ### 找到新颖视角
 
 - [x] 总结找灵感的方法 #active ✅ 2026-01-12
@@ -53,8 +60,9 @@ Tags: [[mind-iteration]] [[kol]] [[great-post]]
 3. 优化表达结构，尝试用不同的方式描述，找出最能引人共鸣的
 
 
-- [ ] 研究发帖节奏及多平台拓展模式 #active 
+- [x] 研究发帖节奏及多平台拓展模式 #active ✅ 2026-02-12
 
+将文字同步多个社交平台，thread 可以变成轮播图，长篇的 newsletter 可以变成 youtube 视频。多个平台互相链接引流。
 
 # References
 https://x.com/thedankoe/status/2010042119121957316?s=20
