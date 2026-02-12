@@ -45,6 +45,7 @@ Tags: [[mind-iteration]] [[kol]] [[great-post]]
 - [ ] 总结自己的人生历程并观察一些你的英雄是如何构建的 #active 
 
 我的经历：
+程序员，通过加密货币获得第一桶金，
 
 一些可以找到品牌的英雄：
 1. [naval](https://x.com/naval)
@@ -54,6 +55,7 @@ Tags: [[mind-iteration]] [[kol]] [[great-post]]
 5. [lei](https://x.com/TheMarketMemo)
 6. [leerob](https://x.com/leerob)
 7. [terrychen](https://x.com/hackbearterry)
+8. [odyssey](https://x.com/OdysseysEth)
 
 
 
