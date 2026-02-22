@@ -42,7 +42,7 @@ Tags: [[mind-iteration]] [[kol]] [[great-post]]
 
 品牌是一个供人们前来蜕变的环境。品牌是你邀请他人进入的那个小小世界。品牌是读者追随你 3-6 个月后，脑海中思想沉淀的累积。品牌就是你的故事，世界观、人生经历与处世哲学。
 
-- [ ] 总结自己的人生历程并观察一些你的英雄是如何构建的 #active 
+- [x] 总结自己的人生历程并观察一些你的英雄是如何构建的 #active ✅ 2026-02-12
 
 我的经历：
 程序员，厌倦了无止境的加班和毫无意义的会议，研究跳出游戏的人生解法，从加密货币上获得第一桶金，在投资中寻找意义感。
@@ -58,6 +58,7 @@ Tags: [[mind-iteration]] [[kol]] [[great-post]]
 7. [terrychen](https://x.com/hackbearterry)
 8. [odyssey](https://x.com/OdysseysEth)
 
+- [ ] 通过 AI 构建自己的品牌 #active 
 
 
 
