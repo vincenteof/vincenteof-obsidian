@@ -60,7 +60,7 @@ Tags: [[mind-iteration]] [[kol]] [[great-post]]
 
 - [ ] 通过 AI 构建自己的品牌 #active 
 
-Don Koe 的渠道：X 用于短文，thread 变成轮播图放在短视频网站。newsletter 放到个人网站用于长文，也可以变成 youtube 视频。
+Don Koe 的渠道：X 长推，thread 变成轮播图放在短视频网站。newsletter 放到个人网站用于长文，也可以变成 youtube 视频。
 目前的开始节奏：每周 2 条结构化思考，1篇长文，所有内容围绕母题。
 
 我的credit在于我的综合视角：
@@ -90,7 +90,12 @@ Don Koe 的渠道：X 用于短文，thread 变成轮播图放在短视频网站
 3. 风险管理与降低错误率
 4. 个体主权与长期主义
 
+我的 Bio：
+设计一个在 AI 时代拥有选择权的人生系统。  
+Crypto / Macro / Self-Training / Parenting / Sovereignty
 
+设计一个在不确定时代拥有选择权的人生结构。  
+神经系统 × 投资实验 × 长期主义。
 
 
 
