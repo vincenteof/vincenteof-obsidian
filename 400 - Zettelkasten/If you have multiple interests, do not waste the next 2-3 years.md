@@ -60,6 +60,14 @@ Tags: [[mind-iteration]] [[kol]] [[great-post]]
 
 - [ ] 通过 AI 构建自己的品牌 #active 
 
+Don Koe 的渠道：X 用于短文，thread 变成轮播图放在短视频网站。newsletter 放到个人网站用于长文，也可以变成 youtube 视频。
+目前的开始节奏：每周 2 条结构化思考，1篇长文，所有内容围绕母题。
+
+moat：
+母题：
+bio：
+
+- [ ] 完成个人 portfolio 站 #active 
 
 
 
