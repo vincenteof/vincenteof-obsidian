@@ -117,8 +117,10 @@ X 长推，thread 变成轮播图放在短视频网站。newsletter 放到个人
 2. 早期反馈低就怀疑路径 
 3. 因为偶然高反馈改变表达风格
 
-
-- [ ] 完成个人 portfolio 站需求的设计 #active 
+- [ ] 完成个人 portfolio 站需求的设计 #active
+1. 个人的 landing page
+2. 稳定币支付会员的 newsletter，部分文章需要会员
+3. 里面可以看到我所有平台的内容，如 X 与 youtube
 
 - [ ] 利用 AI 完成个人 portfolio 站 的开发 #active 
 
