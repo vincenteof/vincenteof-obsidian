@@ -118,7 +118,9 @@ X 长推，thread 变成轮播图放在短视频网站。newsletter 放到个人
 3. 因为偶然高反馈改变表达风格
 
 
-- [ ] 完成个人 portfolio 站 #active 
+- [ ] 完成个人 portfolio 站需求的设计 #active 
+
+- [ ] 利用 AI 完成个人 portfolio 站 的开发 #active 
 
 
 
