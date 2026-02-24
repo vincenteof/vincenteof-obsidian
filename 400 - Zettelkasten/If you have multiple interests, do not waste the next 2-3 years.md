@@ -58,7 +58,7 @@ Tags: [[mind-iteration]] [[kol]] [[great-post]]
 7. [terrychen](https://x.com/hackbearterry)
 8. [odyssey](https://x.com/OdysseysEth)
 
-- [ ] 通过 AI 构建自己的品牌 #active 
+- [x] 通过 AI 构建自己的品牌 #active ✅ 2026-02-24
 
 我的credit在于我的综合视角：
 1. 我是统计学中的普通人
@@ -116,7 +116,6 @@ X 长推，thread 变成轮播图放在短视频网站。newsletter 放到个人
 1. 抽象空谈“认知升级”
 2. 早期反馈低就怀疑路径 
 3. 因为偶然高反馈改变表达风格
-
 
 
 - [ ] 完成个人 portfolio 站 #active 
