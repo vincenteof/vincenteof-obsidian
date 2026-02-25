@@ -123,7 +123,9 @@ X 长推，thread 变成轮播图放在短视频网站。newsletter 放到个人
 3. 里面可以看到我所有平台的内容，如 X 与 youtube
 4. 使用 tanstack 并部署于 cloudflare
 
+关于 tanstack，独立部署前端（cloudflare pages）和后端api（cloudflare worker）已经不适合，用 grok 再重新校准下。
 
+ 
 - [ ] 利用 AI 完成个人 portfolio 站 的开发 #active 
 
 
