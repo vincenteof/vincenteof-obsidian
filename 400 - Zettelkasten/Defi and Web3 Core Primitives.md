@@ -56,3 +56,5 @@ https://github.com/panditdhamdhere/master_smart_contracts
 https://x.com/panditdhamdhere/status/2001218503907664161
 ## tool
 https://x.com/vikingmute/status/2004829889577582781
+## primitive
+https://hackmd.io/@wongssh/uniswap-v2
