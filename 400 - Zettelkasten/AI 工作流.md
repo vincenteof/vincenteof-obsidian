@@ -5,7 +5,9 @@ Tags: [[ai]]
 
 ## insight
 
+
 - [ ] read cc docs #active 
+- [ ] setup an claude account #active 
 - [ ] setup openclaw #active 
 
 https://code.claude.com/docs
