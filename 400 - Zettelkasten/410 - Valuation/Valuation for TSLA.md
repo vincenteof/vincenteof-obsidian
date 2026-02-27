@@ -31,6 +31,10 @@ Elon doesn't have problem taking risks.
 有人说 TSLA 正在转机器人叙事来支撑万亿美元的估值，纯粹的买车业务的故事已经讲到了尽头。我认为这是一个非常自然的事情而非一种刻意营造的叙事，因为搭配 FSD + Grok 的特斯拉汽车已经是一种四轮的机器人，也是未来 Optimus 大规模商用的基础。
 https://x.com/tonyhua64243679/status/2020629034200428565
 
+
+- [ ] 总结 SpaceX + xAI + TSLA 的蓝图 #active 
+https://www.youtube.com/watch?v=Kd8Vso5tJrA
+
 ## Energy
 
 - [x] read the post about  megapack #active ✅ 2025-11-20
@@ -75,7 +79,6 @@ V14.2 已经展现了完全解决自动驾驶的能力，许多人都汇报长�
 
 2026/2/14 后 FSD 仅以月订阅形式提供。这时特斯拉转型软件公司的第一步，以牺牲短期一次性收入为代价，换取可规模化、高利润的软件收入流。需要观察后续的订阅比例，因为现在 FSD 的购买率本身也不算高。
 
- 
 ## Milestone
 
 FSD:
@@ -100,7 +103,14 @@ Q4 公开了卖方分析师的交付共识，主要应该还是控制预期，�
 
 ## Report
 
-- [ ] TSLA 2025 Q4 report #active 
+- [x] TSLA 2025 Q4 report #active ✅ 2026-02-11
+收入 249 亿，毛利率 20%， 利润率 5.7%，账面还有  441 亿现金。
+收入中，卖车业务约为 117 亿，储能业务 38.4 亿，服务与其他 34 亿。卖车的业务遇到瓶颈，但能源和服务快速增长，能源和 FSD 都会是高毛利的业务，支撑 TSLA 的未来估值。
+作为长期投资者，传统指标如毛利率（Q4 20%）可能已经不再具备非常重要的参考意义，主要需要关注其他指标：
+1. FSD 渗透率，Q4 约 12.4%，所有活跃用户中，月订阅占比 30%
+2. 储能部署容量，Q4 14.2 GWh
+3. Robotaxi 车队规模，Q4 500 辆
+4. Cybercab 与 Optimus 进展，前者预计 2026 量产，Optimus 2026 年可能比较难
 https://x.com/zutaoMin/status/2016705854259552310
 https://x.com/tonyhua64243679/status/2016700002396230107
 
@@ -123,6 +133,7 @@ https://x.com/raines1220/status/2008365245295968370
 https://x.com/TJ_Research/status/2008402010677129224
 https://x.com/TJ_Research/status/2008596864195850610
 https://x.com/tonyhua64243679/status/2020629034200428565
+https://www.youtube.com/watch?v=Kd8Vso5tJrA
 ### energy
 https://x.com/iamai_eth/status/1989457402203386066
 https://x.com/Tesla_Megapack/status/1989073638273012133

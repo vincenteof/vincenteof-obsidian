@@ -11,9 +11,6 @@ CC 的作者提供了一套他使用 CC 的方案，可以参考。
 
 Droid CTO 分享了一个高性价比组合：用 Opus 做 Planning，用 GLM 4.7 或 GPT-5.2-Codex 做执行。我准备先尝试把 Codex 玩熟。
 
-- [ ] 用 Codex 完成个人 portfolio 站 #active 
-
-
 - [ ] 基于 Codex 总结属于自己的 AI 工作流
 
 一些 vibe coding 的黑话：
