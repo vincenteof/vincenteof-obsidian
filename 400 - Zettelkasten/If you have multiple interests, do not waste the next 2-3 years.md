@@ -117,7 +117,7 @@ X 长推，thread 变成轮播图放在短视频网站。newsletter 放到个人
 2. 早期反馈低就怀疑路径 
 3. 因为偶然高反馈改变表达风格
 
-- [ ] 完成个人 portfolio 站需求的设计 #active
+- [x] 完成个人 portfolio 站需求的设计 #active ✅ 2026-03-01
 1. 个人的 landing page
 2. 稳定币支付会员的 newsletter，部分文章需要会员
 3. 里面可以看到我所有平台的内容，如 X 与 youtube
@@ -125,7 +125,6 @@ X 长推，thread 变成轮播图放在短视频网站。newsletter 放到个人
 
 关于 tanstack，独立部署前端（cloudflare pages）和后端api（cloudflare worker）已经不适合，用 grok 再重新校准下。
 
- 
 - [ ] 利用 AI 完成个人 portfolio 站 的开发 #active 
 
 
