@@ -125,7 +125,7 @@ X 长推，thread 变成轮播图放在短视频网站。newsletter 放到个人
 
 关于 tanstack，独立部署前端（cloudflare pages）和后端api（cloudflare worker）已经不适合，用 grok 再重新校准下。
 
-- [ ] 利用 AI 完成个人 portfolio 站 的开发 #active 
+- [ ] 利用 AI 完成个人 portfolio 的初版开发 #active 
 
 
 
