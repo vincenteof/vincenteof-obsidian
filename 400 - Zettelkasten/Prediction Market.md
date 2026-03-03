@@ -60,6 +60,7 @@ https://x.com/Eric_Option101/status/1985607946831872277
 https://x.com/GreekGamblerPM/status/1987167717590249918
 https://x.com/GodotSancho/status/2009566051424416150
 https://x.com/hqinjarsy/status/2011871855918125150
+https://x.com/runes_leo/status/2028449744717009108
 ### insight
 https://x.com/hoidya_/status/1977749569615302891
 https://x.com/0xKaKa03/status/1977794661675909151

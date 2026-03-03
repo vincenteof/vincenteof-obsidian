@@ -13,9 +13,10 @@ Tags: [[ai]]
 1. 长期维护个人taste的上下文，并且按照职责分类。因为大模型的上下文窗口是有限的，把一切都塞进去不仅浪费注意力而且损害性能。
 
 OpenClaw 做了什么
-1. 自托管
+1. 自托管，因此可以完成一些更复杂的 agent 工作，如打开 Mac 上的浏览器
 2. 自主执行复杂任务（通过定时触发）
 3. 长期记忆系统
+它的核心价值在于用 AI 解决非标准化的需求
 
 
 - [ ] read [Claude Code overview](https://code.claude.com/docs) and [How I Use Claude Code](https://boristane.com/blog/how-i-use-claude-code/) #active 
@@ -26,13 +27,11 @@ OpenClaw 做了什么
 ### UI 设计
 [宝藏小众设计 Prompts 网站](https://www.designprompts.dev/)
 
-
-https://code.claude.com/docs
-
 # References
 ## insight
 https://x.com/koylanai/status/2025286163641118915
 https://x.com/brucexu_eth/status/2028226211118481430
+https://x.com/taresky/status/2028506302071325059
 ## memory
 https://x.com/runes_leo/status/2027030391643570258
 ## usage

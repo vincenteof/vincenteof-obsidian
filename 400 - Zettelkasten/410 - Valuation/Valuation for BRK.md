@@ -33,8 +33,15 @@ Todd 与 Ted 各掌握约 150 亿美元，合计 ~300 亿，是 BRK 投资端的
 
 - [ ] watch abel's video
 
+[最新的一份股东信](https://x.com/joely7758521/status/2028311930020999502)已经是 abel 发出的了
+BRK 的文化、价值观、资本配置框架将“保持不变并永久延续”
+1T 的市值有解决 400B 的现金
+
+
+
 
 # References
 ## leadership
 https://x.com/joely7758521/status/1989559611993854035
 https://x.com/ooeli_eth/status/1998059018628333588
+https://x.com/joely7758521/status/2028311930020999502
