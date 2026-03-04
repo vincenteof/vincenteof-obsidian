@@ -18,6 +18,9 @@ OpenClaw 做了什么
 3. 长期记忆系统
 它的核心价值在于用 AI 解决非标准化的需求
 
+[这篇文章](https://x.com/AYi_AInotes/status/2026224275192193465)介绍了一种 Code Agent Swarm
+但是目前我不太理解为什么需要一个 7✖️24 不断运行的 Code Agent，我唯一能想到的用处是快速复刻一个已有的巨型软件。大多数软件开发，最难的是定义要做什么，这个过程甚至需要不断调整磨合，瓶颈并不在 dev。
+
 
 - [ ] read [Claude Code overview](https://code.claude.com/docs) and [How I Use Claude Code](https://boristane.com/blog/how-i-use-claude-code/) #active 
 
