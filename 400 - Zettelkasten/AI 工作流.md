@@ -4,7 +4,7 @@ Tags: [[ai]]
 # AI 工作流
 
 ## prerequisite
-- [ ] setup an claude account #active 
+- [x] setup an claude account #active ✅ 2026-03-05
 - [ ] setup openclaw #active 
 
 ## insight
