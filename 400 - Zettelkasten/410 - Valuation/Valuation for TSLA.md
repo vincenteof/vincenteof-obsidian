@@ -32,7 +32,7 @@ Elon doesn't have problem taking risks.
 https://x.com/tonyhua64243679/status/2020629034200428565
 
 
-- [ ] 总结 SpaceX + xAI + TSLA 的蓝图 #active 
+- [ ] 总结 SpaceX + xAI + TSLA 的蓝图
 https://www.youtube.com/watch?v=Kd8Vso5tJrA
 
 ## Energy

@@ -5,7 +5,7 @@ Tags: [[ai]]
 
 ## prerequisite
 - [x] setup an claude account #active ✅ 2026-03-05
-- [ ] setup openclaw #active 
+- [x] setup openclaw #active ✅ 2026-03-09
 
 ## insight
 
@@ -26,6 +26,17 @@ https://x.com/vincenteof/status/2029163178341646847
 [这篇文章](https://x.com/xingpt/status/2025219080421277813)介绍了如何用 AI 搭建一个自动化的自己
 
 - [ ] read [Claude Code overview](https://code.claude.com/docs) and [How I Use Claude Code](https://boristane.com/blog/how-i-use-claude-code/) #active 
+
+
+## tool
+
+## openclaw
+新版本的 openclaw 默认给 tool 的权限只有 message，需要更改配置：
+openclaw config set tools.profile full
+https://x.com/akokoi1/status/2030086511660789965
+
+关于好用的 skills
+
 
 ## usage
 一人软件开发的 Agent 化
