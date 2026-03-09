@@ -18,6 +18,12 @@ OpenClaw 做了什么
 3. 长期记忆系统
 它的核心价值在于用 AI 解决非标准化的需求
 
+关于多 agents 系统，一种实际的用途是解决自己生活中流程化的部分，最重要的是你自己要对怎么做有一套看法和审美，多 agents 只是杠杆或者加速器。
+https://x.com/jimprosser/status/2029699731539255640
+guoyu 的 setup 是针对开发者的，可以参考
+https://x.com/turingou/status/2030180402766434780
+- [ ] 如何建立多 agents 系统 #active 
+
 [这篇文章](https://x.com/AYi_AInotes/status/2026224275192193465)介绍了一种 Code Agent Swarm
 但是目前我不太理解为什么需要一个 7✖️24 不断运行的 Code Agent Team。我唯一能想到的用处是快速复刻一个已有的巨型软件。大多数软件开发，最难的是定义要做什么，这个过程甚至需要不断调整磨合，瓶颈并不在 dev。
 https://x.com/vincenteof/status/2029163178341646847
