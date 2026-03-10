@@ -38,6 +38,8 @@ Play CTFs, Study real exploits(SCH), Share your journey
 Read the theory first, Understand the protocol, read the fkn code and build using this.
 
 使用 deepwiki 学习代码架构
+
+[how crypto works](https://github.com/lawmaster10/howcryptoworksbook)
 # References
 ## insight
 https://x.com/shafu0x/status/1978062876779622600
