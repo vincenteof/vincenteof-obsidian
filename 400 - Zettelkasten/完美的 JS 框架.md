@@ -1,5 +1,5 @@
 Date: 2025-12-10
-Tags: [[full-stack]]
+Tags: [[full-stack]] [[indie-hacker]]
 
 # 完美的 JS 框架
 
@@ -13,7 +13,6 @@ NextJS 太过依赖 Vercel，而且可能会有很多的潜在漏洞。我希望
 2. 直接 bun + docker
  bundling 只适合对冷启动速度要求很高时，但可能会遇到很多如路径等潜在问题。
  Node.js 23+ 原生支持直接跑 .ts，但仍有局限，托管平台也常不支持实验 flag。所以还是老老实实 build 到 JS。
-
 
 # References
 https://x.com/Manjusaka_Lee/status/1998030917961666632
