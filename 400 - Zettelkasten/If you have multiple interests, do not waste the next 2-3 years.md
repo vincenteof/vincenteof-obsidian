@@ -127,7 +127,9 @@ X 长推，thread 变成轮播图放在短视频网站。newsletter 放到个人
 
 - [ ] 利用 AI 完成个人网站 landing page 的开发 #active
 
-- [ ] sdsds
+- [ ] 完成 posts 相关页面的设计并初始化一些文章 #active 
+
+这一阶段完成，就可以链接到个人资料，对外公开。
 
 
 
