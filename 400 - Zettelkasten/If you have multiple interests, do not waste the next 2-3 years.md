@@ -125,7 +125,7 @@ X 长推，thread 变成轮播图放在短视频网站。newsletter 放到个人
 
 关于 tanstack，独立部署前端（cloudflare pages）和后端api（cloudflare worker）已经不适合，用 grok 再重新校准下。
 
-- [ ] 利用 AI 完成个人网站 landing page 的开发 #active
+- [x] 利用 AI 完成个人网站 landing page 的开发 #active ✅ 2026-03-13
 
 - [ ] 完成 posts 相关页面的设计并初始化一些文章 #active 
 
