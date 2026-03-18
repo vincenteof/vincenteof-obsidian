@@ -5,24 +5,25 @@ Tags: [[wishlist]]
 
 **Materials**:
 - ✔️ Bag 
-	- 计划优衣库，最终购买 Lululemon
-	- 也从 NIO 得到了一个免费的
+	- Lululemon
+	- NIO 免费获赠
 - ✔️ Oppo Pad4 Pro
 - ✔️ OneKey
-- IPhone
+	- OneKey Pro
+- ✔️ IPhone
+	- 17 Pro
+- ✔️ Macbook Pro
+	- M5 Macbook Pro
+- ✔️ 汇丰 Pulse
 - IWatch
-- Macbook Pro
 - Keyboard
 	- NuPhy
 	- Knob
-- 懒猫微服
-- 罗技鼠标
 - 美卡
-- 汇丰 Pulse
+- 香港私行账户
 - A house with Tesla Powerwall
 - Tesla Model3
-- 个人办公室或地下室
-
+- 个人办公室
 
 **Spiritual**:
 - 字节食堂
