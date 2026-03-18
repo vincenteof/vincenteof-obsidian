@@ -5,7 +5,10 @@ Tags: [[lumao-log]]
 
 - [ ] 制定 Q2 撸毛计划 #active 
 
+目前行情走熊，可以逐渐降低烧钱拿积分的方案
+
 xstocks
+
 
 
 
