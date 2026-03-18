@@ -3,35 +3,68 @@ Tags: [[macro]] [[valuation]]
 
 # Valuation for NVDA
 
+## insight
+
 - [x] read the report by AI to get a rough idea #active ✅ 2025-10-16
 
-Since all the LLM company hasn't make profit, NVDA is the one captured most value in this AI cycle. It almost monopolizes the market of AI training on cloud. In short, it's the company selling the computing power. It's a platform for general-purpose parallel computing. The product it sells are
+由于目前所有大模型公司都尚未实现盈利，NVIDIA 成为了这一轮 AI 周期中**获取最多价值的公司**。
+它几乎垄断了云端 AI 训练市场。
+简单来说，它是一家**出售算力的公司**，本质上是一个通用并行计算平台。
+它的核心产品包括：
 1. GPU
-2. CUDA development ecosystem
-3. AI software and framework
-4. business service
-Currently, there are mainly three parts occupy the income of NVDA:
-- Tranning - 60~65%
-- Inference - 20~25%
-- Other - 10~15%
-Income from AI tranning is the most, but the demand of inference is increasing sharply.
+2. CUDA 开发生态
+3. AI 软件与框架
+4. 商业服务
+目前，NVIDIA 的收入主要来自三部分：
+- **训练（Training）**：60% ~ 65%
+- **推理（Inference）**：20% ~ 25%
+- **其他（Other）**：10% ~ 15%
+其中，AI 训练仍然是最大的收入来源，但**推理需求正在快速增长**。
 
-potential risk:
-1. big company are pursuing more intelligence from more computing power, when will the scaling law reachs its limit? Another similar pivot point, when AI is more excellent than human being on every field, there is no need to improve.
-2. If no one make real profit from AI, then demand for computing power descreases.
-3. Paradigm shift on computing power, like quantum computer or other ASIC rather than common GPU.
+## 潜在风险
+1. **Scaling Law 的极限问题**  
+    大公司当前通过不断增加算力来提升模型能力，但这种趋势何时会触及边界？  
+    类似的拐点是：当 AI 在各个领域都超过人类时，继续提升的边际价值将大幅下降。
+2. **AI 商业化不及预期**  
+    如果没有公司能够真正从 AI 中实现盈利，那么对算力的需求将下降。
+3. **算力范式转移**  
+    例如量子计算、光计算，或者 ASIC 等替代 GPU 的方案。
 
-For 1, I don't see the trend that demand for GPU decreases, all the giant companies are developing new multimodal models. Once model is trainned, the demand for training still exist, since there will be finetuning for specific domain. Once the model war is finished, there will only be one or two winner, at that the deman for training will decrease.
-For 2, AI do have taken some jobs and seems promising, and whether it can really change the world will be seen in next 1 or 2 years.
-For 3, there are some trend like quantum computing or photonic computing, but they are all at a very experimental stage. And they don't have ecosystem which means it will take very long time eat the shares. Another risk maybe ASIC and it's more practical.
+**对于风险 1：**
+目前我没有看到 GPU 需求下降的趋势。  
+所有科技巨头都在开发新的多模态模型。
+即使模型训练完成，仍然需要针对特定领域进行微调，因此训练需求依然存在。
+但一旦模型竞争结束，只剩下 1～2 个赢家，训练需求可能会下降。
+
+AI 已经开始替代部分岗位，并且前景看起来很有潜力。  
+但它是否真的能改变世界，可能会在未来 1～2 年内逐渐显现。
+
+量子计算、光计算等方向确实存在趋势，但目前仍处于非常早期的实验阶段。
+它们缺乏成熟的生态系统，因此要真正蚕食 GPU 市场份额，还需要很长时间。
+更现实的风险可能来自 ASIC，因为它更具落地性。
 
 - [x] read the opinion of influencers on X #active ✅ 2025-11-12
 
-I use Grok to analyze @iamai_eth 's posts, most are bullish on NVDA. But I found a very inspiring view about BTC and NVDA. 
+我用 Grok 分析了 @iamai_eth 的帖子，大多数观点都是看多 NVIDIA。
+但我看到一个关于 Bitcoin 和 NVIDIA 的观点，非常有启发：
 
-> The price of Bitcoin is the option value of the world's surplus electricity.
+> 比特币的价格，本质上是全球剩余电力的期权价值。
 
-Each Bitcoin is minted using energy, and there is surplus electricity all over the world which cannot be stored to used. Mining provide a way of converting them to long term option. Nowadays AI is also eager for energy which makes the price of energy higher. This may lead to hash rate reduce and have influence on Bitcoin price.
+
+每一枚比特币，都是通过消耗能源“铸造”出来的。
+而在全球范围内，其实存在大量**无法储存、也难以直接利用的剩余电力**。
+比特币挖矿提供了一种方式，可以将这些电力转化为一种**长期期权价值**。
+
+而现在，AI 也在强烈争夺能源资源，这正在推高能源价格。
+这可能带来一个连锁反应：
+- 挖矿成本上升
+- 全网算力（hash rate）可能下降
+- 从而对比特币价格产生影响
+
+
+CUDA 和生态只是 NVDA 护城河的表面，它真正的护城河是算力的增速。没有任何一家公司可以让计算能力以这种速度，数十年如一日的增长。
+联想萨顿的苦涩的教训：
+长期来看，通用方法 + 计算力，几乎总是战胜人类精心设计的智能。因为计算力是指数增长的，而人类知识是线性增长的。> **人类知识其实是“短期捷径”，但长期是“阻碍”**。因为你加入知识 → 限制了搜索空间，限制搜索空间 → 限制了上限。
 
 
 
@@ -39,5 +72,6 @@ Each Bitcoin is minted using energy, and there is surplus electricity all over t
 # References
 ## Insight
 https://x.com/iamai_eth/status/1975778759795220545
+https://x.com/iamai_eth/status/2034060810813681719
 ## Risk
 https://x.com/Tz_2022/status/1986820222842548679
