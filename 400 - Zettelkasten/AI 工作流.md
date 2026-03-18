@@ -24,16 +24,11 @@ guoyu 的 setup 是针对开发者的，可以参考
 https://x.com/turingou/status/2030180402766434780
 - [ ] 如何建立多 agents 系统 #active 
 
+[这篇文章](https://x.com/AYi_AInotes/status/2026224275192193465)介绍了一种 Code Agent Swarm，[但是目前我不太理解为什么需要一个 7✖️24 不断运行的 Code Agent Team](https://x.com/vincenteof/status/2029163178341646847)。
 
-[这篇文章](https://x.com/AYi_AInotes/status/2026224275192193465)介绍了一种 Code Agent Swarm
-但是目前我不太理解为什么需要一个 7✖️24 不断运行的 Code Agent Team。我唯一能想到的用处是快速复刻一个已有的巨型软件。大多数软件开发，最难的是定义要做什么，这个过程甚至需要不断调整磨合，瓶颈并不在 dev。
-https://x.com/vincenteof/status/2029163178341646847
-
-
-[这篇文章](https://x.com/xingpt/status/2025219080421277813)介绍了如何用 AI 搭建一个自动化的自己
+我觉得使用 Agent 一个最真实的需求是用 AI 搭建一个自动化的自己，比如 [这篇文章](https://x.com/xingpt/status/2025219080421277813)。
 
 - [ ] read [Claude Code overview](https://code.claude.com/docs) and [How I Use Claude Code](https://boristane.com/blog/how-i-use-claude-code/) #active 
-
 
 ## tool
 
@@ -43,10 +38,13 @@ openclaw config set tools.profile full
 https://x.com/akokoi1/status/2030086511660789965
 ## usage
 一人软件开发的 Agent 化
+
 审计职能合约
+
 ### UI 设计
 [宝藏小众设计 Prompts 网站](https://www.designprompts.dev/)
-[Design Skills](https://x.com/Jackywine/status/2033791236960846249)
+可以尝试用 [Design Skills](https://x.com/Jackywine/status/2033791236960846249) 美化个人网站
+https://variant.com/
 
 # References
 ## insight
@@ -57,3 +55,4 @@ https://x.com/taresky/status/2028506302071325059
 https://x.com/runes_leo/status/2027030391643570258
 ## usage
 https://x.com/Jackywine/status/2033791236960846249
+https://variant.com/
