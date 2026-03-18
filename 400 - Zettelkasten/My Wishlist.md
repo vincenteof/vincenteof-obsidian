@@ -4,17 +4,17 @@ Tags: [[wishlist]]
 # My Wishlist
 
 **Materials**:
-- ✔️ Bag 
+- ✅ Bag 
 	- Lululemon
 	- NIO 免费获赠
-- ✔️ Oppo Pad4 Pro
-- ✔️ OneKey
+- ✅ Oppo Pad4 Pro
+- ✅ OneKey
 	- OneKey Pro
-- ✔️ IPhone
+- ✅ IPhone
 	- 17 Pro
-- ✔️ Macbook Pro
+- ✅ Macbook Pro
 	- M5 Macbook Pro
-- ✔️ 汇丰 Pulse
+- ✅ 汇丰 Pulse
 - IWatch
 - Keyboard
 	- NuPhy
