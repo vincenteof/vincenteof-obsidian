@@ -28,7 +28,7 @@ https://x.com/turingou/status/2030180402766434780
 
 我觉得使用 Agent 一个最真实的需求是用 AI 搭建一个自动化的自己，比如 [这篇文章](https://x.com/xingpt/status/2025219080421277813)。
 
-- [ ] read [Claude Code overview](https://code.claude.com/docs) and [How I Use Claude Code](https://boristane.com/blog/how-i-use-claude-code/) #active 
+- [ ] read [Claude Code overview](https://code.claude.com/docs) and [How I Use Claude Code](https://boristane.com/blog/how-i-use-claude-code/)
 
 ## tool
 
