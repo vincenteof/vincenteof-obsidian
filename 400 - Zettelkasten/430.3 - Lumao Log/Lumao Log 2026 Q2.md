@@ -9,6 +9,7 @@ Tags: [[lumao-log]]
 
 ### xStocks
 主要做 LP，配合 QQQ 600 以下的抄底计划
+[[如何通过组 LP 或的现金流]]
 
 
 ostium
