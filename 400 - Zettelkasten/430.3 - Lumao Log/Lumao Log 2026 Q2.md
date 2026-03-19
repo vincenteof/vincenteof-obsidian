@@ -7,7 +7,10 @@ Tags: [[lumao-log]]
 
 目前行情走熊，可以逐渐降低烧钱拿积分的方案
 
-xstocks
+### xStocks
+主要做 LP，配合 QQQ 600 以下的抄底计划
+
+
 ostium
 variational
 
