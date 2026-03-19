@@ -12,8 +12,6 @@ ostium
 variational
 
 
-
-
 # References
 https://x.com/congge918/status/2034107114684358780
 https://x.com/0Xlynn03/status/2033367632527970764
