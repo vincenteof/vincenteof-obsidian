@@ -28,14 +28,21 @@ https://x.com/turingou/status/2030180402766434780
 
 我觉得使用 Agent 一个最真实的需求是用 AI 搭建一个自动化的自己，比如 [这篇文章](https://x.com/xingpt/status/2025219080421277813)。
 
+使用 Code Agent 的时候将需求（spec）和实现（分离）也许会更好，可以参考 [这类经验](https://x.com/defi88888888/status/2036262502464626713)
+
 - [ ] read [Claude Code overview](https://code.claude.com/docs) and [How I Use Claude Code](https://boristane.com/blog/how-i-use-claude-code/)
 
-## tool
+## experience
 
-## openclaw
+### openclaw
 新版本的 openclaw 默认给 tool 的权限只有 message，需要更改配置：
 openclaw config set tools.profile full
 https://x.com/akokoi1/status/2030086511660789965
+
+### harness engineering
+- [ ] 在 vincenteofcom 中实践 [harness engineering](https://x.com/0xdeusyu/status/2036120884940058893) #active 
+
+
 ## usage
 一人软件开发的 Agent 化
 
