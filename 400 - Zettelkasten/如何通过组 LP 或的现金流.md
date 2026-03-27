@@ -5,4 +5,6 @@ Tags: [[invest]] [[crypto]]
 
 - [ ] 系统总结学习如何组 LP #active 
 
+单边 LP
+
 # References
