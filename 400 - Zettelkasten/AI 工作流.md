@@ -51,6 +51,9 @@ https://x.com/akokoi1/status/2030086511660789965
 ### UI 设计
 [宝藏小众设计 Prompts 网站](https://www.designprompts.dev/)
 可以尝试用 [Design Skills](https://x.com/Jackywine/status/2033791236960846249) 美化个人网站
+
+- [ ] 尝试使用 [impeccable](https://impeccable.style/) 来优化 vincenteofcom #active 
+
 https://variant.com/
 
 # References
