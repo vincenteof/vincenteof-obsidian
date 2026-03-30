@@ -20,10 +20,9 @@ OpenClaw 做了什么
 
 关于多 agents 系统，一种实际的用途是解决自己生活中流程化的部分，最重要的是你自己要对怎么做有一套看法和审美，多 agents 只是杠杆或者加速器。
 https://x.com/jimprosser/status/2029699731539255640
+我觉得使用 Agent 一个最真实的需求是用 AI 搭建一个自动化的自己，比如 [这篇文章](https://x.com/xingpt/status/2025219080421277813)。
 
 [这篇文章](https://x.com/AYi_AInotes/status/2026224275192193465)介绍了一种 Code Agent Swarm，[但是目前我不太理解为什么需要一个 7✖️24 不断运行的 Code Agent Team](https://x.com/vincenteof/status/2029163178341646847)。
-
-我觉得使用 Agent 一个最真实的需求是用 AI 搭建一个自动化的自己，比如 [这篇文章](https://x.com/xingpt/status/2025219080421277813)。
 
 使用 Code Agent 的时候将需求（spec）和实现（分离）也许会更好，可以参考 [这类经验](https://x.com/defi88888888/status/2036262502464626713)
 
@@ -36,11 +35,27 @@ https://x.com/jimprosser/status/2029699731539255640
 openclaw config set tools.profile full
 https://x.com/akokoi1/status/2030086511660789965
 
+[提升 openclaw 的效率 10 倍](https://x.com/Louis_Chenxf/status/2028271391376888120)
+一些 insight：
+- 合理利用记忆系统，MEMORY.md 只保留 P0 级别的硬约束，日常事务全部写进 daily notes，需要回忆时用 `memory_search` 检索，不是全文加载
+- 重执行任务交给子代理隔离，主绘画只做决策和审核
+- openclaw 可以自主化管理记忆，甚至用 git 做版本控制，claude 这点做不到
+配置要点：
+1. MEMORY.md 精简原则：只保留 P0 级别的硬约束，其他全部移到 daily notes
+2. Compaction 配置：`memoryFlush` + `contextPruning(cache-ttl=15m, keepLastAssistants=3)`
+3. Heartbeat 策略：默认空文件，只在需要时写入任务
+4. 子代理隔离：重执行任务用短命子代理（`cleanup: delete`）
+5. Prompt Cache：稳定指令区前置，波动输入区后置
+6. 安全审计：安装 skill 前跑 `scripts/skill-audit.sh`
+7. 成本监控：每周检查 token 消耗，识别异常高的任务
+
 - [ ] 尝试用 openclaw 操作 obsidian #active 
 
 - [ ] 尝试用 openclaw 如何建立多 agents 系统 #active 
 [guoyu 针对开发者的多 agents 系统](https://x.com/turingou/status/2030180402766434780)
 [tualatrix 的 agent 编排系统](https://x.com/tualatrix/status/2038506764854075699)
+
+
 
 
 
