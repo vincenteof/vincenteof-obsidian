@@ -3,7 +3,7 @@ Tags: [[lumao-log]]
 
 # Lumao Log 2026 Q2
 
-- [ ] 制定 Q2 撸毛计划 #active 
+- [x] 制定 Q2 撸毛计划 #active ✅ 2026-04-01
 
 目前行情走熊，更倾向于真实收益 + 低（负）成本积分。
 
@@ -20,11 +20,10 @@ Tags: [[lumao-log]]
 主要做 LP，配合 QQQ 600 以下的抄底计划
 [[如何通过组 LP 或的现金流]]
 
-### variational & nado
+### variational & nado & ostium
 老思路仓位对冲套利，基于目前的大行情不会再烧钱买积分
 [[Funding Rate Arbitrage]]
-
-### ostium
+基于美股可能走熊的趋势，先停了
 
 
 # References
