@@ -57,11 +57,12 @@ https://x.com/akokoi1/status/2030086511660789965
 
 
 
-
-
-
 ### harness engineering
-- [ ] 在 vincenteofcom 中实践 [harness engineering](https://x.com/0xdeusyu/status/2036120884940058893) #active 
+[openai blog 上 关于harness engineering 的文章](https://x.com/fredchuuu/status/2038476548874145995)
+[一个关于 harness engineering 实践的仓库](https://x.com/0xdeusyu/status/2036120884940058893)
+- [ ] 在 vincenteofcom 中实践 harness engineering #active 
+
+
 
 ## usage
 一人软件开发的 Agent 化
@@ -83,6 +84,8 @@ https://x.com/brucexu_eth/status/2028226211118481430
 https://x.com/taresky/status/2028506302071325059
 ## memory
 https://x.com/runes_leo/status/2027030391643570258
+
+https://x.com/fredchuuu/status/2038476548874145995
 ## usage
 https://x.com/Jackywine/status/2033791236960846249
 https://variant.com/
