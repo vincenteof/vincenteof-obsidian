@@ -7,6 +7,7 @@ Tags: [[life-plan]]
 
 1. 开始践行 [[如何不靠工作生活]]
 2. 自媒体流程自动化 [[If you have multiple interests, do not waste the next 2-3 years]]
+3. 了解独立开发的大方向 [[独立游戏开发]] [[如何进行独立开发]]
 
 
 
