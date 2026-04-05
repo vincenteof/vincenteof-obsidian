@@ -133,8 +133,9 @@ X 长推，thread 变成轮播图放在短视频网站。newsletter 放到个人
 
 - [ ] 将 posts 与仓库本体分离 #active 
 
-
 - [ ] 生成视频封面 skills 化 #active 
+
+- [ ] 设计网站的引用 / 标注规范 #active 
 
 ### 找到新颖视角
 
