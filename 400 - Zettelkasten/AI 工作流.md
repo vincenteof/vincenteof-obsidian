@@ -50,6 +50,9 @@ https://x.com/akokoi1/status/2030086511660789965
 7. 成本监控：每周检查 token 消耗，识别异常高的任务
 
 - [ ] 尝试用 openclaw 操作 obsidian #active 
+先对 openclaw 进行升级
+obsidian 的 vault 与 openclaw 的 workspace 如何存放：
+
 
 - [ ] 尝试用 openclaw 如何建立多 agents 系统 #active 
 [guoyu 针对开发者的多 agents 系统](https://x.com/turingou/status/2030180402766434780)
