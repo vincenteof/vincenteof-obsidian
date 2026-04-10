@@ -61,7 +61,7 @@ obsidian 的 vault 与 openclaw 的 workspace 如何存放
 
 
 ### harness engineering
-[openai blog 上 关于harness engineering 的文章](https://x.com/fredchuuu/status/2038476548874145995)
+[openai blog 上 关于harness engineering 的文章](https://openai.com/zh-Hans-CN/index/harness-engineering)
 [一个关于 harness engineering 实践的仓库](https://x.com/0xdeusyu/status/2036120884940058893)
 - [ ] 在 vincenteofcom 中实践 harness engineering #active 
 
