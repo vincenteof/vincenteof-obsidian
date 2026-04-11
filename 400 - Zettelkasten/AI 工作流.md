@@ -58,13 +58,10 @@ obsidian 的 vault 与 openclaw 的 workspace 如何存放
 [guoyu 针对开发者的多 agents 系统](https://x.com/turingou/status/2030180402766434780)
 [tualatrix 的 agent 编排系统](https://x.com/tualatrix/status/2038506764854075699)
 
-
-
 ### harness engineering
 [openai blog 上 关于harness engineering 的文章](https://openai.com/zh-Hans-CN/index/harness-engineering)
 [一个关于 harness engineering 实践的仓库](https://x.com/0xdeusyu/status/2036120884940058893)
 - [ ] 在 vincenteofcom 中实践 harness engineering #active 
-
 
 
 ## usage
