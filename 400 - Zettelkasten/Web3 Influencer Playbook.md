@@ -1,5 +1,5 @@
 Date: 2025-09-06
-Tags: [[influencer]]
+Tags: [[kol]]
 
 # Web3 Influencer Playbook
 

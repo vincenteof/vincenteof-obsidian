@@ -59,9 +59,12 @@ obsidian 的 vault 与 openclaw 的 workspace 如何存放
 [tualatrix 的 agent 编排系统](https://x.com/tualatrix/status/2038506764854075699)
 
 ### harness engineering
+
 [openai blog 上 关于harness engineering 的文章](https://openai.com/zh-Hans-CN/index/harness-engineering)
 [一个关于 harness engineering 实践的仓库](https://x.com/0xdeusyu/status/2036120884940058893)
-- [ ] 在 vincenteofcom 中实践 harness engineering #active 
+
+- [x] 在 vincenteofcom 中实践 harness engineering #active ✅ 2026-04-17
+核心是将决策都留存到项目里的 doc，这样 code agent 会有更为完整的上下文。AGENT.md 作为文档目录。目前我的实践中还差一点的是自动的测试和 CI 流程，这样可以做到 PR 出现问题 agent 自主修改。
 
 
 ## usage
@@ -73,7 +76,8 @@ obsidian 的 vault 与 openclaw 的 workspace 如何存放
 [宝藏小众设计 Prompts 网站](https://www.designprompts.dev/)
 https://variant.com/
 
-- [ ] 尝试使用 [impeccable](https://impeccable.style/) 或其他 [Design Skills](https://x.com/Jackywine/status/2033791236960846249) 来优化 vincenteofcom #active 
+- [x] 尝试使用 [impeccable](https://impeccable.style/) 或其他 [Design Skills](https://x.com/Jackywine/status/2033791236960846249) 来优化 vincenteofcom #active ✅ 2026-04-17
+第一次需要使用 teach 给它生成设计 UI 的上下文。如果是全新页面直接让它创建，如果是历史页面就让它不断  critique 。
 
 
 
