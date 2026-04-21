@@ -49,7 +49,8 @@ https://x.com/akokoi1/status/2030086511660789965
 6. 安全审计：安装 skill 前跑 `scripts/skill-audit.sh`
 7. 成本监控：每周检查 token 消耗，识别异常高的任务
 
-- [ ] 尝试用 openclaw 操作 obsidian #active 
+- [x] 尝试用 openclaw 操作 obsidian #active ✅ 2026-04-21
+目前将 obsidian 的 vault 和 openclaw 的 workspace 分开存放，然后开启松散的安全模式
 obsidian 的 vault 与 openclaw 的 workspace 如何存放
 有了 obsidian 如何产生记忆，是否会上下文太大
 
