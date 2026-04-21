@@ -50,10 +50,9 @@ https://x.com/akokoi1/status/2030086511660789965
 7. 成本监控：每周检查 token 消耗，识别异常高的任务
 
 - [x] 尝试用 openclaw 操作 obsidian #active ✅ 2026-04-21
-目前将 obsidian 的 vault 和 openclaw 的 workspace 分开存放，然后开启松散的安全模式
-obsidian 的 vault 与 openclaw 的 workspace 如何存放
-有了 obsidian 如何产生记忆，是否会上下文太大
+目前将 obsidian 的 vault 和 openclaw 的 workspace 分开存放，然后开启松散的安全模式它可以读写 workspace 外的文件，关于我的记忆依旧放在 workspace 里，后面将 openclaw 作为主要 ai 入口，这样可以将关于我的记忆本地化。
 
+- [ ] 给 openclaw 增加更多功能，如联网搜索，图像识别等 #active 
 
 - [ ] 尝试用 openclaw 如何建立多 agents 系统 #active 
 [guoyu 针对开发者的多 agents 系统](https://x.com/turingou/status/2030180402766434780)
