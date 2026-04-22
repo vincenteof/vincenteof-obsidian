@@ -1,18 +1,18 @@
 ---
 type: asset
-category: stock
-symbol: TSLA
-quantity: 102
-avg_cost: 341.08
-current_price: 389.61
+category: etf
+symbol: QQQ
+quantity: 40
+avg_cost: 593.62
+current_price: 650.30
 currency: USD
 last_updated: 2026-04-22
 ---
 
-# TSLA
+# QQQ
 
 ## 平台分布
 
 | 平台 | 数量 | 平均成本 | 当前价格 | 货币 |
 |---|---:|---:|---:|---|
-| IBKR | 102 | 341.08 | 389.61 | USD |
+| IBKR | 40 | 593.62 | 650.30 | USD |

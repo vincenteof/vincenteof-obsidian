@@ -15,10 +15,10 @@ views:
       - category
       - currency
       - avg_cost
+      - current_price
       - formula.Current Value
       - formula.Return %
       - formula.Unrealized Gain
-      - current_price
     sort: []
     columns:
       - note.symbol

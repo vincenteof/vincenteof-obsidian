@@ -1,18 +1,18 @@
 ---
 type: asset
 category: stock
-symbol: TSLA
-quantity: 102
-avg_cost: 341.08
-current_price: 389.61
+symbol: NVDA
+quantity: 15
+avg_cost: 178.69
+current_price: 201.10
 currency: USD
 last_updated: 2026-04-22
 ---
 
-# TSLA
+# NVDA
 
 ## 平台分布
 
 | 平台 | 数量 | 平均成本 | 当前价格 | 货币 |
 |---|---:|---:|---:|---|
-| IBKR | 102 | 341.08 | 389.61 | USD |
+| IBKR | 15 | 178.69 | 201.10 | USD |

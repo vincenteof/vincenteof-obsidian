@@ -43,13 +43,18 @@
 | Dividend | 股息/分红到账 |
 | Split | 股票拆分 |
 | Fee | 独立手续费（非交易附带） |
+| Deposit | 现金入金 |
+| Withdraw | 现金出金 |
+| Interest | 现金利息到账 |
+| FX | 货币兑换 |
+| Initial Position | 初始持仓快照，仅用于建立真实组合起点 |
 
 ### 必填字段
 
 | 字段 | 说明 | 示例 |
 |------|------|------|
 | 日期 | 交易日期，YYYY-MM-DD | 2026-04-22 |
-| 操作 | Buy / Sell / Dividend 等 | Buy |
+| 操作 | Buy / Sell / Dividend / Deposit / Withdraw 等 | Buy |
 | 符号 | 资产 symbol，必须与笔记文件名一致 | AAPL |
 | 数量 | 买入正数，卖出负数 | +50 / -30 |
 | 价格 | 每股/每单位价格 | 228.50 |
@@ -100,6 +105,34 @@
 新 avg_cost = 旧 avg_cost / 拆股倍数
 ```
 
+### Cash（现金）
+
+现金也作为 `asset` 管理，category 为 `cash`。
+
+现金资产规则：
+
+```
+symbol = <CURRENCY>-CASH，如 USD-CASH、HKD-CASH、CNY-CASH
+quantity = 当前现金余额
+avg_cost = 1
+current_price = 1
+currency = 对应货币
+```
+
+现金操作规则：
+
+| 操作 | 对现金 quantity 的影响 | avg_cost | current_price | 说明 |
+|------|------------------------|----------|---------------|------|
+| Deposit | 增加 | 保持 1 | 保持 1 | 入金 |
+| Withdraw | 减少 | 保持 1 | 保持 1 | 出金 |
+| Interest | 增加 | 保持 1 | 保持 1 | 现金利息 |
+| Fee | 减少 | 保持 1 | 保持 1 | 单独现金费用 |
+| FX | 同时减少卖出币种现金、增加买入币种现金 | 保持 1 | 保持 1 | 需记录两个现金资产 |
+
+现金不能产生浮盈，因此 `avg_cost` 和 `current_price` 固定为 1。Dashboard 中 `quantity * current_price` 即现金余额。
+
+如果同一币种现金分布在多个平台，资产 YAML 只记录合计数量，正文 `平台分布` 表记录各平台金额。更新现金时必须同步维护平台分布。
+
 ---
 
 ## 四、资产笔记操作规范
@@ -107,6 +140,7 @@
 ### 文件命名
 
 - 文件名 = symbol，全大写，如 `AAPL.md`、`BTC.md`
+- 现金文件名 = `<CURRENCY>-CASH.md`，如 `USD-CASH.md`
 - 路径：`972 - Assets/<SYMBOL>.md`
 
 ### YAML 标准格式
@@ -114,7 +148,7 @@
 ```yaml
 ---
 type: asset
-category: stock        # stock / crypto / fund / bond / etf
+category: stock        # stock / crypto / fund / bond / etf / cash
 symbol: AAPL
 quantity: 150
 avg_cost: 180.50
@@ -126,6 +160,22 @@ last_updated: 2026-04-22
 
 - 修改 YAML 后必须更新 `last_updated` 为当天日期
 - 不要修改笔记正文内容（YAML 以下部分）
+- 现金资产例外：允许维护正文中的 `平台分布` 表，用于记录不同平台的现金余额
+
+### 现金 YAML 标准格式
+
+```yaml
+---
+type: asset
+category: cash
+symbol: USD-CASH
+quantity: 1444
+avg_cost: 1
+current_price: 1
+currency: USD
+last_updated: 2026-04-22
+---
+```
 
 ### 新资产处理
 
@@ -140,11 +190,21 @@ last_updated: 2026-04-22
 
 - 在表格**最后一行下方**追加新行，不改动任何已有内容
 - 总金额 = 数量（绝对值）× 价格，卖出时为负数
+- 现金记录中，价格固定为 1，总金额等于现金变动金额
+- 现金出金、费用等减少现金的操作，数量和总金额都记录为负数
 - 保持 Markdown 表格格式对齐（列之间用 `|` 分隔）
 - 示例行格式：
 
 ```
 | 2026-04-22 | Buy | AAPL | +50 | 228.50 | USD | 11425.00 | 雪盈证券 | 5.00 | 看好AI进展 |
+```
+
+现金示例：
+
+```
+| 2026-04-22 | Deposit | USD-CASH | +1000 | 1.00 | USD | 1000.00 | IBKR | 0.00 | 入金 |
+| 2026-04-22 | Withdraw | USD-CASH | -500 | 1.00 | USD | -500.00 | IBKR | 0.00 | 出金 |
+| 2026-04-22 | Interest | USD-CASH | +3.25 | 1.00 | USD | 3.25 | IBKR | 0.00 | 现金利息 |
 ```
 
 ---
@@ -158,6 +218,9 @@ last_updated: 2026-04-22
 | 字段信息不完整 | 停止执行，列出缺少的字段，请用户补充 |
 | 货币与笔记中 currency 不一致 | 提示用户确认，不自动转换汇率 |
 | 用户要求更新当前价格 | 仅更新 `current_price` 和 `last_updated`，不追加交易记录 |
+| 现金出金、费用超过当前现金余额 | 停止执行，告知用户当前现金余额，请用户确认 |
+| FX 缺少卖出币种、买入币种、金额、汇率或平台 | 停止执行，列出缺少字段，请用户补充 |
+| 同一币种现金分布在多个平台 | 更新合计 YAML，同时更新正文平台分布 |
 
 ---
 
