@@ -1,5 +1,26 @@
+formulas:
+  Current Value: note.quantity * note.current_price
+  Unrealized Gain: (note.current_price - note.avg_cost) * note.quantity
+  Return %: if(note.avg_cost != 0, ((note.current_price - note.avg_cost) / note.avg_cost) * 100, 0)
 views:
   - type: table
-    name: Table
-  - type: table
-    name: View
+    name: Portfolio Overview
+    filters:
+      and:
+        - note.type == "asset"
+    order:
+      - formula.Current Value descending
+    summaries:
+      Total Assets: count()
+      Total Value: sum(formula.Current Value)
+      Total Unrealized Gain: sum(formula.Unrealized Gain)
+    columns:
+      - note.symbol
+      - note.name
+      - note.category
+      - note.quantity
+      - note.avg_cost
+      - note.current_price
+      - formula.Current Value
+      - formula.Unrealized Gain
+      - formula.Return %
