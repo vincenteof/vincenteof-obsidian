@@ -1,19 +1,18 @@
 ---
 type: asset
-category: cash
-symbol: USD-CASH
-quantity: 1707
-avg_cost: 1
-current_price: 1
+category: stock
+symbol: BRK/B
+quantity: 34
+avg_cost: 488.40
+current_price: 468.50
 currency: USD
 last_updated: 2026-04-22
 ---
 
-# USD-CASH
+# BRK/B
 
 ## 平台分布
 
 | 平台 | 数量 | 平均成本 | 当前价格 | 货币 |
 |---|---:|---:|---:|---|
-| IBKR | 1444 | 1.00 | 1.00 | USD |
-| schwab | 263 | 1.00 | 1.00 | USD |
+| schwab | 34 | 488.40 | 468.50 | USD |

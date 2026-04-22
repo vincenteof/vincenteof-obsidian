@@ -1,19 +1,18 @@
 ---
 type: asset
 category: etf
-symbol: BOXX
-quantity: 257
-avg_cost: 116.39
-current_price: 116.45
+symbol: VOO
+quantity: 20
+avg_cost: 628.76
+current_price: 651.35
 currency: USD
 last_updated: 2026-04-22
 ---
 
-# BOXX
+# VOO
 
 ## 平台分布
 
 | 平台 | 数量 | 平均成本 | 当前价格 | 货币 |
 |---|---:|---:|---:|---|
-| IBKR | 172 | 116.44 | 116.45 | USD |
-| schwab | 85 | 116.29 | 116.45 | USD |
+| schwab | 20 | 628.76 | 651.35 | USD |

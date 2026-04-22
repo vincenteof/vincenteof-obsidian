@@ -11,6 +11,10 @@
 | 2026-04-22 | Initial Position | QQQ | +40 | 593.62 | USD | 23744.80 | IBKR | 0.00 | 初始真实持仓快照 |
 | 2026-04-22 | Initial Position | TSLA | +102 | 341.08 | USD | 34790.16 | IBKR | 0.00 | 初始真实持仓快照 |
 | 2026-04-22 | Initial Position | USD-CASH | +1444 | 1.00 | USD | 1444.00 | IBKR | 0.00 | 初始现金余额 |
+| 2026-04-22 | Initial Position | BOXX | +85 | 116.29 | USD | 9884.65 | schwab | 0.00 | 初始真实持仓快照 |
+| 2026-04-22 | Initial Position | BRK/B | +34 | 488.40 | USD | 16605.60 | schwab | 0.00 | 初始真实持仓快照 |
+| 2026-04-22 | Initial Position | VOO | +20 | 628.76 | USD | 12575.20 | schwab | 0.00 | 初始真实持仓快照 |
+| 2026-04-22 | Initial Position | USD-CASH | +263 | 1.00 | USD | 263.00 | schwab | 0.00 | 初始现金余额 |
 
 （以下为 OpenClaw 自动追加的新记录区域，请勿删除上方表头）
 
@@ -21,7 +25,7 @@
 1. **字段含义**（OpenClaw 需要严格遵守）：
    - **日期**：交易发生日期（YYYY-MM-DD）
    - **操作**：Buy / Sell / Dividend / Deposit / Withdraw / Split / Fee 等
-   - **符号**：必须与 Assets 文件夹中笔记的 `symbol` 完全一致（如 AAPL、BTC、ETH）
+   - **符号**：必须与 Assets 笔记 YAML 中的 `symbol` 完全一致（如 AAPL、BTC、BRK/B）
    - **数量**：买入用正数（如 +50），卖出用负数（如 -30），分红/其他用 0
    - **价格**：单价（分红时可填 0）
    - **货币**：USD / SGD / CNY / USDT 等

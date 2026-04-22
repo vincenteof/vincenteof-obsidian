@@ -140,6 +140,7 @@ currency = 对应货币
 ### 文件命名
 
 - 文件名 = symbol，全大写，如 `AAPL.md`、`BTC.md`
+- 如果 symbol 包含 `/` 等不能用于文件名的字符，文件名使用安全替代写法，如 `BRK-B.md`，但 YAML `symbol` 和交易日志仍保留真实 symbol `BRK/B`
 - 现金文件名 = `<CURRENCY>-CASH.md`，如 `USD-CASH.md`
 - 路径：`972 - Assets/<SYMBOL>.md`
 
