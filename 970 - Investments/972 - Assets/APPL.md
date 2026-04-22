@@ -10,5 +10,5 @@ currency: USD
 last_updated: 2026-04-22
 ---
 
-# AAPL
+# APPL
 这里可以随便写笔记内容，Bases 只看上面的 YAML。
