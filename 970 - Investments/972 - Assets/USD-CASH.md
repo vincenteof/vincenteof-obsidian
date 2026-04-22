@@ -2,7 +2,7 @@
 type: asset
 category: cash
 symbol: USD-CASH
-quantity: 1707
+quantity: 19808
 avg_cost: 1
 current_price: 1
 currency: USD
@@ -17,3 +17,4 @@ last_updated: 2026-04-22
 |---|---:|---:|---:|---|
 | IBKR | 1444 | 1.00 | 1.00 | USD |
 | schwab | 263 | 1.00 | 1.00 | USD |
+| Binance | 18101 | 1.00 | 1.00 | USD |

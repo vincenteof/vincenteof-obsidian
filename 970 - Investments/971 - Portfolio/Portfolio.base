@@ -1,5 +1,6 @@
 summaries: {}
 formulas:
+  Cost Basis: note.quantity * note.avg_cost
   Current Value: note.quantity * note.current_price
   Unrealized Gain: (note.current_price - note.avg_cost) * note.quantity
   Return %: if(note.avg_cost != 0, ((note.current_price - note.avg_cost) / note.avg_cost) * 100, 0)
@@ -16,10 +17,15 @@ views:
       - currency
       - avg_cost
       - current_price
+      - formula.Cost Basis
       - formula.Current Value
-      - formula.Return %
       - formula.Unrealized Gain
+      - formula.Return %
     sort: []
+    summaries:
+      formula.Cost Basis: Sum
+      formula.Current Value: Sum
+      formula.Unrealized Gain: Sum
     columns:
       - note.symbol
       - note.name
@@ -27,6 +33,10 @@ views:
       - note.quantity
       - note.avg_cost
       - note.current_price
+      - formula.Cost Basis
       - formula.Current Value
       - formula.Unrealized Gain
       - formula.Return %
+    columnSize:
+      formula.Cost Basis: 149
+      formula.Current Value: 167

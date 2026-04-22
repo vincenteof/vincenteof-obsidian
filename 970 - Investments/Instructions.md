@@ -28,7 +28,8 @@
 2. **确认歧义**：如有字段缺失或不明确，先向用户确认，不要猜测
 3. **更新资产笔记**：修改 `972 - Assets/<SYMBOL>.md` 的 YAML
 4. **追加交易记录**：在 `973 - Transactions/Transaction-Log.md` 表格末尾追加一行
-5. **回复用户**：简短确认已完成，列出变更摘要
+5. **刷新 Dashboard 汇总**：更新 `971 - Portfolio/Dashboard.md` 中的 `组合汇总`
+6. **回复用户**：简短确认已完成，列出变更摘要
 
 ---
 
@@ -210,7 +211,29 @@ last_updated: 2026-04-22
 
 ---
 
-## 六、边界情况处理
+## 六、Dashboard 汇总维护规范
+
+`971 - Portfolio/Dashboard.md` 中的 `组合汇总` 由 OpenClaw 维护。每次发生以下操作后必须刷新：
+
+- 新增、删除或修改资产 YAML
+- Buy / Sell / Split / Initial Position
+- Deposit / Withdraw / Interest / Fee / FX
+- 更新 `current_price`
+
+汇总计算规则：
+
+```
+Cost Basis = Σ(quantity × avg_cost)
+Current Value = Σ(quantity × current_price)
+Unrealized Gain = Σ((current_price - avg_cost) × quantity)
+Portfolio Return = Unrealized Gain / Cost Basis
+```
+
+注意：Bases 可以对单列做 Sum 汇总，但不要对各资产的 `Return %` 做求和或平均。组合总收益率必须使用 `Unrealized Gain / Cost Basis`。
+
+---
+
+## 七、边界情况处理
 
 | 情况 | 处理方式 |
 |------|----------|
@@ -225,7 +248,7 @@ last_updated: 2026-04-22
 
 ---
 
-## 七、回复格式
+## 八、回复格式
 
 执行完成后，回复格式如下（简洁）：
 
