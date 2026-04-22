@@ -33,6 +33,61 @@
 5. **维护快照/净入金口径**：如涉及期间表现起点或外部出入金，更新 `974 - Snapshots/` 中对应快照字段
 6. **回复用户**：简短确认已完成，列出变更摘要
 
+### 单笔 Transaction 操作流程
+
+收到一条 transaction 后，必须按以下顺序处理：
+
+1. **识别操作类型**
+   - 证券/crypto：Buy / Sell / Dividend / Split / Initial Position
+   - 现金：Deposit / Withdraw / Interest / Fee / FX / Initial Position
+   - 仅价格更新：不属于 transaction，不追加 Transaction-Log
+
+2. **解析并校验字段**
+   - 必须明确：日期、操作、symbol、数量、价格、货币、平台
+   - 可选：手续费、备注
+   - 字段缺失、货币不一致、symbol 不存在、数量超卖等情况，必须先停止并向用户确认
+
+3. **定位资产文件**
+   - 资产文件路径：`972 - Assets/<SYMBOL>.md`
+   - symbol 含 `/` 等文件名非法字符时，使用安全文件名，如 `BRK/B` 使用 `BRK-B.md`
+   - YAML 中的 `symbol` 必须保留真实 symbol
+   - 现金统一使用 `<CURRENCY>-CASH.md`
+
+4. **更新资产 YAML**
+   - Buy / Initial Position：增加 quantity，按加权平均法更新 avg_cost
+   - Sell：减少 quantity，avg_cost 不变
+   - Dividend：不修改标的资产 quantity 和 avg_cost
+   - Split：按拆股比例调整 quantity 和 avg_cost
+   - Deposit / Interest：增加对应现金 quantity
+   - Withdraw / Fee：减少对应现金 quantity
+   - FX：减少卖出币种现金，增加买入币种现金
+   - 每次修改 YAML 必须更新 `last_updated`
+
+5. **更新正文平台分布**
+   - 同一 symbol 在多个平台持有时，YAML 只记录合计 quantity 和综合 avg_cost
+   - 正文 `平台分布` 表必须保留各平台 quantity、avg_cost、current_price、currency
+   - 某一平台发生 Buy / Sell / Initial Position 时，只更新该平台对应行，再重算 YAML 合计
+   - 现金资产也必须维护平台分布
+
+6. **追加 Transaction-Log**
+   - 在交易表格最后一行下方追加一行
+   - 不改动已有交易记录
+   - 总金额按本次 transaction 计算，不使用合并后仓位
+   - Buy / Initial Position：总金额为正
+   - Sell / Withdraw / Fee：数量和总金额为负
+   - 现金 transaction：价格固定为 1
+
+7. **维护 Period Performance 口径**
+   - Deposit / Withdraw 属于外部净入金，必须更新当前 YTD 起点快照的 `net_contributions_since_start`
+   - Interest 是否计入外部净入金：默认不计入，作为组合内收益
+   - Buy / Sell / Dividend / Split / Fee / FX 不计入外部净入金
+   - Initial Position 只用于建立起点，不计入起点之后的净入金
+
+8. **确认 Dashboard**
+   - Dashboard 的组合汇总由 DataviewJS 自动计算
+   - 不要手动填写 Dashboard 的 Cost Basis / Current Value / Unrealized Gain / Return
+   - 只需要保证资产 YAML、平台分布、Transaction-Log、Snapshots 字段正确
+
 ---
 
 ## 二、交易类型与字段
@@ -58,7 +113,7 @@
 |------|------|------|
 | 日期 | 交易日期，YYYY-MM-DD | 2026-04-22 |
 | 操作 | Buy / Sell / Dividend / Deposit / Withdraw 等 | Buy |
-| 符号 | 资产 symbol，必须与笔记文件名一致 | AAPL |
+| 符号 | 资产真实 symbol，必须与 YAML `symbol` 一致 | AAPL |
 | 数量 | 买入正数，卖出负数 | +50 / -30 |
 | 价格 | 每股/每单位价格 | 228.50 |
 | 货币 | USD / HKD / CNY / USDT 等 | USD |
