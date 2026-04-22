@@ -15,6 +15,8 @@
 │   └── <SYMBOL>.md
 ├── 973 - Transactions/
 │   └── Transaction-Log.md    # 交易流水日志
+├── 974 - Snapshots/          # 组合快照，用于期间收益和 YTD 起点
+│   └── YYYY-MM-DD.md
 └── Instructions.md           # 本文件
 ```
 
@@ -28,7 +30,7 @@
 2. **确认歧义**：如有字段缺失或不明确，先向用户确认，不要猜测
 3. **更新资产笔记**：修改 `972 - Assets/<SYMBOL>.md` 的 YAML
 4. **追加交易记录**：在 `973 - Transactions/Transaction-Log.md` 表格末尾追加一行
-5. **刷新 Dashboard 汇总**：更新 `971 - Portfolio/Dashboard.md` 中的 `组合汇总`
+5. **维护快照/净入金口径**：如涉及期间表现起点或外部出入金，更新 `974 - Snapshots/` 中对应快照字段
 6. **回复用户**：简短确认已完成，列出变更摘要
 
 ---
@@ -213,12 +215,15 @@ last_updated: 2026-04-22
 
 ## 六、Dashboard 汇总维护规范
 
-`971 - Portfolio/Dashboard.md` 中的 `组合汇总` 由 OpenClaw 维护。每次发生以下操作后必须刷新：
+`971 - Portfolio/Dashboard.md` 中的 `组合汇总` 由 DataviewJS 自动计算，读取 `972 - Assets/` 下所有 `type: asset` 的 YAML。
 
-- 新增、删除或修改资产 YAML
-- Buy / Sell / Split / Initial Position
-- Deposit / Withdraw / Interest / Fee / FX
-- 更新 `current_price`
+Dashboard 自动计算：
+
+- Cost Basis
+- Current Value
+- Unrealized Gain
+- Portfolio Return
+- Period Performance
 
 汇总计算规则：
 
@@ -230,6 +235,32 @@ Portfolio Return = Unrealized Gain / Cost Basis
 ```
 
 注意：Bases 可以对单列做 Sum 汇总，但不要对各资产的 `Return %` 做求和或平均。组合总收益率必须使用 `Unrealized Gain / Cost Basis`。
+
+### Period Performance
+
+Dashboard 中的 `Period Performance` 使用 `974 - Snapshots/` 中标记为 `period_role: ytd_start` 的快照作为起点。
+
+2026 年规则：
+
+- 使用 `974 - Snapshots/2026-04-22.md` 作为 2026 起点
+- Dashboard 显示为从 2026-04-22 起算的期间表现
+
+之后年份规则：
+
+- 每年年末保存当年最后一个组合快照
+- 下一年使用上一年年末快照作为 YTD 起点
+
+期间收益计算规则：
+
+```
+Net Contributions = 起点之后 Deposit - Withdraw（如有 FX，只计算外部净入金，不把内部换汇计为入金）
+Period P/L = Current Value - Start Value - Net Contributions
+Period Return = Period P/L / Start Value
+```
+
+每次新增、删除或修改资产 YAML 后，Dashboard 会由 DataviewJS 自动刷新。如果 Obsidian 未自动刷新，重新打开 Dashboard 或触发 Dataview 刷新。
+
+涉及外部入金/出金时，必须更新起点快照中的 `net_contributions_since_start`，否则 `Period Performance` 会失真。内部交易、内部换汇、买卖资产不计入外部净入金。
 
 ---
 
