@@ -21,7 +21,9 @@ views:
       - formula.Current Value
       - formula.Unrealized Gain
       - formula.Return %
-    sort: []
+    sort:
+      - property: category
+        direction: DESC
     summaries:
       formula.Cost Basis: Sum
       formula.Current Value: Sum
