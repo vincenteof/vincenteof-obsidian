@@ -1,3 +1,4 @@
+summaries: {}
 formulas:
   Current Value: note.quantity * note.current_price
   Unrealized Gain: (note.current_price - note.avg_cost) * note.quantity
@@ -9,11 +10,18 @@ views:
       and:
         - note.type == "asset"
     order:
-      - formula.Current Value descending
+      - symbol
+      - quantity
+      - category
+      - currency
+      - avg_cost
+      - formula.Current Value
+      - formula.Return %
+      - formula.Unrealized Gain
+      - current_price
+    sort: []
     summaries:
-      Total Assets: count()
-      Total Value: sum(formula.Current Value)
-      Total Unrealized Gain: sum(formula.Unrealized Gain)
+      formula.Current Value: Sum
     columns:
       - note.symbol
       - note.name
