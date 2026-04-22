@@ -20,8 +20,6 @@ views:
       - formula.Unrealized Gain
       - current_price
     sort: []
-    summaries:
-      formula.Current Value: Sum
     columns:
       - note.symbol
       - note.name
