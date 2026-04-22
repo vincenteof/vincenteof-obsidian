@@ -116,7 +116,6 @@
 type: asset
 category: stock        # stock / crypto / fund / bond / etf
 symbol: AAPL
-name: Apple Inc.
 quantity: 150
 avg_cost: 180.50
 current_price: 225.30  # 手动更新，或用户要求时拉取行情

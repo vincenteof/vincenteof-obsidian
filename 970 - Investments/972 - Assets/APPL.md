@@ -2,7 +2,6 @@
 type: asset
 category: stock
 symbol: AAPL
-name: Apple Inc.
 quantity: 150
 avg_cost: 180.5
 current_price: 225.3
