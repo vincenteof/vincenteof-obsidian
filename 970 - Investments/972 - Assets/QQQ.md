@@ -2,7 +2,7 @@
 type: asset
 category: etf
 symbol: QQQ
-quantity: 40
+quantity: 38
 avg_cost: 593.62
 current_price: 655.11
 currency: USD
@@ -15,4 +15,4 @@ last_updated: 2026-04-23
 
 | 平台 | 数量 | 平均成本 | 当前价格 | 货币 |
 |---|---:|---:|---:|---|
-| IBKR | 40 | 593.62 | 650.30 | USD |
+| IBKR | 38 | 593.62 | 650.30 | USD |
