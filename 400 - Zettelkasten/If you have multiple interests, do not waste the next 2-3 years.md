@@ -152,6 +152,8 @@ dan koe 整体视觉风格有些太冷，我可以更人文一些。网站整体
 
 - [ ] 生成视频封面 skills 化 #active 
 
+- [ ] 研究一个好用的 writer skill 去把提纲生成为高质量的文章 #active 
+
 研究 [[拍出电影感的 Youtube 视频]]
 
 
