@@ -2,11 +2,11 @@
 type: asset
 category: stock
 symbol: TSLA
-quantity: 102
-avg_cost: 341.08
+quantity: 104
+avg_cost: 341.92
 current_price: 389.61
 currency: USD
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 ---
 
 # TSLA
@@ -15,4 +15,4 @@ last_updated: 2026-04-22
 
 | 平台 | 数量 | 平均成本 | 当前价格 | 货币 |
 |---|---:|---:|---:|---|
-| IBKR | 102 | 341.08 | 389.61 | USD |
+| IBKR | 104 | 341.92 | 389.61 | USD |

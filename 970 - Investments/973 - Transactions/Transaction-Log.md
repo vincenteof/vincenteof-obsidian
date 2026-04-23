@@ -19,6 +19,7 @@
 | 2026-04-22 | Initial Position | ETH | +7.1899 | 2632.00 | USD | 18923.82 | Binance | 0.00 | 初始真实持仓快照 |
 | 2026-04-22 | Initial Position | USD-CASH | +18101 | 1.00 | USD | 18101.00 | Binance | 0.00 | 初始现金余额 |
 | 2026-04-22 | Initial Position | ETH | +0.092 | 2632.00 | USD | 242.14 | Binance | 0.00 | 补录初始真实持仓快照 |
+| 2026-04-23 | Buy | TSLA | +2 | 384.92 | USD | 769.84 | IBKR | 0.35 |  |
 
 （以下为 OpenClaw 自动追加的新记录区域，请勿删除上方表头）
 
