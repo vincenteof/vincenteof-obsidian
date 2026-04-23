@@ -1,5 +1,5 @@
 Date: 2026-01-26
-Tags: [[valuation]] [[ai]]
+Tags: [[remote/000 - Indexes/valuation]] [[ai]]
 
 # Valuation for Anthropic
 

@@ -1,5 +1,5 @@
 Date: 2025-08-11
-Tags: [[defi]] [[invest]] [[valuation]]
+Tags: [[defi]] [[invest]] [[remote/000 - Indexes/valuation]]
 
 # Research on low-risk crypto protocol
 

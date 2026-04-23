@@ -1,5 +1,5 @@
 Date: 2025-10-29
-Tags: [[macro]] [[valuation]]
+Tags: [[macro]] [[remote/000 - Indexes/valuation]]
 
 # Valuation for BRK
 - [x] learn the basic of brk #active ✅ 2025-11-01

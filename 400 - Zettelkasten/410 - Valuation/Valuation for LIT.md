@@ -1,5 +1,5 @@
 Date: 2025-09-07
-Tags: [[valuation]]
+Tags: [[remote/000 - Indexes/valuation]]
 
 # Valuation for LIT
 

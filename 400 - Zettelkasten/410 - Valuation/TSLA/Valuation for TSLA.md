@@ -1,5 +1,5 @@
 Date: 2025-10-08
-Tags: [[macro]] [[valuation]]
+Tags: [[macro]] [[remote/000 - Indexes/valuation]]
 
 # Valuation for TSLA
 
@@ -113,6 +113,9 @@ Q4 公开了卖方分析师的交付共识，主要应该还是控制预期，�
 4. Cybercab 与 Optimus 进展，前者预计 2026 量产，Optimus 2026 年可能比较难
 https://x.com/zutaoMin/status/2016705854259552310
 https://x.com/tonyhua64243679/status/2016700002396230107
+
+
+- [ ] TSLA 2026 Q1 report #active 
 
 
 # References

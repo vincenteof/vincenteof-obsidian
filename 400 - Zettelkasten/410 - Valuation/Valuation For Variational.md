@@ -1,5 +1,5 @@
 Date: 2025-10-30
-Tags: [[valuation]]
+Tags: [[remote/000 - Indexes/valuation]]
 
 # Valuation For Variational
 

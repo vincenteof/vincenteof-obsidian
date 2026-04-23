@@ -1,5 +1,5 @@
 Date: 2025-11-12
-Tags: [[valuation]] [[macro]]
+Tags: [[remote/000 - Indexes/valuation]] [[macro]]
 
 # Valuation for BTC
 

@@ -1,5 +1,5 @@
 Date: 2025-11-17
-Tags: [[macro]] [[valuation]]
+Tags: [[macro]] [[remote/000 - Indexes/valuation]]
 
 # Valuation for CRCL
 

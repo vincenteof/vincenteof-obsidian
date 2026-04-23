@@ -1,5 +1,5 @@
 Date: 2025-10-16
-Tags: [[macro]] [[valuation]] [[ethereum]]
+Tags: [[macro]] [[remote/000 - Indexes/valuation]] [[ethereum]]
 
 # Valuation For Ethereum
 
