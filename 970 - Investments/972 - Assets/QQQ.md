@@ -4,9 +4,9 @@ category: etf
 symbol: QQQ
 quantity: 38
 avg_cost: 593.62
-current_price: 655.11
+current_price: 651.42
 currency: USD
-last_updated: 2026-04-23
+last_updated: 2026-04-24
 ---
 
 # QQQ

@@ -4,9 +4,9 @@ category: stock
 symbol: TSLA
 quantity: 106
 avg_cost: 342.51
-current_price: 387.51
+current_price: 373.72
 currency: USD
-last_updated: 2026-04-23
+last_updated: 2026-04-24
 ---
 
 # TSLA
