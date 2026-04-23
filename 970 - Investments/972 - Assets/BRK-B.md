@@ -4,9 +4,9 @@ category: stock
 symbol: BRK/B
 quantity: 34
 avg_cost: 488.40
-current_price: 468.50
+current_price: 465.4
 currency: USD
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 ---
 
 # BRK/B

@@ -6,7 +6,7 @@ quantity: 257
 avg_cost: 116.39
 current_price: 116.45
 currency: USD
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 ---
 
 # BOXX
