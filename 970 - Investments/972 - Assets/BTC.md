@@ -4,9 +4,9 @@ category: crypto
 symbol: BTC
 quantity: 0.3575
 avg_cost: 81076
-current_price: 77771.71
+current_price: 78273.92
 currency: USD
-last_updated: 2026-04-24
+last_updated: 2026-04-27
 ---
 
 # BTC

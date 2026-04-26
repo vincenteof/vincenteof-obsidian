@@ -4,9 +4,9 @@ category: etf
 symbol: BOXX
 quantity: 257
 avg_cost: 116.39
-current_price: 116.47
+current_price: 116.5
 currency: USD
-last_updated: 2026-04-24
+last_updated: 2026-04-27
 ---
 
 # BOXX
