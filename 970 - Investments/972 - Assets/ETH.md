@@ -4,9 +4,9 @@ category: crypto
 symbol: ETH
 quantity: 7.2819
 avg_cost: 2632
-current_price: 2368.89
+current_price: 2292.96
 currency: USD
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 ---
 
 # ETH

@@ -4,9 +4,9 @@ category: etf
 symbol: VOO
 quantity: 20
 avg_cost: 628.76
-current_price: 656.42
+current_price: 657.5
 currency: USD
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 ---
 
 # VOO

@@ -4,9 +4,9 @@ category: stock
 symbol: CRCL
 quantity: 10
 avg_cost: 97.6
-current_price: 97.6
+current_price: 95.44
 currency: USD
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 ---
 
 # CRCL — Circle Internet Group Inc

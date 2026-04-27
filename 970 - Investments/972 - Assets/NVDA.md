@@ -4,9 +4,9 @@ category: stock
 symbol: NVDA
 quantity: 15
 avg_cost: 178.69
-current_price: 208.26
+current_price: 216.61
 currency: USD
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 ---
 
 # NVDA
