@@ -9,7 +9,7 @@ currency: USD
 last_updated: 2026-04-27
 ---
 
-# CRCL — Circle Financial
+# CRCL — Circle Internet Group Inc
 
 ## 平台分布
 
