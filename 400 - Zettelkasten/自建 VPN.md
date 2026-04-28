@@ -6,3 +6,4 @@ Tags: [[digital-nomad]]
 - [ ] 自建一个 VPN #active 
 
 # References
+https://x.com/wangray/status/2040102300040188024
