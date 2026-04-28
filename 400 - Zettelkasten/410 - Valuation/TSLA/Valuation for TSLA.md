@@ -116,7 +116,9 @@ https://x.com/tonyhua64243679/status/2016700002396230107
 
 
 - [ ] TSLA 2026 Q1 report #active 
-
+https://www.youtube.com/watch?v=qO7T5zgRvXM
+capex
+v15 on AI4, v14 已经在统计意义上比人类安全，v15 是zui zho
 
 # References
 ## roadmap
