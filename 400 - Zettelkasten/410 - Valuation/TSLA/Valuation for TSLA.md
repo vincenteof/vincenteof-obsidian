@@ -115,9 +115,9 @@ https://x.com/zutaoMin/status/2016705854259552310
 https://x.com/tonyhua64243679/status/2016700002396230107
 
 
-- [ ] TSLA 2026 Q1 report #active 
+- [x] TSLA 2026 Q1 report #active ✅ 2026-04-29
 https://www.youtube.com/watch?v=qO7T5zgRvXM
-收入 223.87 亿，毛利率 21.1%，营业利润率 4.2%。GAAP净利润4.77亿美元，non-GAAP净利润14.53亿美元，EPS 0.41 美元。自由现金流 14.44亿。
+收入 223.87 亿，毛利率 21.1%，营业利润率 4.2%。GAAP净利润4.77亿美元，non-GAAP净利润14.53亿美元，EPS 0.41 美元。自由现金流 14.44亿，调整后 EBITDA 36.68 亿美元。
 这个季度汽车业务和服务业务都不错，主要就是能源业务不太行，可能能源业务是比较周期性的。
 
 电话会议：
