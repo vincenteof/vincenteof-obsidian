@@ -117,13 +117,16 @@ https://x.com/tonyhua64243679/status/2016700002396230107
 
 - [ ] TSLA 2026 Q1 report #active 
 https://www.youtube.com/watch?v=qO7T5zgRvXM
+收入 223.87 亿
+
 电话会议：
 - capex 2026 250亿
 - v15 on AI4, v14 已经在统计意义上比人类安全，v15 是最终版
 - optimus 产能曲线，v3 接近可演示，但是害怕竞对复制，直接在接近量产前展示（7，8月份）
 - FSD 和 Rototaxi 将在 2027 对财报产生影响
 - hw3 讲不支持无监督的 fsd
-- terafab
+- terafab 只是为了解决特斯拉自身的芯片需求瓶颈而非与老牌芯片厂竞争
+
 
 # References
 ## roadmap

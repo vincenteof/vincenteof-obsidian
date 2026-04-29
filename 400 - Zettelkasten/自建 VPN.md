@@ -8,3 +8,4 @@ Tags: [[digital-nomad]]
 # References
 https://x.com/wangray/status/2040102300040188024
 https://x.com/Saccc_c/status/2047608564240331235
+https://x.com/EvanWritesX/status/2049080454155043158
