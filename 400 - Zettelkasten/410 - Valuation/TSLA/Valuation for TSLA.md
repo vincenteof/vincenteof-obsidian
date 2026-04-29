@@ -117,7 +117,7 @@ https://x.com/tonyhua64243679/status/2016700002396230107
 
 - [ ] TSLA 2026 Q1 report #active 
 https://www.youtube.com/watch?v=qO7T5zgRvXM
-收入 223.87 亿
+收入 223.87 亿，毛利率 21.1%，利润率 4.2%。GAAP净利润4.77亿美元，non-GAAP净利润14.53亿美元。
 
 电话会议：
 - capex 2026 250亿
