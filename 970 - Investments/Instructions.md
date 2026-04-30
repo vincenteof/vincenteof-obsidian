@@ -56,6 +56,8 @@
 4. **更新资产 YAML**
    - Buy / Initial Position：增加 quantity，按加权平均法更新 avg_cost
    - Sell：减少 quantity，avg_cost 不变
+   - Buy：同步减少同平台对应现金，减少金额 = 数量 × 价格 + 手续费
+   - Sell：同步增加同平台对应现金，增加金额 = 卖出金额 - 手续费
    - Dividend：不修改标的资产 quantity 和 avg_cost
    - Split：按拆股比例调整 quantity 和 avg_cost
    - Deposit / Interest：增加对应现金 quantity
@@ -181,6 +183,8 @@ currency = 对应货币
 
 | 操作 | 对现金 quantity 的影响 | avg_cost | current_price | 说明 |
 |------|------------------------|----------|---------------|------|
+| Buy | 减少买入总金额和手续费 | 保持 1 | 保持 1 | 证券/crypto 买入占用现金 |
+| Sell | 增加卖出总金额并扣除手续费 | 保持 1 | 保持 1 | 证券/crypto 卖出回收现金 |
 | Deposit | 增加 | 保持 1 | 保持 1 | 入金 |
 | Withdraw | 减少 | 保持 1 | 保持 1 | 出金 |
 | Interest | 增加 | 保持 1 | 保持 1 | 现金利息 |
