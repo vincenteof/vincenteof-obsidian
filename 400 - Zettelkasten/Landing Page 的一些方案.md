@@ -3,7 +3,7 @@ Tags: [[indie-hacker]]
 
 # Landing Page 的一些方案
 
-- [ ] 尝试 AI 背景图或背景视频的 landing page 风格 #active 
+- [ ] 尝试 AI 背景图或背景视频的 landing page 风格
 
 
 # References
