@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a11217d6a97b9878",
+        "id": "80a162d96906a1d0",
         "type": "tabs",
         "children": [
           {
-            "id": "1f8de47323f04247",
+            "id": "95363b8d8daa5c60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "970 - Investments/Instructions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Instructions"
+              "title": "新标签页"
             }
           }
         ]
@@ -104,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "970 - Investments/Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Instructions 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -123,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "970 - Investments/Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Instructions 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -152,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "970 - Investments/Instructions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Instructions 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -180,8 +163,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f8de47323f04247",
+  "active": "3ce72f9ae0bd81f0",
   "lastOpenFiles": [
+    "970 - Investments/Instructions.md",
     "300 - Daily Notes/2026-04-30.md",
     "400 - Zettelkasten/CRCL or HOOD.md",
     "200 - Materials/Li Lu and Charlie Munger and Warren Buffett.md",
@@ -206,7 +190,6 @@
     "970 - Investments/972 - Assets/NVDA.md",
     "970 - Investments/972 - Assets/BOXX.md",
     "970 - Investments/972 - Assets/APPL.md",
-    "970 - Investments/Instructions.md",
     "970 - Investments/971 - Portfolio/Portfolio.base",
     "970 - Investments/972 - Assets/TSLA.md",
     "970 - Investments/971 - Portfolio/Dashboard.md"
