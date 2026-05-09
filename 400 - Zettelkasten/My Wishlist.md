@@ -19,7 +19,7 @@ Tags: [[wishlist]]
 - Keyboard
 	- NuPhy
 	- Knob
-- 美卡
+- ✅ 美卡
 - 香港私行账户
 - A house with Tesla Powerwall
 - Tesla Model3
