@@ -6,3 +6,4 @@ Tags: [[valuation]]
 - [ ] 建立关于 hood 的基本认知 #active 
 
 # References
+https://x.com/qinbafrank/status/2052949436985434604
