@@ -20,6 +20,9 @@ OpenClaw 做了什么
 
 关于多 agents 系统，一种实际的用途是解决自己生活中流程化的部分，最重要的是你自己要对怎么做有一套看法和审美，多 agents 只是杠杆或者加速器。
 https://x.com/jimprosser/status/2029699731539255640
+[guoyu 针对开发者的多 agents 系统](https://x.com/turingou/status/2030180402766434780)
+[tualatrix 的 agent 编排系统](https://x.com/tualatrix/status/2038506764854075699)
+
 我觉得使用 Agent 一个最真实的需求是用 AI 搭建一个自动化的自己，比如 [这篇文章](https://x.com/xingpt/status/2025219080421277813)。
 
 [这篇文章](https://x.com/AYi_AInotes/status/2026224275192193465)介绍了一种 Code Agent Swarm，[但是目前我不太理解为什么需要一个 7✖️24 不断运行的 Code Agent Team](https://x.com/vincenteof/status/2029163178341646847)。
@@ -52,11 +55,9 @@ https://x.com/akokoi1/status/2030086511660789965
 - [x] 尝试用 openclaw 操作 obsidian #active ✅ 2026-04-21
 目前将 obsidian 的 vault 和 openclaw 的 workspace 分开存放，然后开启松散的安全模式它可以读写 workspace 外的文件，关于我的记忆依旧放在 workspace 里，后面将 openclaw 作为主要 ai 入口，这样可以将关于我的记忆本地化。
 
-- [ ] 给 openclaw 增加更多功能，如联网搜索，图像识别等 #active ⏫
+- [-] 给 openclaw 增加更多功能，如联网搜索，图像识别等 ❌ 2026-05-11
+openclaw 可能只是一个过渡的产品，ai agent 的发展大概率会快过人的，把精力留给真正能产生复利的事情上。不如研究如何 [[自建 VPN]] 来稳定使用 cc。
 
-- [ ] 尝试用 openclaw 如何建立多 agents 系统 #active 
-[guoyu 针对开发者的多 agents 系统](https://x.com/turingou/status/2030180402766434780)
-[tualatrix 的 agent 编排系统](https://x.com/tualatrix/status/2038506764854075699)
 
 ### harness engineering
 
@@ -88,7 +89,6 @@ https://x.com/brucexu_eth/status/2028226211118481430
 https://x.com/taresky/status/2028506302071325059
 ## memory
 https://x.com/runes_leo/status/2027030391643570258
-
 https://x.com/fredchuuu/status/2038476548874145995
 ## usage
 https://x.com/Jackywine/status/2033791236960846249
