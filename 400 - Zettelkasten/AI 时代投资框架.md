@@ -7,3 +7,4 @@ Tags: [[invest]]
 
 # References
 https://x.com/ShanghaoJin/status/1838451016687325475
+https://x.com/ShanghaoJin/status/2052444997979607288
