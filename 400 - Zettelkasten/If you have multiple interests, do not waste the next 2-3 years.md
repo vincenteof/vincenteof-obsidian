@@ -153,7 +153,8 @@ dan koe 整体视觉风格有些太冷，我可以更人文一些。网站整体
 
 - [ ] 生成视频封面 skills 化 #active 🔺
 
-- [ ] 用 AI 根据文章生成 PPT 的方案 #active 🔺
+- [x] 用 AI 根据文章生成 PPT 的方案 #active 🔺 ✅ 2026-05-19
+使用 slidev 配合 codex 基本上没问题
 
 ### 找到新颖视角
 
