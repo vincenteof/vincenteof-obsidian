@@ -9,6 +9,7 @@ Tags: [[life-plan]]
 2. 自媒体流程自动化 [[If you have multiple interests, do not waste the next 2-3 years]]
 3. 了解独立开发的大方向 [[独立游戏开发]] [[如何进行独立开发]]
 4. 稳定更新 "构建选择权的" substack
+5. 深入理解 [[AI 全产业链投资]] 并产出一些内容
 
 
 
