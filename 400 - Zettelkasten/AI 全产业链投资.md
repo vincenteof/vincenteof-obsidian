@@ -6,7 +6,7 @@ Tags: [[invest]]
 
 我需要先了解 [[半导体行业的基本认知]]
 
-然后从这个 [[AI 投资专家的 prompt]] 开始需要dui ying
+然后从这个 [[AI 投资专家的 prompt]] 开始需要对应的投资机会
 
 
 # Todos
