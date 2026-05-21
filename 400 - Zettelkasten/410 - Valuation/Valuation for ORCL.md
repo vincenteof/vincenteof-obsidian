@@ -5,6 +5,4 @@ Tags: [[valuation]]
 
 # Todos
 
-- [ ] 分析 ORCL 2026 Q2 财报 #active 
-
 # References

@@ -3,7 +3,7 @@ Tags: [[option]] [[trade]]
 
 # 关于 LEAPS CALL
 
-- [ ] 总结 LEAPS CALL 相关策略 #active 
+- [ ] 总结 LEAPS CALL 相关策略 #active ⏫
 
 delta 选择
 

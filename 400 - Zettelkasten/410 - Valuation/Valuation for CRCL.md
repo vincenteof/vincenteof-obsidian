@@ -101,7 +101,7 @@ https://x.com/lufeieth/status/2018865799851839646
 https://x.com/lufeieth/status/2019002418139119675
 
 
-- [ ] 分析 CRCL 2026 Q1 财报 #active 
+- [ ] 分析 CRCL 2026 Q1 财报 #active 🔺
 
 
 
