@@ -17,3 +17,7 @@ AI Infra 不是“GPU 产业链”，而是把电力变成智能 token 的工业
 # References
 https://x.com/ShanghaoJin/status/1838451016687325475
 https://x.com/ShanghaoJin/status/2052444997979607288
+https://x.com/ShanghaoJin/status/2055124249103511651
+https://x.com/ShanghaoJin/status/2055115042438398033
+https://x.com/168X_Fortune/status/2054884242635858330
+https://x.com/harry03994688/status/2054523377629667489

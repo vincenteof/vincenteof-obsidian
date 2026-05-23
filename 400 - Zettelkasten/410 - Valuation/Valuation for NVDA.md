@@ -71,7 +71,9 @@ CUDA 和生态只是 NVDA 护城河的表面，它真正的护城河是算力的
 
 
 # Todos
-- [ ] 分析 2026 Q1 财报 #active 🔺
+
+- [ ] 分析 NVDA 2026 Q1 财报 #active 🔺
+
 
 # References
 ## Insight
@@ -79,3 +81,5 @@ https://x.com/iamai_eth/status/1975778759795220545
 https://x.com/iamai_eth/status/2034060810813681719
 ## Risk
 https://x.com/Tz_2022/status/1986820222842548679
+## Rports
+https://x.com/qinbafrank/status/2057269069930500279
