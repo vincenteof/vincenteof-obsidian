@@ -3,8 +3,6 @@ Tags: [[perpetual]] [[trade]]
 
 # Perp series
 
-- [ ] read the perp overview
-
 - [x] read the oracles #active ✅ 2025-10-21
 Binance use market price for USDe but with a relatively high LTV. Since itself is the primary market, cascading liquidation happens after someone control the spot market of USDe on it.
 This kind of attack has a common pattern:

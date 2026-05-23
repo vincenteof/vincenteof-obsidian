@@ -7,6 +7,7 @@ Tags: [[invest]] [[ai]] [[macro]]
 
 然后从这个 [[AI 投资专家的 prompt]] 开始需要对应的投资机会:
 
+AI Infra 不是“GPU 产业链”，而是把电力变成智能 token 的工业系统。
 
 
 # Todos

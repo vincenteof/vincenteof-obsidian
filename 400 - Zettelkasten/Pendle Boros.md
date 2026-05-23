@@ -19,9 +19,6 @@ Some strategy:
 3. long perp and long YU to hedge funding rate payment in very bullish market
 4. triangular funding arbitrage between different exchanges
 
-Now pendle boros has hyperliquid market which is usd based.
-- [ ] trade the funding rate on hyperliquid
-
 # References
 https://x.com/ViNc2453/status/1953398036748812713
 https://x.com/0xanonnnn/status/1960015380388409356
