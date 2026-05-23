@@ -47,7 +47,6 @@ Tags: [[mind-iteration]] [[kol]] [[great-post]]
 我的经历：
 程序员，厌倦了无止境的加班和毫无意义的会议，研究跳出游戏的人生解法，从加密货币上获得第一桶金，在投资中寻找意义感。
 
-
 一些可以找到品牌的英雄：
 1. [naval](https://x.com/naval)
 2. [ntt](https://x.com/nntaleb)
@@ -155,6 +154,9 @@ dan koe 整体视觉风格有些太冷，我可以更人文一些。网站整体
 
 - [x] 用 AI 根据文章生成 PPT 的方案 #active 🔺 ✅ 2026-05-19
 使用 slidev 配合 codex 基本上没问题
+
+- [ ] 重新调整自媒体与个人网站的定位 #active 
+
 
 ### 找到新颖视角
 
