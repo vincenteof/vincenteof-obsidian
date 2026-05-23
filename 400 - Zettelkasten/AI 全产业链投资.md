@@ -22,5 +22,4 @@ https://x.com/ShanghaoJin/status/2055115042438398033
 https://x.com/168X_Fortune/status/2054884242635858330
 https://x.com/harry03994688/status/2054523377629667489
 https://x.com/RYANHINGSHING/status/2057045079286497507
-https://x.com/RYANHINGSHING/status/2057027077887435243
 https://x.com/TiezhuCrypto/status/2056918738373640239
