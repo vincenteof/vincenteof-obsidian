@@ -156,6 +156,8 @@ dan koe 整体视觉风格有些太冷，我可以更人文一些。网站整体
 使用 slidev 配合 codex 基本上没问题
 
 - [ ] 重新调整自媒体与个人网站的定位 #active 
+/portfolio 持仓，曲线，trade log
+
 
 
 ### 找到新颖视角
