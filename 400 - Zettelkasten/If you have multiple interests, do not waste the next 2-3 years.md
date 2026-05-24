@@ -157,7 +157,12 @@ dan koe 整体视觉风格有些太冷，我可以更人文一些。网站整体
 
 - [ ] 重新调整自媒体与个人网站的定位 #active 
 /portfolio 持仓，曲线，trade log
-
+/now 我现在在：学习什么，思考什么，实验什么，看什么书，做什么项目
+/dashboard 财富，身体，认知，家庭
+/research 投资思考
+/think|blog|mind 各类杂思，可能是感想，或者 youtube 视频的细化？
+/principles 原则
+/about 关于我
 
 
 ### 找到新颖视角
