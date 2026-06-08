@@ -1,5 +1,5 @@
 Date: 2026-05-19
-Tags: 
+Tags: [[fire]]
 
 # FIRE 的基本计算
 
