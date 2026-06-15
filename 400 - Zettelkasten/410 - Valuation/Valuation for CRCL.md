@@ -140,7 +140,7 @@ https://defillama.com/stablecoins
 
 ## Reports
 
-- [ ] 分析 CRCL 2026 Q1 财报 #active 🔺
+- [x] 分析 CRCL 2026 Q1 财报 #active 🔺 ✅ 2026-06-15
 
 USDC 流通量 77B，同比增长 28%
 USDC 链上交易量 21.5T，同比增长 263%
@@ -150,6 +150,7 @@ Adjusted EBITDA：151 M，同比增长 24%，利润率约 53%
 GAAP 净利润（持续经营）：55M美元
 
 储备收入仍占 ~94%，高度依赖利率环境和 USDC 流通量。
+
 
 
 # References
