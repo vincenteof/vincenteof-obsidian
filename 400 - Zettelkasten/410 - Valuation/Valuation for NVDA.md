@@ -73,7 +73,10 @@ CUDA 和生态只是 NVDA 护城河的表面，它真正的护城河是算力的
 # Todos
 
 - [ ] 分析 NVDA 2026 Q1 财报 #active 🔺
-收入 81
+收入 81B，同比增长85%，其中数据中心收入 75.2B。
+毛利率：GAAP 74.9%（YoY +14.4 pts，QoQ -0.1 pts）；Non-GAAP 75.0%。
+GAAP 净利润 58.32B 美元。
+Q1 FCF 创纪录 ≈ $48.6B - $49B
 
 # References
 ## Insight
