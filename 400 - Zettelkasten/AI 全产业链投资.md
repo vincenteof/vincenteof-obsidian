@@ -9,10 +9,9 @@ Tags: [[invest]] [[ai]] [[macro]]
 
 AI Infra 不是“GPU 产业链”，而是把电力变成智能 token 的工业系统。
 
-
 # Todos
 
-- [ ] AI 投资整体框架，从 能源 -> 算力 -> all others #active 🔺
+- [ ] AI 投资整体框架，从 能源 -> 算力 -> all others
 
 # References
 https://x.com/ShanghaoJin/status/1838451016687325475
