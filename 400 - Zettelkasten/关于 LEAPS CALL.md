@@ -3,10 +3,9 @@ Tags: [[option]] [[trade]]
 
 # 关于 LEAPS CALL
 
-- [ ] 总结 LEAPS CALL 相关策略 #active ⏫
+- [ ] 总结 LEAPS CALL 相关基本认知
 
-delta 选择
-
+LEAP call 本质上也是杠杠，
 # References
 https://x.com/Eric_Option101/status/2036268770646434229
 https://x.com/Eric_Option101/status/2036356225470963914
