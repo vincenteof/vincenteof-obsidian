@@ -80,6 +80,8 @@ https://variant.com/
 - [x] 尝试使用 [impeccable](https://impeccable.style/) 或其他 [Design Skills](https://x.com/Jackywine/status/2033791236960846249) 来优化 vincenteofcom #active ✅ 2026-04-17
 第一次需要使用 teach 给它生成设计 UI 的上下文。如果是全新页面直接让它创建，如果是历史页面就让它不断  critique 。
 
+[Vercel 发布了官方的 design.md 文件](https://x.com/vikingmute/status/2067784493675762146)
+
 
 
 # References
