@@ -9,11 +9,12 @@ Tags: [[invest]]
 3. 重视创始人，喜欢创始人当 CEO 的企业
 4. 企业能够保持长期演进
 
-他的 c
+他的 conviction 很重，持仓集中，而且不怎么看估值，拿的时间也很长。不过这也注定了他的回撤会很大。
+我觉得我做不到像他这样，buffet 的风格更适合我，因此我需要我的退休金现金流账户。
 
 # Todos
 
-- [ ] 分析 Ron Baron 是一个怎样的投资者 #active 
+- [x] 分析 Ron Baron 是一个怎样的投资者 #active ✅ 2026-07-04
 
 # References
 https://x.com/realCaigu/status/2066452150688108748
