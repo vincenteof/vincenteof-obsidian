@@ -82,8 +82,6 @@ https://variant.com/
 
 [Vercel 发布了官方的 design.md 文件](https://x.com/vikingmute/status/2067784493675762146)
 
-
-
 # References
 ## insight
 https://x.com/koylanai/status/2025286163641118915
