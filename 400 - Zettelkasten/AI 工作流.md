@@ -69,9 +69,6 @@ openclaw 可能只是一个过渡的产品，ai agent 的发展大概率会快�
 
 
 ## usage
-一人软件开发的 Agent 化
-
-审计职能合约
 
 ### UI 设计
 [宝藏小众设计 Prompts 网站](https://www.designprompts.dev/)
@@ -81,6 +78,8 @@ https://variant.com/
 第一次需要使用 teach 给它生成设计 UI 的上下文。如果是全新页面直接让它创建，如果是历史页面就让它不断  critique 。
 
 [Vercel 发布了官方的 design.md 文件](https://x.com/vikingmute/status/2067784493675762146)
+可以直接追踪 [这个文件](https://vercel.com/design.md)
+
 
 # References
 ## insight
